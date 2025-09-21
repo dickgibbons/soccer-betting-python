@@ -1,0 +1,39 @@
+league_name,league_id,country,tier,season_format,current_season,status,betting_factors_configured,last_updated
+Premier League,1625,England,1,2025-26,2025-26,Active,Yes,2025-09-06
+Championship,TBD,England,2,2025-26,2025-26,ID Needed,Yes,2025-09-06
+FA Trophy,TBD,England,3,2025-26,2025-26,ID Needed,Yes,2025-09-06
+La Liga,1729,Spain,1,2025-26,2025-26,Active,Yes,2025-09-06
+Bundesliga,1854,Germany,1,2025-26,2025-26,Active,Yes,2025-09-06
+Serie A,2105,Italy,1,2025-26,2025-26,Active,Yes,2025-09-06
+Ligue 1,1843,France,1,2025-26,2025-26,Active,Yes,2025-09-06
+Eredivisie,TBD,Netherlands,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+UEFA Champions League,TBD,Europe,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+UEFA Europa League,TBD,Europe,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+UEFA Europa Conference League,TBD,Europe,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+FIFA Club World Cup,TBD,International,0,2025,2025,ID Needed,Yes,2025-09-06
+FIFA Club World Cup Playin,TBD,International,0,2025,2025,ID Needed,Yes,2025-09-06
+WC Qualification Europe,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+WC Qualification Africa,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+WC Qualification Asia,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+WC Qualification South America,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+WC Qualification CONCACAF,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+WC Qualification Oceania,TBD,International,0,2025-26,2025-26,ID Needed,Yes,2025-09-06
+MLS,TBD,USA,1,2025,2025,ID Needed,Yes,2025-09-06
+USL League One,TBD,USA,2,2025,2025,ID Needed,Yes,2025-09-06
+NWSL,TBD,USA,1,2025,2025,ID Needed,Yes,2025-09-06
+Liga MX,TBD,Mexico,1,2025,2025,ID Needed,Yes,2025-09-06
+Copa MX,TBD,Mexico,2,2025,2025,ID Needed,Yes,2025-09-06
+Brazil Serie A,TBD,Brazil,1,2025,2025,ID Needed,Yes,2025-09-06
+Brazil Serie B,TBD,Brazil,2,2025,2025,ID Needed,Yes,2025-09-06
+Primera División,TBD,Argentina,1,2025,2025,ID Needed,Yes,2025-09-06
+Copa Libertadores,TBD,South America,0,2025,2025,ID Needed,Yes,2025-09-06
+Pro League,TBD,Belgium,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+Superlig,TBD,Denmark,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+First League,TBD,Czech Republic,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+Eliteserien,TBD,Norway,1,2025,2025,ID Needed,Yes,2025-09-06
+First Division,TBD,Norway,2,2025,2025,ID Needed,Yes,2025-09-06
+LigaPro,TBD,Portugal,2,2025-26,2025-26,ID Needed,Yes,2025-09-06
+Super League,TBD,Switzerland,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+Süper Lig,TBD,Turkey,1,2025-26,2025-26,ID Needed,Yes,2025-09-06
+CONCACAF Central American Cup,TBD,International,0,2025,2025,ID Needed,Yes,2025-09-06
+CONCACAF Caribbean Club Championship,TBD,International,0,2025,2025,ID Needed,Yes,2025-09-06

@@ -1,0 +1,75 @@
+league_name,league_id,country,tier,season_format,current_season,status,betting_factors_configured,last_updated
+Primera División,5500,Argentina,1,2025,2025,Active,Yes,09/08/25
+Pro League,2400,Belgium,1,2025-26,2025-26,Active,Yes,09/08/25
+Brazil Serie A,5400,Brazil,1,2025,2025,Active,Yes,09/08/25
+Brazil Serie B,5401,Brazil,2,2025,2025,Active,Yes,09/08/25
+First League,6400,Czech Republic,1,2025-26,2025-26,Active,Yes,09/08/25
+Superlig,6200,Denmark,1,2025-26,2025-26,Active,Yes,09/08/25
+Premier League,1625,England,1,2025-26,2025-26,Active,Yes,09/08/25
+Championship,1626,England,2,2025-26,2025-26,Active,Yes,09/08/25
+FA Trophy,1632,England,3,2025-26,2025-26,Active,Yes,09/08/25
+UEFA Champions League,3000,Europe,0,2025-26,2025-26,Active,Yes,09/08/25
+UEFA Europa League,3001,Europe,0,2025-26,2025-26,Active,Yes,09/08/25
+UEFA Europa Conference League,3002,Europe,0,2025-26,2025-26,Active,Yes,09/08/25
+Ligue 1,1843,France,1,2025-26,2025-26,Active,Yes,09/08/25
+Bundesliga,1854,Germany,1,2025-26,2025-26,Active,Yes,09/08/25
+FIFA Club World Cup,4000,International,0,2025,2025,Active,Yes,09/08/25
+FIFA Club World Cup Playin,4001,International,0,2025,2025,Active,Yes,09/08/25
+WC Qualification Europe,4100,International,0,2025-26,2025-26,Active,Yes,09/08/25
+WC Qualification Africa,4101,International,0,2025-26,2025-26,Active,Yes,09/08/25
+WC Qualification Asia,4102,International,0,2025-26,2025-26,Active,Yes,09/08/25
+WC Qualification South America,4103,International,0,2025-26,2025-26,Active,Yes,09/08/25
+WC Qualification CONCACAF,4104,International,0,2025-26,2025-26,Active,Yes,09/08/25
+WC Qualification Oceania,4105,International,0,2025-26,2025-26,Active,Yes,09/08/25
+CONCACAF Central American Cup,7001,International,0,2025,2025,Active,Yes,09/08/25
+CONCACAF Caribbean Club Championship,7002,International,0,2025,2025,Active,Yes,09/08/25
+Serie A,2105,Italy,1,2025-26,2025-26,Active,Yes,09/08/25
+Liga MX,5200,Mexico,1,2025,2025,Active,Yes,09/08/25
+Copa MX,5202,Mexico,2,2025,2025,Active,Yes,09/08/25
+Eredivisie,2200,Netherlands,1,2025-26,2025-26,Active,Yes,09/08/25
+Eliteserien,6000,Norway,1,2025,2025,Active,Yes,09/08/25
+First Division,6001,Norway,2,2025,2025,Active,Yes,09/08/25
+LigaPro,2301,Portugal,2,2025-26,2025-26,Active,Yes,09/08/25
+Copa Libertadores,5300,South America,0,2025,2025,Active,Yes,09/08/25
+La Liga,1729,Spain,1,2025-26,2025-26,Active,Yes,09/08/25
+Super League,6700,Switzerland,1,2025-26,2025-26,Active,Yes,09/08/25
+Süper Lig,6900,Turkey,1,2025-26,2025-26,Active,Yes,09/08/25
+MLS,5000,USA,1,2025,2025,Active,Yes,09/08/25
+USL League One,5002,USA,2,2025,2025,Active,Yes,09/08/25
+NWSL,5003,USA,1,2025,2025,Active,Yes,09/08/25
+League One,1627,England,3,2025-26,2025-26,Active,Yes,09/08/25
+League Two,1628,England,4,2025-26,2025-26,Active,Yes,09/08/25
+National League,1629,England,5,2025-26,2025-26,Active,Yes,09/08/25
+FA Cup,1630,England,0,2025-26,2025-26,Active,Yes,09/08/25
+EFL Cup,1631,England,0,2025-26,2025-26,Active,Yes,09/08/25
+Segunda División,1730,Spain,2,2025-26,2025-26,Active,Yes,09/08/25
+Copa del Rey,1731,Spain,0,2025-26,2025-26,Active,Yes,09/08/25
+2. Bundesliga,1855,Germany,2,2025-26,2025-26,Active,Yes,09/08/25
+3. Liga,1856,Germany,3,2025-26,2025-26,Active,Yes,09/08/25
+DFB-Pokal,1857,Germany,0,2025-26,2025-26,Active,Yes,09/08/25
+Serie B,2106,Italy,2,2025-26,2025-26,Active,Yes,09/08/25
+Coppa Italia,2107,Italy,0,2025-26,2025-26,Active,Yes,09/08/25
+Ligue 2,1844,France,2,2025-26,2025-26,Active,Yes,09/08/25
+Coupe de France,1845,France,0,2025-26,2025-26,Active,Yes,09/08/25
+Eerste Divisie,2201,Netherlands,2,2025-26,2025-26,Active,Yes,09/08/25
+KNVB Cup,2202,Netherlands,0,2025-26,2025-26,Active,Yes,09/08/25
+Primeira Liga,2300,Portugal,1,2025-26,2025-26,Active,Yes,09/08/25
+Taça de Portugal,2302,Portugal,0,2025-26,2025-26,Active,Yes,09/08/25
+Belgian Cup,2401,Belgium,0,2025-26,2025-26,Active,Yes,09/08/25
+Scottish Premiership,2500,Scotland,1,2025-26,2025-26,Active,Yes,09/08/25
+Scottish Championship,2501,Scotland,2,2025-26,2025-26,Active,Yes,09/08/25
+Scottish Cup,2502,Scotland,0,2025-26,2025-26,Active,Yes,09/08/25
+UEFA Nations League,3003,Europe,0,2025-26,2025-26,Active,Yes,09/08/25
+USL Championship,5001,USA,2,2025,2025,Active,Yes,09/08/25
+US Open Cup,5004,USA,0,2025,2025,Active,Yes,09/08/25
+Canadian Premier League,5100,Canada,1,2025,2025,Active,Yes,09/08/25
+Liga de Expansión MX,5201,Mexico,2,2025,2025,Active,Yes,09/08/25
+Copa Sudamericana,5301,South America,0,2025,2025,Active,Yes,09/08/25
+Copa do Brasil,5402,Brazil,0,2025,2025,Active,Yes,09/08/25
+Copa Argentina,5501,Argentina,0,2025,2025,Active,Yes,09/08/25
+Allsvenskan,6100,Sweden,1,2025,2025,Active,Yes,09/08/25
+Veikkausliiga,6300,Finland,1,2025,2025,Active,Yes,09/08/25
+Ekstraklasa,6500,Poland,1,2025-26,2025-26,Active,Yes,09/08/25
+Liga I,6600,Romania,1,2025-26,2025-26,Active,Yes,09/08/25
+Austrian Bundesliga,6800,Austria,1,2025-26,2025-26,Active,Yes,09/08/25
+CONCACAF Champions Cup,7000,International,0,2025,2025,Active,Yes,09/08/25

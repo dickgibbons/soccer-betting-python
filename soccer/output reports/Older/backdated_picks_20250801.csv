@@ -1,0 +1,11 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,recommended_stake_pct,edge_percent,confidence_percent,expected_value,quality_score,risk_level
+2025-08-01,19:45,Leeds United,Leicester City,Championship,Over 9.5 Corners,Over 9.5 Total Corners,2.0670300383517404,8.0,68.6,81.5,0.686,0.575,Medium Risk
+2025-08-01,20:45,Juventus,Atalanta,Serie A,Over 9.5 Corners,Over 9.5 Total Corners,2.0180097705300346,8.0,67.5,83.0,0.675,0.572,Medium Risk
+2025-08-01,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,Over 9.5 Total Corners,2.053286849022116,8.0,55.2,75.6,0.552,0.463,Medium Risk
+2025-08-01,20:00,Manchester United,Arsenal,Premier League,Over 9.5 Corners,Over 9.5 Total Corners,2.057311187854877,8.0,48.6,72.2,0.486,0.407,Medium Risk
+2025-08-01,21:00,Real Madrid,Real Betis,La Liga,Over 1.5,Over 1.5 Goals,1.8705132990262694,8.0,41.5,75.7,0.415,0.368,Medium Risk
+2025-08-01,19:00,LAFC,LA Galaxy,MLS,Over 11.5 Corners,Over 11.5 Total Corners,2.301396637317239,8.0,39.6,60.7,0.396,0.309,Medium Risk
+2025-08-01,19:00,LAFC,LA Galaxy,MLS,Over 1.5,Over 1.5 Goals,1.2597375843006837,8.0,10.1,87.4,0.101,0.183,Low Risk
+2025-08-01,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home/Away,Home Win or Away Win (No Draw),1.39,8.0,12.1,80.7,0.121,0.177,Low Risk
+2025-08-01,21:00,Real Madrid,Real Betis,La Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.9371748614209625,8.0,18.8,61.3,0.188,0.166,Medium Risk
+2025-08-01,21:00,Real Madrid,Real Betis,La Liga,Draw/Away,Draw or Away Win,1.87,7.3,16.0,62.0,0.16,0.148,Medium Risk

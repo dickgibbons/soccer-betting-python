@@ -1,0 +1,218 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,stake_pct,edge_pct,confidence_pct,quality_score,match_status,bet_outcome,home_score,away_score,total_goals,total_corners,btts,bet_amount,potential_win,actual_pnl,verified_result,running_total,win_rate,total_picks
+2025-08-01,18:00,Team S,Team R,Serie B,Over,Over 1.5 Goals,1.22,2.5,27.1,60.0,0.163,Completed,Loss,0,1,1,6,False,25.0,5.5,-25.0,True,-25.0,0.0,1
+2025-08-01,21:00,Team N,Team M,UEFA Champions League,Over,Over 1.5 Goals,1.45,2.5,30.6,63.5,0.194,Completed,Loss,1,0,1,15,False,25.0,11.25,-25.0,True,-50.0,0.0,2
+2025-08-01,18:00,Lyon,PSG,Ligue 1,Over,Over 2.5 Goals,2.19,2.5,28.9,60.0,0.173,Completed,Loss,0,0,0,11,False,25.0,29.75,-25.0,True,-75.0,0.0,3
+2025-08-02,18:30,Sevilla,Atletico Madrid,La Liga,Over,Over 2.5 Goals,2.46,2.5,10.0,74.4,0.074,Completed,Win,4,1,5,7,True,25.0,36.5,36.5,True,-38.5,25.0,4
+2025-08-02,20:00,Team H,Team C,UEFA Conference League,Both Teams to Score,Both Teams to Score - Yes,2.0,2.5,15.6,77.8,0.121,Completed,Loss,1,0,1,11,False,25.0,25.0,-25.0,True,-63.5,20.0,5
+2025-08-02,15:00,Liverpool,Manchester United,Premier League,Both Teams to Score,Both Teams to Score - No,1.85,2.5,11.7,81.5,0.095,Completed,Win,0,4,4,12,False,25.0,21.25,21.25,True,-42.25,33.33333333333333,6
+2025-08-02,15:00,Team I,Team H,World Cup - Qualification CONCACAF,Over,Over 2.5 Goals,2.71,2.5,13.1,60.0,0.079,Completed,Win,4,1,5,6,True,25.0,42.75,42.75,True,0.5,42.857142857142854,7
+2025-08-02,15:00,Team G,Team J,USL Championship,Both Teams to Score,Both Teams to Score - No,1.72,2.5,9.6,61.5,0.059,Completed,Loss,1,1,2,13,True,25.0,18.0,-25.0,True,-24.5,37.5,8
+2025-08-02,18:00,Team O,Team N,Serie B,Both Teams to Score,Both Teams to Score - Yes,1.86,2.5,40.1,68.0,0.273,Completed,Loss,1,1,2,9,True,25.0,21.5,-25.0,True,-49.5,33.33333333333333,9
+2025-08-02,20:00,Team T,Team G,Liga MX,Over,Over 9.5 Total Corners,1.87,2.5,10.2,65.0,0.066,Completed,Loss,1,0,1,8,False,25.0,21.75,-25.0,True,-74.5,30.0,10
+2025-08-02,15:00,Team R,Team H,UEFA Conference League,Under,Under 2.5 Goals,1.57,2.5,24.5,60.0,0.147,Completed,Loss,4,1,5,8,True,25.0,14.25,-25.0,True,-99.5,27.27272727272727,11
+2025-08-02,15:00,Crystal Palace,Brighton,Premier League,Over,Over 1.5 Goals,1.33,2.5,32.4,71.7,0.232,Completed,Loss,0,2,2,9,False,25.0,8.25,-25.0,True,-124.5,25.0,12
+2025-08-02,15:00,Team T,Team D,UEFA Conference League,Over,Over 9.5 Total Corners,2.8,2.5,38.3,85.0,0.326,Completed,Loss,2,0,2,8,False,25.0,45.0,-25.0,True,-149.5,23.076923076923077,13
+2025-08-02,21:00,Team F,Team A,UEFA Champions League,Over,Over 1.5 Goals,1.31,2.5,17.5,64.0,0.112,Completed,Loss,0,0,0,7,False,25.0,7.75,-25.0,True,-174.5,21.428571428571427,14
+2025-08-03,15:00,Team J,Team A,World Cup - Qualification Europe,Over,Over 2.5 Goals,2.17,2.5,6.3,85.0,0.054,Completed,Loss,1,2,3,13,True,25.0,29.25,-25.0,True,-199.5,20.0,15
+2025-08-03,18:45,Team H,Team D,UEFA Champions League,Over,Over 2.5 Goals,2.53,2.5,11.7,72.5,0.085,Completed,Win,3,1,4,6,True,25.0,38.25,38.25,True,-161.25,25.0,16
+2025-08-03,15:30,Borussia Dortmund,Bayer Leverkusen,Bundesliga,Both Teams to Score,Both Teams to Score - No,2.1,2.5,15.8,60.5,0.096,Completed,Loss,5,1,6,8,True,25.0,27.5,-25.0,True,-186.25,23.52941176470588,17
+2025-08-03,18:45,Team M,Team L,UEFA Champions League,Over,Over 9.5 Total Corners,2.43,2.5,15.8,74.9,0.118,Completed,Loss,2,0,2,16,False,25.0,35.75,-25.0,True,-211.25,22.22222222222222,18
+2025-08-03,18:00,Team C,Team J,UEFA Conference League,Both Teams to Score,Both Teams to Score - Yes,1.79,2.5,5.2,75.3,0.039,Completed,Win,1,3,4,11,True,25.0,19.75,19.75,True,-191.5,26.31578947368421,19
+2025-08-03,18:00,Team D,Team S,Brazilian Serie A,Both Teams to Score,Both Teams to Score - Yes,2.15,2.5,15.1,74.9,0.113,Completed,Loss,0,1,1,8,False,25.0,28.75,-25.0,True,-216.5,25.0,20
+2025-08-03,18:00,Team K,Team R,World Cup - Qualification Europe,Over,Over 1.5 Goals,1.45,2.5,26.5,69.5,0.184,Completed,Win,1,1,2,16,True,25.0,11.25,11.25,True,-205.25,28.57142857142857,21
+2025-08-03,18:45,Team R,Team I,UEFA Europa League,Both Teams to Score,Both Teams to Score - Yes,2.0,2.5,7.4,68.7,0.051,Completed,Win,1,2,3,13,True,25.0,25.0,25.0,True,-180.25,31.818181818181817,22
+2025-08-03,20:00,Team H,Team G,USL Championship,Over,Over 1.5 Goals,1.4,2.5,43.0,67.3,0.289,Completed,Loss,0,0,0,11,False,25.0,10.0,-25.0,True,-205.25,30.434782608695656,23
+2025-08-04,20:00,Team A,Team I,Championship,Over,Over 2.5 Goals,1.68,2.5,8.5,69.5,0.059,Completed,Loss,0,0,0,6,False,25.0,17.0,-25.0,True,-230.25,29.166666666666668,24
+2025-08-05,20:00,Team G,Team K,World Cup - Qualification CONCACAF,Over,Over 2.5 Goals,1.85,2.5,11.2,71.1,0.08,Completed,Loss,2,0,2,16,False,25.0,21.25,-25.0,True,-255.25,28.000000000000004,25
+2025-08-05,21:00,Team M,Team J,UEFA Champions League,Under,Under 2.5 Goals,1.85,2.5,18.5,67.7,0.125,Completed,Loss,0,1,1,9,False,25.0,21.25,-25.0,True,-280.25,26.923076923076923,26
+2025-08-05,18:00,Team F,Team A,Serie B,Over,Over 1.5 Goals,1.44,2.5,30.8,70.1,0.216,Completed,Win,0,2,2,7,False,25.0,11.0,11.0,True,-269.25,29.629629629629626,27
+2025-08-06,20:00,Team E,Team J,League One,Over,Over 1.5 Goals,1.47,2.5,17.9,68.8,0.123,Completed,Win,1,1,2,7,True,25.0,11.75,11.75,True,-257.5,32.142857142857146,28
+2025-08-06,18:00,Team B,Team E,Brazilian Serie B,Over,Over 1.5 Goals,1.46,2.5,15.5,81.5,0.126,Completed,Win,0,3,3,7,False,25.0,11.5,11.5,True,-246.0,34.48275862068966,29
+2025-08-06,18:45,Team R,Team T,UEFA Europa League,Over,Over 1.5 Goals,1.4,2.5,7.6,80.6,0.061,Completed,Win,2,3,5,10,True,25.0,10.0,10.0,True,-236.0,36.666666666666664,30
+2025-08-06,15:30,Eintracht Frankfurt,Union Berlin,Bundesliga,Under,Under 2.5 Goals,1.91,2.5,33.8,60.8,0.206,Completed,Loss,2,1,3,6,True,25.0,22.75,-25.0,True,-261.0,35.483870967741936,31
+2025-08-06,20:00,Team O,Team T,Brazilian Serie A,Away,Away Team Under 1.5 Goals,1.83,2.5,25.7,60.0,0.154,Completed,Loss,0,2,2,16,False,25.0,20.75,-25.0,True,-286.0,34.375,32
+2025-08-06,20:00,Team M,Team L,World Cup - Qualification CONCACAF,Under,Under 2.5 Goals,1.55,2.5,18.7,71.8,0.134,Completed,Win,1,1,2,9,True,25.0,13.75,13.75,True,-272.25,36.36363636363637,33
+2025-08-06,16:15,Athletic Bilbao,Villarreal,La Liga,Under,Under 2.5 Goals,1.83,2.5,17.8,81.6,0.145,Completed,Win,1,0,1,13,False,25.0,20.75,20.75,True,-251.5,38.23529411764706,34
+2025-08-07,18:00,Team E,Team B,World Cup - Qualification Europe,Under,Under 2.5 Goals,2.14,2.5,16.8,75.8,0.127,Completed,Loss,0,0,0,10,False,25.0,28.5,-25.0,True,-276.5,37.142857142857146,35
+2025-08-07,18:00,Team R,Team G,Championship,Both Teams to Score,Both Teams to Score - Yes,2.22,2.5,18.8,68.4,0.129,Completed,Loss,0,1,1,7,False,25.0,30.5,-25.0,True,-301.5,36.11111111111111,36
+2025-08-07,20:00,Team M,Team T,UEFA Conference League,Over,Over 2.5 Goals,2.78,2.5,17.7,85.0,0.15,Completed,Loss,1,0,1,9,False,25.0,44.5,-25.0,True,-326.5,35.13513513513514,37
+2025-08-07,20:00,Team A,Team N,World Cup - Qualification Asia,Home,Home Team Under 1.5 Goals,1.74,2.5,18.1,83.0,0.15,Completed,Loss,1,1,2,14,True,25.0,18.5,-25.0,True,-351.5,34.21052631578947,38
+2025-08-08,15:00,Team D,Team T,UEFA Conference League,Over,Over 1.5 Goals,1.45,2.5,16.1,77.3,0.124,Completed,Win,3,2,5,13,True,25.0,11.25,11.25,True,-340.25,35.8974358974359,39
+2025-08-08,18:45,Team S,Team E,UEFA Champions League,Both Teams to Score,Both Teams to Score - No,2.06,2.5,9.5,66.1,0.063,Completed,Loss,1,2,3,16,True,25.0,26.5,-25.0,True,-365.25,35.0,40
+2025-08-08,20:00,Team D,Team H,Brazilian Serie B,Over,Over 2.5 Goals,2.03,2.5,17.3,61.0,0.106,Completed,Loss,0,1,1,11,False,25.0,25.75,-25.0,True,-390.25,34.146341463414636,41
+2025-08-08,18:00,Napoli,Juventus,Serie A,Both Teams to Score,Both Teams to Score - No,2.22,2.5,18.2,61.0,0.111,Completed,Win,1,0,1,9,False,25.0,30.5,30.5,True,-359.75,35.714285714285715,42
+2025-08-08,16:15,Sevilla,Barcelona,La Liga,Over,Over 1.5 Goals,1.27,2.5,26.7,69.0,0.184,Completed,Win,0,2,2,16,False,25.0,6.75,6.75,True,-353.0,37.2093023255814,43
+2025-08-08,18:00,Team F,Team B,World Cup - Qualification Europe,Under,Under 2.5 Goals,1.54,2.5,20.7,61.2,0.127,Completed,Loss,1,2,3,15,True,25.0,13.5,-25.0,True,-378.0,36.36363636363637,44
+2025-08-09,15:00,Team M,Team D,Serie B,Under,Under 2.5 Goals,1.78,2.5,15.0,76.4,0.115,Completed,Win,2,0,2,12,False,25.0,19.5,19.5,True,-358.5,37.77777777777778,45
+2025-08-09,18:00,Team O,Team A,Championship,Over,Over 9.5 Total Corners,2.17,2.5,36.0,83.0,0.299,Completed,Loss,0,0,0,6,False,25.0,29.25,-25.0,True,-383.5,36.95652173913043,46
+2025-08-09,15:00,Team T,Team O,Serie B,Both Teams to Score,Both Teams to Score - Yes,2.0,2.5,24.0,77.4,0.186,Completed,Win,1,1,2,10,True,25.0,25.0,25.0,True,-358.5,38.297872340425535,47
+2025-08-09,18:00,Fiorentina,Atalanta,Serie A,Under,Under 2.5 Goals,1.72,2.5,33.2,79.9,0.265,Completed,Loss,1,2,3,9,True,25.0,18.0,-25.0,True,-383.5,37.5,48
+2025-08-09,15:00,Roma,Lazio,Serie A,Over,Over 2.5 Goals,2.64,2.5,16.8,60.2,0.101,Completed,Win,3,0,3,16,False,25.0,41.0,41.0,True,-342.5,38.775510204081634,49
+2025-08-09,20:00,Team N,Team I,UEFA Conference League,Both Teams to Score,Both Teams to Score - No,2.44,2.5,21.0,75.5,0.159,Completed,Win,0,2,2,13,False,25.0,36.0,36.0,True,-306.5,40.0,50
+2025-08-09,15:00,Team F,Team J,Brazilian Serie A,Over,Over 2.5 Goals,2.05,2.5,20.6,71.4,0.147,Completed,Loss,1,0,1,6,False,25.0,26.25,-25.0,True,-331.5,39.21568627450981,51
+2025-08-09,20:00,Team A,Team M,World Cup - Qualification Africa,Over,Over 1.5 Goals,1.47,2.5,18.1,79.8,0.144,Completed,Loss,0,2,2,11,False,25.0,11.75,-25.0,True,-356.5,38.46153846153847,52
+2025-08-09,22:30,LA Galaxy,Inter Miami,MLS,Over,Over 2.5 Goals,1.96,2.5,8.9,61.9,0.055,Completed,Loss,0,0,0,13,False,25.0,24.0,-25.0,True,-381.5,37.735849056603776,53
+2025-08-10,17:30,Newcastle,Chelsea,Premier League,Away,Away Team Under 1.5 Goals,1.99,2.5,22.7,84.1,0.191,Completed,Loss,1,0,1,6,False,25.0,24.75,-25.0,True,-406.5,37.03703703703704,54
+2025-08-10,22:30,Atlanta United,Portland Timbers,MLS,Under,Under 2.5 Goals,2.15,2.5,18.1,70.3,0.127,Completed,Loss,0,1,1,6,False,25.0,28.75,-25.0,True,-431.5,36.36363636363637,55
+2025-08-10,20:00,Team E,Team L,World Cup - Qualification Africa,Over,Over 1.5 Goals,1.25,2.5,26.2,85.0,0.223,Completed,Loss,1,1,2,11,True,25.0,6.25,-25.0,True,-456.5,35.714285714285715,56
+2025-08-10,18:00,Team S,Team E,World Cup - Qualification Asia,Over,Over 1.5 Goals,1.28,2.5,16.8,77.9,0.131,Completed,Loss,1,0,1,11,False,25.0,7.0,-25.0,True,-481.5,35.08771929824561,57
+2025-08-10,15:00,Team H,Team I,World Cup - Qualification CONCACAF,Over,Over 2.5 Goals,2.64,2.5,41.8,67.8,0.283,Completed,Loss,4,0,4,15,False,25.0,41.0,-25.0,True,-506.5,34.48275862068966,58
+2025-08-10,20:00,Team M,Team F,Brazilian Serie B,Over,Over 2.5 Goals,2.11,2.5,9.5,74.8,0.071,Completed,Loss,0,0,0,11,False,25.0,27.75,-25.0,True,-531.5,33.89830508474576,59
+2025-08-10,15:00,Team E,Team O,Brazilian Serie B,Over,Over 1.5 Goals,1.35,2.5,13.1,62.5,0.082,Completed,Win,2,2,4,15,True,25.0,8.75,8.75,True,-522.75,35.0,60
+2025-08-11,20:00,Team P,Team G,World Cup - Qualification Asia,Over,Over 9.5 Total Corners,2.31,2.5,28.4,85.0,0.241,Completed,Loss,5,2,7,14,True,25.0,32.75,-25.0,True,-547.75,34.42622950819672,61
+2025-08-11,20:00,Team B,Team Q,League One,Under,Under 2.5 Goals,1.69,2.5,16.9,64.6,0.109,Completed,Win,2,0,2,12,False,25.0,17.25,17.25,True,-530.5,35.483870967741936,62
+2025-08-12,21:00,Team N,Team J,UEFA Champions League,Both Teams to Score,Both Teams to Score - Yes,2.23,2.5,15.9,69.3,0.11,Completed,Win,2,1,3,7,True,25.0,30.75,30.75,True,-499.75,36.507936507936506,63
+2025-08-12,20:00,Team T,Team J,World Cup - Qualification Europe,Over,Over 2.5 Goals,1.94,2.5,17.0,73.7,0.125,Completed,Loss,2,0,2,16,False,25.0,23.5,-25.0,True,-524.75,35.9375,64
+2025-08-12,21:00,Team A,Team R,UEFA Europa League,Over,Over 1.5 Goals,1.39,2.5,12.8,75.9,0.097,Completed,Loss,0,1,1,16,False,25.0,9.75,-25.0,True,-549.75,35.38461538461539,65
+2025-08-12,18:00,Team E,Team C,World Cup - Qualification Asia,Both Teams to Score,Both Teams to Score - No,2.42,2.5,23.8,67.1,0.16,Completed,Loss,1,0,1,9,False,25.0,35.5,-25.0,True,-574.75,34.84848484848485,66
+2025-08-12,20:00,Team J,Team N,World Cup - Qualification CONCACAF,Away,Away Team Under 1.5 Goals,1.99,2.5,27.0,68.9,0.186,Completed,Loss,2,3,5,6,True,25.0,24.75,-25.0,True,-599.75,34.32835820895522,67
+2025-08-13,20:00,Team P,Team H,Serie B,Over,Over 1.5 Goals,1.38,2.5,13.8,81.2,0.112,Completed,Loss,0,1,1,8,False,25.0,9.5,-25.0,True,-624.75,33.82352941176471,68
+2025-08-13,17:30,Manchester City,West Ham,Premier League,Away,Away Team Under 1.5 Goals,2.75,2.5,41.2,70.6,0.291,Completed,Win,1,0,1,15,False,25.0,43.75,43.75,True,-581.0,34.78260869565217,69
+2025-08-13,18:00,Team H,Team P,Brazilian Serie B,Over,Over 1.5 Goals,1.25,2.5,28.9,70.2,0.203,Completed,Loss,0,1,1,12,False,25.0,6.25,-25.0,True,-606.0,34.285714285714285,70
+2025-08-13,15:00,Team C,Team I,Championship,Under,Under 2.5 Goals,1.88,2.5,17.6,71.8,0.126,Completed,Loss,3,2,5,13,True,25.0,22.0,-25.0,True,-631.0,33.80281690140845,71
+2025-08-14,21:00,Team S,Team T,UEFA Europa League,Over,Over 2.5 Goals,1.82,2.5,5.6,69.0,0.039,Completed,Loss,5,1,6,9,True,25.0,20.5,-25.0,True,-656.0,33.33333333333333,72
+2025-08-14,15:00,Team G,Team H,World Cup - Qualification CONCACAF,Both Teams to Score,Both Teams to Score - No,2.48,2.5,12.2,60.0,0.073,Completed,Loss,1,2,3,15,True,25.0,37.0,-25.0,True,-681.0,32.87671232876712,73
+2025-08-14,19:30,Inter Miami,Seattle Sounders,MLS,Away,Away Team Under 1.5 Goals,2.17,2.5,22.6,60.6,0.137,Completed,Loss,0,2,2,10,False,25.0,29.25,-25.0,True,-706.0,32.432432432432435,74
+2025-08-14,20:00,Team H,Team R,World Cup - Qualification Asia,Over,Over 2.5 Goals,2.71,2.5,9.6,80.1,0.077,Completed,Loss,0,0,0,14,False,25.0,42.75,-25.0,True,-731.0,32.0,75
+2025-08-15,20:00,Team P,Team N,Championship,Over,Over 1.5 Goals,1.32,2.5,37.3,73.6,0.275,Completed,Win,0,2,2,12,False,25.0,8.0,8.0,True,-723.0,32.89473684210527,76
+2025-08-15,20:00,Team M,Team B,Championship,Over,Over 1.5 Goals,1.25,2.5,27.4,65.5,0.179,Completed,Loss,0,2,2,6,False,25.0,6.25,-25.0,True,-748.0,32.467532467532465,77
+2025-08-15,18:00,Team A,Team M,Brazilian Serie B,Under,Under 2.5 Goals,1.71,2.5,19.8,60.0,0.119,Completed,Win,1,1,2,10,True,25.0,17.75,17.75,True,-730.25,33.33333333333333,78
+2025-08-16,18:00,Juventus,Fiorentina,Serie A,Over,Over 1.5 Goals,1.19,2.5,22.5,60.0,0.135,Completed,Loss,0,1,1,6,False,25.0,4.75,-25.0,True,-755.25,32.91139240506329,79
+2025-08-16,15:00,Team I,Team S,World Cup - Qualification Europe,Home,Home Team Under 1.5 Goals,2.94,2.5,25.1,67.7,0.17,Completed,Loss,3,0,3,6,False,25.0,48.5,-25.0,True,-780.25,32.5,80
+2025-08-16,20:00,Team S,Team E,USL Championship,Over,Over 2.5 Goals,1.77,2.5,10.5,65.3,0.069,Completed,Loss,0,2,2,16,False,25.0,19.25,-25.0,True,-805.25,32.098765432098766,81
+2025-08-16,15:00,Team E,Team C,World Cup - Qualification Europe,Home,Home Team Under 1.5 Goals,2.5,2.5,12.1,61.0,0.074,Completed,Loss,2,1,3,8,True,25.0,37.5,-25.0,True,-830.25,31.70731707317073,82
+2025-08-16,18:00,Team K,Team G,Brazilian Serie A,Away,Away Team Under 1.5 Goals,3.41,2.5,22.9,67.8,0.155,Completed,Win,1,0,1,6,False,25.0,60.25,60.25,True,-770.0,32.53012048192771,83
+2025-08-16,22:30,Inter Miami,LAFC,MLS,Both Teams to Score,Both Teams to Score - No,1.97,2.5,26.1,71.0,0.185,Completed,Win,1,0,1,16,False,25.0,24.25,24.25,True,-745.75,33.33333333333333,84
+2025-08-16,20:00,Team B,Team E,World Cup - Qualification Europe,Both Teams to Score,Both Teams to Score - Yes,1.73,2.5,15.1,75.7,0.114,Completed,Loss,0,0,0,8,False,25.0,18.25,-25.0,True,-770.75,32.94117647058823,85
+2025-08-17,15:00,Manchester United,Brighton,Premier League,Over,Over 1.5 Goals,1.18,2.5,7.9,66.9,0.053,Completed,Loss,2,1,3,10,True,25.0,4.5,-25.0,True,-795.75,32.55813953488372,86
+2025-08-17,15:00,Team P,Team D,Serie B,Home,Home Team Under 1.5 Goals,2.5,2.5,28.9,73.1,0.211,Completed,Loss,2,0,2,10,False,25.0,37.5,-25.0,True,-820.75,32.18390804597701,87
+2025-08-17,21:00,Team T,Team J,UEFA Europa League,Over,Over 1.5 Goals,1.2,2.5,17.9,65.9,0.118,Completed,Loss,1,0,1,6,False,25.0,5.0,-25.0,True,-845.75,31.818181818181817,88
+2025-08-17,20:00,Lyon,Nice,Ligue 1,Under,Under 2.5 Goals,1.88,2.5,12.8,72.8,0.093,Completed,Loss,1,2,3,16,True,25.0,22.0,-25.0,True,-870.75,31.46067415730337,89
+2025-08-17,15:00,Team S,Team N,Championship,Under,Under 2.5 Goals,1.63,2.5,8.9,76.1,0.068,Completed,Win,1,0,1,10,False,25.0,15.75,15.75,True,-855.0,32.22222222222222,90
+2025-08-17,20:00,Team J,Team L,World Cup - Qualification Africa,Over,Over 9.5 Total Corners,1.89,2.5,19.5,74.2,0.145,Completed,Loss,2,2,4,14,True,25.0,22.25,-25.0,True,-880.0,31.868131868131865,91
+2025-08-17,15:00,Liverpool,Arsenal,Premier League,Home,Home Team Under 1.5 Goals,3.09,2.5,25.5,60.1,0.153,Completed,Loss,3,1,4,12,True,25.0,52.25,-25.0,True,-905.0,31.521739130434785,92
+2025-08-17,15:00,Team E,Team C,USL Championship,Over,Over 2.5 Goals,2.33,2.5,7.8,69.8,0.054,Completed,Loss,1,1,2,10,True,25.0,33.25,-25.0,True,-930.0,31.182795698924732,93
+2025-08-17,18:00,Team N,Team Q,World Cup - Qualification CONCACAF,Over,Over 1.5 Goals,1.28,2.5,45.9,64.3,0.295,Completed,Win,1,3,4,8,True,25.0,7.0,7.0,True,-923.0,31.914893617021278,94
+2025-08-17,18:00,Team E,Team L,Championship,Home,Home Team Under 1.5 Goals,2.44,2.5,23.4,74.4,0.174,Completed,Loss,1,1,2,10,True,25.0,36.0,-25.0,True,-948.0,31.57894736842105,95
+2025-08-17,18:00,Team S,Team N,UEFA Conference League,Over,Over 1.5 Goals,1.24,2.5,23.7,68.1,0.161,Completed,Loss,0,2,2,15,False,25.0,6.0,-25.0,True,-973.0,31.25,96
+2025-08-17,19:30,Inter Miami,Atlanta United,MLS,Over,Over 2.5 Goals,1.92,2.5,9.5,65.3,0.062,Completed,Win,2,1,3,9,True,25.0,23.0,23.0,True,-950.0,31.958762886597935,97
+2025-08-18,18:45,Team J,Team Q,UEFA Champions League,Both Teams to Score,Both Teams to Score - No,2.09,2.5,27.0,80.6,0.218,Completed,Win,0,1,1,9,False,25.0,27.25,27.25,True,-922.75,32.6530612244898,98
+2025-08-19,18:00,Team C,Team J,Brazilian Serie A,Both Teams to Score,Both Teams to Score - No,1.83,2.5,22.3,60.0,0.134,Completed,Loss,2,3,5,7,True,25.0,20.75,-25.0,True,-947.75,32.323232323232325,99
+2025-08-19,18:45,Team J,Team E,UEFA Champions League,Both Teams to Score,Both Teams to Score - Yes,1.74,2.5,43.9,83.1,0.365,Completed,Loss,2,2,4,13,True,25.0,18.5,-25.0,True,-972.75,32.0,100
+2025-08-19,20:00,Team S,Team D,Brazilian Serie A,Over,Over 2.5 Goals,2.28,2.5,17.1,72.5,0.124,Completed,Loss,0,2,2,6,False,25.0,32.0,-25.0,True,-997.75,31.683168316831683,101
+2025-08-19,15:00,Team L,Team T,World Cup - Qualification CONCACAF,Away,Away Team Under 1.5 Goals,3.21,2.5,12.3,60.0,0.074,Completed,Loss,1,1,2,16,True,25.0,55.25,-25.0,True,-1022.75,31.372549019607842,102
+2025-08-19,20:45,Fiorentina,Napoli,Serie A,Over,Over 9.5 Total Corners,2.61,2.5,6.1,68.1,0.042,Completed,Loss,3,2,5,15,True,25.0,40.25,-25.0,True,-1047.75,31.06796116504854,103
+2025-08-19,12:30,Liverpool,Arsenal,Premier League,Both Teams to Score,Both Teams to Score - No,2.51,2.5,17.1,60.0,0.103,Completed,Loss,1,3,4,10,True,25.0,37.75,-25.0,True,-1072.75,30.76923076923077,104
+2025-08-20,18:00,Team M,Team J,USL Championship,Both Teams to Score,Both Teams to Score - No,1.92,2.5,24.6,72.1,0.177,Completed,Loss,0,0,0,12,False,25.0,23.0,-25.0,True,-1097.75,30.476190476190478,105
+2025-08-20,18:45,Team N,Team T,UEFA Europa League,Over,Over 2.5 Goals,2.76,2.5,22.0,72.8,0.16,Completed,Win,0,3,3,11,False,25.0,44.0,44.0,True,-1053.75,31.132075471698112,106
+2025-08-20,18:00,Team S,Team H,World Cup - Qualification CONCACAF,Both Teams to Score,Both Teams to Score - Yes,2.01,2.5,14.6,74.6,0.109,Completed,Loss,0,1,1,10,False,25.0,25.25,-25.0,True,-1078.75,30.8411214953271,107
+2025-08-21,15:00,Team F,Team M,League One,Over,Over 1.5 Goals,1.23,2.5,11.2,77.6,0.087,Completed,Win,1,3,4,7,True,25.0,5.75,5.75,True,-1073.0,31.48148148148148,108
+2025-08-21,12:30,Newcastle,Crystal Palace,Premier League,Over,Over 9.5 Total Corners,2.4,2.5,13.8,77.9,0.108,Completed,Loss,2,1,3,6,True,25.0,35.0,-25.0,True,-1098.0,31.19266055045872,109
+2025-08-21,22:30,Portland Timbers,LA Galaxy,MLS,Over,Over 1.5 Goals,1.19,2.5,11.9,79.4,0.094,Completed,Loss,1,0,1,12,False,25.0,4.75,-25.0,True,-1123.0,30.909090909090907,110
+2025-08-22,17:30,RB Leipzig,Wolfsburg,Bundesliga,Home/Away,Home/Away,1.53,2.5,6.6,71.1,0.047,Completed,Loss,1,0,1,11,False,25.0,13.25,-25.0,True,-1148.0,30.630630630630627,111
+2025-08-22,15:00,Team J,Team K,World Cup - Qualification Asia,Over,Over 1.5 Goals,1.41,2.5,21.2,70.2,0.149,Completed,Loss,2,0,2,7,False,25.0,10.25,-25.0,True,-1173.0,30.357142857142854,112
+2025-08-23,15:30,Bayern Munich,Bayer Leverkusen,Bundesliga,Home,Home Team Under 1.5 Goals,1.99,2.5,7.6,60.0,0.046,Completed,Loss,2,2,4,9,True,25.0,24.75,-25.0,True,-1198.0,30.08849557522124,113
+2025-08-23,18:00,Team C,Team F,UEFA Conference League,Over,Over 1.5 Goals,1.15,2.5,24.3,85.0,0.207,Completed,Loss,1,3,4,6,True,25.0,3.75,-25.0,True,-1223.0,29.82456140350877,114
+2025-08-23,18:45,Team D,Team S,UEFA Champions League,Over,Over 1.5 Goals,1.33,2.5,13.9,65.2,0.091,Completed,Loss,2,0,2,11,False,25.0,8.25,-25.0,True,-1248.0,29.565217391304348,115
+2025-08-23,18:00,Team K,Team L,World Cup - Qualification CONCACAF,Over,Over 9.5 Total Corners,2.19,2.5,15.0,67.3,0.101,Completed,Loss,2,0,2,13,False,25.0,29.75,-25.0,True,-1273.0,29.310344827586203,116
+2025-08-23,17:30,Newcastle,Chelsea,Premier League,Over,Over 1.5 Goals,1.24,2.5,21.7,60.0,0.13,Completed,Loss,0,0,0,13,False,25.0,6.0,-25.0,True,-1298.0,29.059829059829063,117
+2025-08-23,20:00,Team I,Team J,Serie B,Over,Over 1.5 Goals,1.41,2.5,15.5,79.7,0.124,Completed,Win,2,0,2,6,False,25.0,10.25,10.25,True,-1287.75,29.66101694915254,118
+2025-08-23,15:00,Monaco,Lille,Ligue 1,Home/Away,Home/Away,1.53,2.5,10.7,82.0,0.088,Completed,Win,0,1,1,14,False,25.0,13.25,13.25,True,-1274.5,30.252100840336134,119
+2025-08-23,21:00,Team O,Team K,UEFA Europa League,Over,Over 1.5 Goals,1.29,2.5,6.7,74.4,0.05,Completed,Loss,0,0,0,9,False,25.0,7.25,-25.0,True,-1299.5,30.0,120
+2025-08-23,20:00,Team B,Team M,USL Championship,Over,Over 9.5 Total Corners,2.09,2.5,22.2,65.2,0.145,Completed,Loss,0,0,0,15,False,25.0,27.25,-25.0,True,-1324.5,29.75206611570248,121
+2025-08-23,20:00,Team M,Team H,Serie B,Over,Over 1.5 Goals,1.34,2.5,15.6,67.1,0.105,Completed,Win,3,1,4,6,True,25.0,8.5,8.5,True,-1316.0,30.327868852459016,122
+2025-08-24,20:45,AC Milan,Fiorentina,Serie A,Both Teams to Score,Both Teams to Score - No,2.1,2.5,5.6,80.0,0.045,Completed,Loss,1,1,2,10,True,25.0,27.5,-25.0,True,-1341.0,30.081300813008134,123
+2025-08-24,20:00,Team N,Team G,USL Championship,Both Teams to Score,Both Teams to Score - Yes,2.36,2.5,25.7,62.5,0.161,Completed,Loss,2,1,3,10,True,25.0,34.0,-25.0,True,-1366.0,29.838709677419356,124
+2025-08-24,22:30,Portland Timbers,LAFC,MLS,Under,Under 2.5 Goals,2.05,2.5,48.2,70.2,0.338,Completed,Loss,2,1,3,14,True,25.0,26.25,-25.0,True,-1391.0,29.599999999999998,125
+2025-08-24,18:00,Team T,Team C,Serie B,Away,Away Team Under 1.5 Goals,2.03,2.5,32.2,81.7,0.263,Completed,Loss,3,0,3,7,False,25.0,25.75,-25.0,True,-1416.0,29.365079365079367,126
+2025-08-24,15:00,Team I,Team E,World Cup - Qualification CONCACAF,Under,Under 2.5 Goals,1.9,2.5,14.5,70.6,0.102,Completed,Loss,1,2,3,11,True,25.0,22.5,-25.0,True,-1441.0,29.133858267716533,127
+2025-08-24,17:30,Crystal Palace,Chelsea,Premier League,Under,Under 2.5 Goals,2.1,2.5,17.6,60.0,0.106,Completed,Loss,0,1,1,7,False,25.0,27.5,-25.0,True,-1466.0,28.90625,128
+2025-08-24,18:00,Lille,Monaco,Ligue 1,Under,Under 2.5 Goals,2.06,2.5,23.6,80.0,0.189,Completed,Loss,4,2,6,12,True,25.0,26.5,-25.0,True,-1491.0,28.68217054263566,129
+2025-08-24,15:00,Team E,Team L,USL Championship,Both Teams to Score,Both Teams to Score - No,2.29,2.5,33.3,82.0,0.273,Completed,Loss,1,1,2,9,True,25.0,32.25,-25.0,True,-1516.0,28.46153846153846,130
+2025-08-25,19:30,Portland Timbers,Atlanta United,MLS,Over,Over 1.5 Goals,1.24,2.5,39.8,63.3,0.252,Completed,Loss,4,0,4,11,False,25.0,6.0,-25.0,True,-1541.0,28.24427480916031,131
+2025-08-25,20:45,Napoli,Atalanta,Serie A,Over,Over 2.5 Goals,2.37,2.5,12.8,61.8,0.079,Completed,Loss,1,2,3,6,True,25.0,34.25,-25.0,True,-1566.0,28.030303030303028,132
+2025-08-25,18:45,Team F,Team B,UEFA Europa League,Over,Over 1.5 Goals,1.41,2.5,59.8,64.2,0.384,Completed,Loss,0,2,2,9,False,25.0,10.25,-25.0,True,-1591.0,27.819548872180448,133
+2025-08-26,20:00,Team F,Team O,World Cup - Qualification Asia,Over,Over 2.5 Goals,2.6,2.5,13.0,63.8,0.083,Completed,Loss,1,0,1,7,False,25.0,40.0,-25.0,True,-1616.0,27.611940298507463,134
+2025-08-26,19:30,Inter Miami,Atlanta United,MLS,Both Teams to Score,Both Teams to Score - Yes,2.21,2.5,17.3,79.2,0.137,Completed,Loss,3,0,3,11,False,25.0,30.25,-25.0,True,-1641.0,27.40740740740741,135
+2025-08-26,18:00,Team G,Team H,Brazilian Serie A,Both Teams to Score,Both Teams to Score - Yes,1.95,2.5,43.3,60.0,0.26,Completed,Loss,2,0,2,12,False,25.0,23.75,-25.0,True,-1666.0,27.205882352941174,136
+2025-08-26,18:00,Team L,Team G,World Cup - Qualification Europe,Over,Over 2.5 Goals,1.6,2.5,22.4,76.6,0.172,Completed,Win,1,2,3,8,True,25.0,15.0,15.0,True,-1651.0,27.73722627737226,137
+2025-08-26,15:00,Team O,Team F,Serie B,Over,Over 9.5 Total Corners,2.03,2.5,41.4,70.5,0.292,Completed,Loss,0,1,1,16,False,25.0,25.75,-25.0,True,-1676.0,27.536231884057973,138
+2025-08-26,15:00,Team B,Team Q,Serie B,Over,Over 2.5 Goals,2.74,2.5,17.8,60.0,0.107,Completed,Loss,0,1,1,14,False,25.0,43.5,-25.0,True,-1701.0,27.33812949640288,139
+2025-08-26,22:30,Portland Timbers,Atlanta United,MLS,Over,Over 2.5 Goals,1.73,2.5,14.5,61.2,0.089,Completed,Loss,1,0,1,16,False,25.0,18.25,-25.0,True,-1726.0,27.142857142857142,140
+2025-08-27,18:00,Nice,Marseille,Ligue 1,Over,Over 2.5 Goals,2.26,2.5,21.9,64.2,0.141,Completed,Loss,1,1,2,12,True,25.0,31.5,-25.0,True,-1751.0,26.95035460992908,141
+2025-08-27,18:00,Team M,Team B,Championship,Over,Over 1.5 Goals,1.25,2.5,13.3,73.7,0.098,Completed,Loss,1,0,1,6,False,25.0,6.25,-25.0,True,-1776.0,26.76056338028169,142
+2025-08-27,21:00,Team A,Team D,UEFA Europa League,Over,Over 9.5 Total Corners,2.3,2.5,7.2,64.3,0.046,Completed,Loss,0,0,0,10,False,25.0,32.5,-25.0,True,-1801.0,26.573426573426573,143
+2025-08-27,20:00,Team T,Team R,World Cup - Qualification CONCACAF,Away,Away Team Under 1.5 Goals,3.41,2.5,33.9,72.4,0.245,Completed,Loss,1,0,1,8,False,25.0,60.25,-25.0,True,-1826.0,26.38888888888889,144
+2025-08-27,20:00,Team J,Team N,Brazilian Serie A,Home,Home Team Under 1.5 Goals,2.47,2.5,30.1,63.5,0.191,Completed,Win,1,0,1,12,False,25.0,36.75,36.75,True,-1789.25,26.89655172413793,145
+2025-08-27,15:00,Team I,Team N,Championship,Over,Over 1.5 Goals,1.17,2.5,29.0,60.0,0.174,Completed,Win,2,0,2,6,False,25.0,4.25,4.25,True,-1785.0,27.397260273972602,146
+2025-08-27,15:00,Team M,Team N,Liga MX,Over,Over 2.5 Goals,1.65,2.5,9.5,66.0,0.063,Completed,Loss,2,1,3,16,True,25.0,16.25,-25.0,True,-1810.0,27.2108843537415,147
+2025-08-27,15:00,Team M,Team I,UEFA Conference League,Over,Over 2.5 Goals,2.66,2.5,11.0,60.0,0.066,Completed,Loss,0,0,0,12,False,25.0,41.5,-25.0,True,-1835.0,27.027027027027028,148
+2025-08-28,17:30,Brighton,Liverpool,Premier League,Over,Over 1.5 Goals,1.32,2.5,18.9,79.3,0.15,Completed,Win,0,2,2,9,False,25.0,8.0,8.0,True,-1827.0,27.516778523489933,149
+2025-08-28,20:00,Team K,Team A,World Cup - Qualification CONCACAF,Over,Over 2.5 Goals,2.16,2.5,7.7,85.0,0.065,Completed,Loss,0,0,0,15,False,25.0,29.0,-25.0,True,-1852.0,27.333333333333332,150
+2025-08-28,20:00,Team F,Team P,UEFA Conference League,Over,Over 1.5 Goals,1.49,2.5,44.2,77.1,0.341,Completed,Loss,0,0,0,13,False,25.0,12.25,-25.0,True,-1877.0,27.1523178807947,151
+2025-08-28,15:30,Eintracht Frankfurt,Bayer Leverkusen,Bundesliga,Over,Over 1.5 Goals,1.36,2.5,28.1,68.3,0.192,Completed,Loss,2,1,3,10,True,25.0,9.0,-25.0,True,-1902.0,26.973684210526315,152
+2025-08-29,21:00,Team R,Team Q,UEFA Europa League,Over,Over 1.5 Goals,1.35,2.5,18.1,81.8,0.148,Completed,Loss,1,2,3,9,True,25.0,8.75,-25.0,True,-1927.0,26.797385620915033,153
+2025-08-29,17:30,Eintracht Frankfurt,Bayer Leverkusen,Bundesliga,Over,Over 2.5 Goals,1.72,2.5,15.2,73.0,0.111,Completed,Loss,1,1,2,11,True,25.0,18.0,-25.0,True,-1952.0,26.623376623376622,154
+2025-08-29,15:00,Team S,Team K,Serie B,Over,Over 1.5 Goals,1.25,2.5,14.1,72.0,0.102,Completed,Loss,2,2,4,13,True,25.0,6.25,-25.0,True,-1977.0,26.451612903225808,155
+2025-08-29,20:00,Team L,Team B,UEFA Conference League,Over,Over 2.5 Goals,2.22,2.5,14.4,69.0,0.099,Completed,Loss,0,1,1,6,False,25.0,30.5,-25.0,True,-2002.0,26.282051282051285,156
+2025-08-29,20:00,Team R,Team A,Championship,Both Teams to Score,Both Teams to Score - No,2.41,2.5,8.6,61.9,0.053,Completed,Loss,1,1,2,11,True,25.0,35.25,-25.0,True,-2027.0,26.11464968152866,157
+2025-08-29,17:30,Wolfsburg,Union Berlin,Bundesliga,Over,Over 1.5 Goals,1.4,2.5,13.3,61.1,0.081,Completed,Loss,1,1,2,15,True,25.0,10.0,-25.0,True,-2052.0,25.949367088607595,158
+2025-08-30,18:00,Team Q,Team G,USL Championship,Away,Away Team Under 1.5 Goals,3.42,2.5,8.6,60.0,0.052,Completed,Loss,2,1,3,11,True,25.0,60.5,-25.0,True,-2077.0,25.78616352201258,159
+2025-08-30,18:00,Team M,Team G,UEFA Conference League,Over,Over 1.5 Goals,1.46,2.5,21.2,72.6,0.154,Completed,Loss,1,1,2,14,True,25.0,11.5,-25.0,True,-2102.0,25.624999999999996,160
+2025-08-30,21:00,Real Madrid,Villarreal,La Liga,Over,Over 1.5 Goals,1.43,2.5,32.1,70.5,0.226,Completed,Loss,2,0,2,15,False,25.0,10.75,-25.0,True,-2127.0,25.465838509316768,161
+2025-08-30,20:00,PSG,Monaco,Ligue 1,Under,Under 2.5 Goals,2.04,2.5,10.6,85.0,0.09,Completed,Loss,3,3,6,10,True,25.0,26.0,-25.0,True,-2152.0,25.308641975308642,162
+2025-08-30,20:00,Team B,Team D,Brazilian Serie B,Over,Over 2.5 Goals,1.73,2.5,17.8,61.3,0.109,Completed,Loss,1,0,1,16,False,25.0,18.25,-25.0,True,-2177.0,25.153374233128833,163
+2025-08-30,18:00,Team H,Team D,World Cup - Qualification Europe,Over,Over 1.5 Goals,1.3,2.5,13.2,75.9,0.1,Completed,Win,2,2,4,11,True,25.0,7.5,7.5,True,-2169.5,25.609756097560975,164
+2025-08-31,18:45,Team P,Team M,UEFA Champions League,Under,Under 2.5 Goals,1.99,2.5,26.8,60.0,0.161,Completed,Loss,2,0,2,14,False,25.0,24.75,-25.0,True,-2194.5,25.454545454545453,165
+2025-08-31,15:00,Liverpool,Manchester City,Premier League,Home/Away,Home/Away,1.38,2.5,22.1,75.0,0.166,Completed,Win,0,1,1,10,False,25.0,9.5,9.5,True,-2185.0,25.903614457831324,166
+2025-08-31,18:45,Team I,Team F,UEFA Champions League,Over,Over 2.5 Goals,2.48,2.5,25.5,72.3,0.184,Completed,Loss,2,0,2,13,False,25.0,37.0,-25.0,True,-2210.0,25.748502994011975,167
+2025-08-31,18:00,Team A,Team Q,Serie B,Over,Over 9.5 Total Corners,2.47,2.5,12.9,60.0,0.077,Completed,Loss,0,0,0,14,False,25.0,36.75,-25.0,True,-2235.0,25.595238095238095,168
+2025-08-31,18:00,Team T,Team F,World Cup - Qualification Africa,Over,Over 2.5 Goals,2.16,2.5,55.0,75.0,0.413,Completed,Loss,0,1,1,8,False,25.0,29.0,-25.0,True,-2260.0,25.443786982248522,169
+2025-08-31,18:00,Juventus,Roma,Serie A,Over,Over 1.5 Goals,1.47,2.5,19.4,60.0,0.116,Completed,Win,2,2,4,8,True,25.0,11.75,11.75,True,-2248.25,25.882352941176475,170
+2025-08-31,15:00,Team A,Team J,League One,Over,Over 1.5 Goals,1.25,2.5,15.4,79.8,0.123,Completed,Loss,1,1,2,9,True,25.0,6.25,-25.0,True,-2273.25,25.730994152046783,171
+2025-09-01,18:45,Team D,Team T,UEFA Europa League,Over,Over 1.5 Goals,1.48,2.5,11.3,73.2,0.083,Completed,Loss,2,2,4,15,True,25.0,12.0,-25.0,True,-2298.25,25.581395348837212,172
+2025-09-01,21:00,Team C,Team P,UEFA Europa League,Over,Over 1.5 Goals,1.16,2.5,14.8,69.3,0.103,Completed,Loss,0,1,1,15,False,25.0,4.0,-25.0,True,-2323.25,25.43352601156069,173
+2025-09-02,20:00,Team C,Team A,World Cup - Qualification Europe,Over,Over 1.5 Goals,1.18,2.5,12.3,75.0,0.092,Completed,Loss,1,0,1,8,False,25.0,4.5,-25.0,True,-2348.25,25.287356321839084,174
+2025-09-02,16:15,Real Sociedad,Sevilla,La Liga,Both Teams to Score,Both Teams to Score - No,1.88,2.5,22.7,67.7,0.154,Completed,Loss,1,1,2,11,True,25.0,22.0,-25.0,True,-2373.25,25.142857142857146,175
+2025-09-02,20:00,Team F,Team P,World Cup - Qualification Asia,Over,Over 1.5 Goals,1.25,2.5,10.7,60.0,0.064,Completed,Loss,1,0,1,7,False,25.0,6.25,-25.0,True,-2398.25,25.0,176
+2025-09-03,15:00,Team D,Team E,League One,Over,Over 1.5 Goals,1.44,2.5,29.6,64.6,0.191,Completed,Loss,0,2,2,15,False,25.0,11.0,-25.0,True,-2423.25,24.858757062146893,177
+2025-09-03,15:00,Lyon,Marseille,Ligue 1,Over,Over 1.5 Goals,1.39,2.5,24.2,61.6,0.149,Completed,Win,2,2,4,7,True,25.0,9.75,9.75,True,-2413.5,25.280898876404496,178
+2025-09-03,17:30,West Ham,Liverpool,Premier League,Under,Under 2.5 Goals,1.97,2.5,31.0,67.9,0.21,Completed,Loss,1,0,1,9,False,25.0,24.25,-25.0,True,-2438.5,25.139664804469277,179
+2025-09-03,21:00,Team I,Team K,UEFA Champions League,Both Teams to Score,Both Teams to Score - Yes,1.82,2.5,22.5,68.1,0.153,Completed,Loss,2,3,5,8,True,25.0,20.5,-25.0,True,-2463.5,25.0,180
+2025-09-03,18:00,Team O,Team D,Brazilian Serie B,Under,Under 2.5 Goals,1.87,2.5,42.1,70.2,0.296,Completed,Loss,3,1,4,11,True,25.0,21.75,-25.0,True,-2488.5,24.861878453038674,181
+2025-09-03,15:00,Team M,Team B,World Cup - Qualification Europe,Over,Over 1.5 Goals,1.24,2.5,23.9,73.9,0.177,Completed,Win,2,1,3,16,True,25.0,6.0,6.0,True,-2482.5,25.274725274725274,182
+2025-09-03,19:30,LA Galaxy,Seattle Sounders,MLS,Away,Away Team Under 1.5 Goals,2.63,2.5,28.1,67.4,0.189,Completed,Win,1,0,1,6,False,25.0,40.75,40.75,True,-2441.75,25.683060109289617,183
+2025-09-04,15:00,Team L,Team T,UEFA Conference League,Over,Over 9.5 Total Corners,2.65,2.5,19.4,73.6,0.143,Completed,Loss,2,1,3,10,True,25.0,41.25,-25.0,True,-2466.75,25.543478260869566,184
+2025-09-04,21:00,Villarreal,Real Sociedad,La Liga,Over,Over 1.5 Goals,1.16,2.5,44.8,70.1,0.314,Completed,Loss,1,0,1,7,False,25.0,4.0,-25.0,True,-2491.75,25.405405405405407,185
+2025-09-04,14:00,Athletic Bilbao,Sevilla,La Liga,Over,Over 1.5 Goals,1.4,2.5,28.4,63.5,0.18,Completed,Loss,1,0,1,7,False,25.0,10.0,-25.0,True,-2516.75,25.268817204301076,186
+2025-09-04,18:45,Team P,Team S,UEFA Europa League,Over,Over 1.5 Goals,1.48,2.5,18.5,85.0,0.157,Completed,Loss,1,3,4,7,True,25.0,12.0,-25.0,True,-2541.75,25.13368983957219,187
+2025-09-05,20:00,Team A,Team O,Championship,Over,Over 1.5 Goals,1.37,2.5,33.6,77.3,0.26,Completed,Loss,0,3,3,6,False,25.0,9.25,-25.0,True,-2566.75,25.0,188
+2025-09-05,15:00,PSG,Lille,Ligue 1,Over,Over 2.5 Goals,2.2,2.5,30.0,75.1,0.225,Completed,Win,1,2,3,8,True,25.0,30.0,30.0,True,-2536.75,25.396825396825395,189
+2025-09-05,20:00,Team P,Team S,World Cup - Qualification CONCACAF,Both Teams to Score,Both Teams to Score - No,1.7,2.5,23.5,60.0,0.141,Completed,Win,0,1,1,14,False,25.0,17.5,17.5,True,-2519.25,25.789473684210527,190
+2025-09-05,18:00,Team Q,Team F,World Cup - Qualification Europe,Over,Over 9.5 Total Corners,1.92,2.5,10.8,60.0,0.065,Completed,Loss,1,4,5,8,True,25.0,23.0,-25.0,True,-2544.25,25.654450261780106,191
+2025-09-06,18:00,Team S,Team N,USL Championship,Both Teams to Score,Both Teams to Score - No,2.32,2.5,20.6,65.7,0.135,Completed,Win,0,0,0,11,False,25.0,33.0,33.0,True,-2511.25,26.041666666666668,192
+2025-09-06,18:00,Team D,Team A,UEFA Conference League,Under,Under 2.5 Goals,1.58,2.5,28.8,69.3,0.2,Completed,Loss,1,1,2,8,True,25.0,14.5,-25.0,True,-2536.25,25.906735751295333,193
+2025-09-06,18:00,Lille,Monaco,Ligue 1,Over,Over 2.5 Goals,2.52,2.5,13.8,71.8,0.099,Completed,Loss,1,1,2,11,True,25.0,38.0,-25.0,True,-2561.25,25.773195876288657,194
+2025-09-06,15:00,Team L,Team N,Brazilian Serie A,Over,Over 1.5 Goals,1.16,2.5,13.5,63.7,0.086,Completed,Win,0,2,2,10,False,25.0,4.0,4.0,True,-2557.25,26.153846153846157,195
+2025-09-06,15:00,Team R,Team S,Championship,Both Teams to Score,Both Teams to Score - No,1.63,2.5,21.9,61.9,0.136,Completed,Loss,0,0,0,8,False,25.0,15.75,-25.0,True,-2582.25,26.02040816326531,196
+2025-09-06,21:00,Sevilla,Real Betis,La Liga,Home/Away,Home/Away,1.24,2.5,21.4,60.0,0.128,Completed,Loss,0,0,0,9,False,25.0,6.0,-25.0,True,-2607.25,25.888324873096447,197
+2025-09-06,18:00,Team S,Team O,League One,Under,Under 2.5 Goals,1.8,2.5,35.8,66.0,0.236,Completed,Loss,1,2,3,15,True,25.0,20.0,-25.0,True,-2632.25,25.757575757575758,198
+2025-09-06,15:00,Team D,Team I,World Cup - Qualification Africa,Over,Over 2.5 Goals,2.45,2.5,22.9,65.9,0.151,Completed,Loss,1,0,1,13,False,25.0,36.25,-25.0,True,-2657.25,25.628140703517587,199
+2025-09-06,18:45,Team M,Team P,UEFA Champions League,Both Teams to Score,Both Teams to Score - No,1.88,2.5,11.0,60.0,0.066,Completed,Loss,1,0,1,10,False,25.0,22.0,-25.0,True,-2682.25,25.5,200
+2025-09-06,18:45,Team P,Team O,UEFA Champions League,Both Teams to Score,Both Teams to Score - Yes,2.28,2.5,12.4,60.0,0.074,Completed,Loss,2,0,2,14,False,25.0,32.0,-25.0,True,-2707.25,25.37313432835821,201
+2025-09-06,15:00,Team C,Team T,Liga MX,Over,Over 2.5 Goals,1.83,2.5,37.7,73.3,0.276,Completed,Loss,2,1,3,9,True,25.0,20.75,-25.0,True,-2732.25,25.247524752475247,202
+2025-09-07,18:00,Team H,Team M,Serie B,Over,Over 1.5 Goals,1.28,2.5,15.6,72.7,0.113,Completed,Win,2,2,4,6,True,25.0,7.0,7.0,True,-2725.25,25.615763546798032,203
+2025-09-07,15:00,Team F,Team L,Championship,Over,Over 2.5 Goals,1.67,2.5,18.7,61.9,0.116,Completed,Loss,0,3,3,11,False,25.0,16.75,-25.0,True,-2750.25,25.49019607843137,204
+2025-09-07,20:00,Team F,Team N,Brazilian Serie A,Under,Under 2.5 Goals,1.58,2.5,7.7,68.7,0.053,Completed,Loss,2,0,2,11,False,25.0,14.5,-25.0,True,-2775.25,25.365853658536587,205
+2025-09-07,18:00,Team O,Team T,UEFA Conference League,Away,Away Team Under 1.5 Goals,3.18,2.5,12.0,76.4,0.092,Completed,Loss,0,0,0,16,False,25.0,54.5,-25.0,True,-2800.25,25.24271844660194,206
+2025-09-07,20:00,Team B,Team H,USL Championship,Away,Away Team Under 1.5 Goals,3.35,2.5,60.0,76.0,0.456,Completed,Loss,1,2,3,9,True,25.0,58.75,-25.0,True,-2825.25,25.120772946859905,207
+2025-09-07,17:30,Bayer Leverkusen,Eintracht Frankfurt,Bundesliga,Over,Over 1.5 Goals,1.45,2.5,14.7,73.7,0.108,Completed,Loss,1,0,1,9,False,25.0,11.25,-25.0,True,-2850.25,25.0,208
+2025-09-08,15:00,Team A,Team D,Serie B,Over,Over 1.5 Goals,1.17,2.5,51.5,60.0,0.309,Completed,Loss,0,0,0,7,False,25.0,4.25,-25.0,True,-2875.25,24.880382775119617,209
+2025-09-09,15:00,Team R,Team Q,World Cup - Qualification Asia,Under,Under 2.5 Goals,1.57,2.5,12.8,70.9,0.091,Completed,Win,0,1,1,9,False,25.0,14.25,14.25,True,-2861.0,25.238095238095237,210
+2025-09-09,20:00,Team A,Team E,Championship,Over,Over 2.5 Goals,1.69,2.5,9.9,62.5,0.062,Completed,Loss,0,0,0,9,False,25.0,17.25,-25.0,True,-2886.0,25.118483412322274,211
+2025-09-09,20:00,Team P,Team G,World Cup - Qualification Europe,Both Teams to Score,Both Teams to Score - Yes,1.94,2.5,36.4,60.0,0.218,Completed,Loss,1,0,1,10,False,25.0,23.5,-25.0,True,-2911.0,25.0,212
+2025-09-09,15:00,Lazio,Roma,Serie A,Away,Away Team Under 1.5 Goals,2.52,2.5,33.5,70.2,0.235,Completed,Loss,0,0,0,8,False,25.0,38.0,-25.0,True,-2936.0,24.88262910798122,213
+2025-09-09,21:00,Team R,Team I,UEFA Europa League,Over,Over 1.5 Goals,1.43,2.5,28.7,82.1,0.236,Completed,Loss,5,0,5,8,False,25.0,10.75,-25.0,True,-2961.0,24.766355140186917,214
+2025-09-09,15:00,Roma,Juventus,Serie A,Both Teams to Score,Both Teams to Score - No,1.79,2.5,18.7,68.8,0.129,Completed,Win,0,3,3,10,False,25.0,19.75,19.75,True,-2941.25,25.116279069767444,215
+2025-09-09,20:00,Team C,Team R,UEFA Conference League,Over,Over 2.5 Goals,2.01,2.5,6.2,79.7,0.049,Completed,Win,1,3,4,10,True,25.0,25.25,25.25,True,-2916.0,25.462962962962965,216
+2025-09-09,18:00,Team F,Team Q,World Cup - Qualification Europe,Over,Over 2.5 Goals,2.09,2.5,23.5,74.3,0.175,Completed,Loss,2,1,3,11,True,25.0,27.25,-25.0,True,-2941.0,25.34562211981567,217

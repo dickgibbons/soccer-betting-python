@@ -1,0 +1,39 @@
+league_name,country,league_id,current_season,status,tier
+Primera División,Argentina,5500,2025,ID Needed,1
+Pro League,Belgium,2400,2025-26,ID Needed,1
+Brazil Serie A,Brazil,5400,2025,ID Needed,1
+Brazil Serie B,Brazil,5401,2025,ID Needed,2
+First League,Czech Republic,6400,2025-26,ID Needed,1
+Superlig,Denmark,6200,2025-26,ID Needed,1
+Premier League,England,1625,2025-26,Active,1
+Championship,England,1626,2025-26,ID Needed,2
+FA Trophy,England,1626,2025-26,ID Needed,3
+UEFA Champions League,Europe,3000,2025-26,ID Needed,0
+UEFA Europa League,Europe,3001,2025-26,ID Needed,0
+UEFA Europa Conference League,Europe,3002,2025-26,ID Needed,0
+Ligue 1,France,1843,2025-26,Active,1
+Bundesliga,Germany,1854,2025-26,Active,1
+FIFA Club World Cup,International,4000,2025,ID Needed,0
+FIFA Club World Cup Playin,International,4001,2025,ID Needed,0
+WC Qualification Europe,International,4100,2025-26,ID Needed,0
+WC Qualification Africa,International,4101,2025-26,ID Needed,0
+WC Qualification Asia,International,4102,2025-26,ID Needed,0
+WC Qualification South America,International,4103,2025-26,ID Needed,0
+WC Qualification CONCACAF,International,4104,2025-26,ID Needed,0
+WC Qualification Oceania,International,4105,2025-26,ID Needed,0
+CONCACAF Central American Cup,International,7001,2025,ID Needed,0
+CONCACAF Caribbean Club Championship,International,7002,2025,ID Needed,0
+Serie A,Italy,2105,2025-26,Active,1
+Liga MX,Mexico,5200,2025,ID Needed,1
+Copa MX,Mexico,5202,2025,ID Needed,2
+Eredivisie,Netherlands,2200,2025-26,ID Needed,1
+Eliteserien,Norway,6000,2025,ID Needed,1
+First Division,Norway,6001,2025,ID Needed,2
+LigaPro,Portugal,2300,2025-26,ID Needed,2
+Copa Libertadores,South America,5300,2025,ID Needed,0
+La Liga,Spain,1729,2025-26,Active,1
+Super League,Switzerland,6700,2025-26,ID Needed,1
+Süper Lig,Turkey,6900,2025-26,ID Needed,1
+MLS,USA,5000,2025,ID Needed,1
+USL League One,USA,5002,2025,ID Needed,2
+NWSL,USA,5003,2025,ID Needed,1

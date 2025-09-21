@@ -1,0 +1,20 @@
+Report Type,Value
+Date,"Saturday, 2025-09-13"
+Total Matches Analyzed,1
+High-Value Bets Recommended,4
+
+Rank,Kick Off,League,Country,Home Team,Away Team,Bet Type,Odds,Stake %,Edge %,Confidence %,Quality Score
+#1,15:30,Ekstraklasa,Poland,Wisla Plock,Cracovia Krakow,Over 9.5 Total Corners,2.09,8.0%,68.3%,80.4%,0.626
+#2,15:30,Ekstraklasa,Poland,Wisla Plock,Cracovia Krakow,Over 1.5 Goals,2.16,8.0%,53.6%,71.1%,0.545
+#3,15:30,Ekstraklasa,Poland,Wisla Plock,Cracovia Krakow,Both Teams to Score - No,1.90,7.9%,17.8%,62.0%,0.401
+#4,15:30,Ekstraklasa,Poland,Wisla Plock,Cracovia Krakow,Home Team Under 1.5 Goals,1.60,6.0%,9.0%,68.0%,0.399
+
+Summary Metric,Value
+Total Portfolio Edge,148.8%
+Average Confidence,70.4%
+Total Bankroll Risk,29.9%
+
+Market Category,Number of Bets
+Corners,1 bet
+Goals,2 bets
+Both Teams to Score,1 bet

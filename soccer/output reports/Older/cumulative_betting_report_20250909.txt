@@ -1,0 +1,84 @@
+📈 CUMULATIVE BETTING PERFORMANCE REPORT 📈
+===============================================
+📅 Report Date: Tuesday, September 09, 2025
+🚀 Tracking Since: September 7, 2025
+
+📊 OVERALL PERFORMANCE:
+-----------------------
+🎯 Total Picks: 21
+✅ Wins: 14
+❌ Losses: 7
+📈 Win Rate: 66.7%
+💰 Running P&L: $210.41
+💸 Total Staked: $525.00
+📊 ROI: +40.1%
+
+💵 BETTING BREAKDOWN ($25 per bet):
+-----------------------------------
+🏆 Average Win: $27.53
+💔 Average Loss: $-25.00
+🎲 Best Win: $34.58
+😞 Worst Loss: $-25.00
+
+🏟️ PERFORMANCE BY LEAGUE:
+--------------------------
+🏆 Frauen Bundesliga:
+   📊 1/1 (100.0%) | P&L: $+28.21
+🏆 MLS Next Pro:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 Premier League:
+   📊 1/1 (100.0%) | P&L: $+27.20
+🏆 Serie B:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 Unknown:
+   📊 4/5 (80.0%) | P&L: $+58.23
+🏆 World Cup - Qualification Africa:
+   📊 5/9 (55.6%) | P&L: $+49.14
+🏆 World Cup - Qualification CONCACAF:
+   📊 1/1 (100.0%) | P&L: $+34.32
+🏆 World Cup - Qualification Europe:
+   📊 1/1 (100.0%) | P&L: $+28.73
+🏆 World Cup - Qualification South America:
+   📊 1/1 (100.0%) | P&L: $+34.58
+
+🎯 PERFORMANCE BY MARKET:
+--------------------------
+🎲 Away +1:
+   📊 1/1 (100.0%) | P&L: $+10.83
+🎲 Home Under 1.5:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🎲 Over 1.5:
+   📊 10/13 (76.9%) | P&L: $+226.15
+🎲 Over 2.5:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🎲 Over 9.5 Corners:
+   📊 3/5 (60.0%) | P&L: $+23.44
+
+📅 RECENT PERFORMANCE (Last 10 picks):
+---------------------------------------
+❌ 2025-09-08 | Ghana vs Mali
+   🎯 Over 9.5 Total Corners @ 1.73 → $-25.00
+✅ 2025-09-08 | Tivoli Gardens vs Spanish Town Police
+   🎯 Over 9.5 Total Corners @ 2.09 → $+27.20
+❌ 2025-09-09 | Vila Nova vs Athletic Club
+   🎯 Over 2.5 Goals @ 2.62 → $-25.00
+✅ 2025-09-09 | El Salvador vs Suriname
+   🎯 Over 1.5 Goals @ 2.37 → $+34.32
+✅ 2025-09-09 | Cape Verde Islands vs Cameroon
+   🎯 Over 1.5 Goals @ 2.31 → $+32.78
+✅ 2025-09-09 | Chile vs Uruguay
+   🎯 Over 1.5 Goals @ 2.38 → $+34.58
+❌ 2025-09-09 | Sierra Leone vs Ethiopia
+   🎯 Over 1.5 Goals @ 2.30 → $-25.00
+✅ 2025-09-09 | Congo DR vs Senegal
+   🎯 Over 1.5 Goals @ 2.26 → $+31.39
+✅ 2025-09-09 | Albania vs Latvia
+   🎯 Over 9.5 Total Corners @ 2.15 → $+28.73
+✅ 2025-09-09 | Togo vs Sudan
+   🎯 Over 1.5 Goals @ 2.31 → $+32.87
+
+⚠️ IMPORTANT NOTES:
+• Outcomes are simulated based on realistic match statistics
+• $25 standard bet amount used for all calculations
+• Performance tracking since September 7, 2025
+• Results are for tracking purposes only

@@ -1,0 +1,15 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,stake_pct,edge_pct,confidence_pct,quality_score,match_status,bet_outcome,home_score,away_score,total_goals,total_corners,btts,bet_amount,potential_win,actual_pnl,verified_result,running_total,win_rate,total_picks,enhanced_quality,tier,position_size
+2025-08-31,18:00,Team T,Team F,World Cup - Qualification Africa,Over,Over 2.5 Goals,2.16,2.5,55.0,75.0,0.413,Completed,Loss,0,1,1,8,False,30.0,29.0,-30.0,True,-30.0,0.0,1,0.8366,Elite,3.0
+2025-08-31,18:45,Team I,Team F,UEFA Champions League,Over,Over 2.5 Goals,2.48,2.5,25.5,72.3,0.184,Completed,Loss,2,0,2,13,False,30.0,37.0,-30.0,True,-60.0,0.0,2,0.4113,Elite,3.0
+2025-08-24,22:30,Portland Timbers,LAFC,MLS,Under,Under 2.5 Goals,2.05,2.5,48.2,70.2,0.338,Completed,Loss,2,1,3,14,True,30.0,26.25,-30.0,True,-90.0,0.0,3,0.5661,Elite,3.0
+2025-08-13,17:30,Manchester City,West Ham,Premier League,Away,Away Team Under 1.5 Goals,2.75,2.5,41.2,70.6,0.291,Completed,Win,1,0,1,15,False,30.0,43.75,52.5,True,-37.5,25.0,4,0.5445,Elite,3.0
+2025-08-26,15:00,Team O,Team F,Serie B,Over,Over 9.5 Total Corners,2.03,2.5,41.4,70.5,0.292,Completed,Loss,0,1,1,16,False,30.0,25.75,-30.0,True,-67.5,20.0,5,0.5426,Elite,3.0
+2025-09-06,15:00,Team C,Team T,Liga MX,Over,Over 2.5 Goals,1.83,2.5,37.7,73.3,0.276,Completed,Loss,2,1,3,9,True,30.0,20.75,-30.0,True,-97.5,16.666666666666664,6,0.4742,Elite,3.0
+2025-09-03,18:00,Team O,Team D,Brazilian Serie B,Under,Under 2.5 Goals,1.87,2.5,42.1,70.2,0.296,Completed,Loss,3,1,4,11,True,30.0,21.75,-30.0,True,-127.5,14.285714285714285,7,0.4649,Elite,3.0
+2025-09-03,19:30,LA Galaxy,Seattle Sounders,MLS,Away,Away Team Under 1.5 Goals,2.63,2.5,28.1,67.4,0.189,Completed,Win,1,0,1,6,False,20.0,40.75,32.599999999999994,True,-94.9,25.0,8,0.225,Good,2.0
+2025-08-10,15:00,Team H,Team I,World Cup - Qualification CONCACAF,Over,Over 2.5 Goals,2.64,2.5,41.8,67.8,0.283,Completed,Loss,4,0,4,15,False,30.0,41.0,-30.0,True,-124.9,22.22222222222222,9,0.4421,Elite,3.0
+2025-09-09,15:00,Lazio,Roma,Serie A,Away,Away Team Under 1.5 Goals,2.52,2.5,33.5,70.2,0.235,Completed,Loss,0,0,0,8,False,30.0,38.0,-30.0,True,-154.9,20.0,10,0.3725,Elite,3.0
+2025-08-17,15:00,Team P,Team D,Serie B,Home,Home Team Under 1.5 Goals,2.5,2.5,28.9,73.1,0.211,Completed,Loss,2,0,2,10,False,25.0,37.5,-25.0,True,-179.9,18.181818181818183,11,0.3021,Premium,2.5
+2025-08-17,18:00,Team E,Team L,Championship,Home,Home Team Under 1.5 Goals,2.44,2.5,23.4,74.4,0.174,Completed,Loss,1,1,2,10,True,20.0,36.0,-20.0,True,-199.9,16.666666666666664,12,0.2037,Good,2.0
+2025-08-27,20:00,Team T,Team R,World Cup - Qualification CONCACAF,Away,Away Team Under 1.5 Goals,3.41,2.5,33.9,72.4,0.245,Completed,Loss,1,0,1,8,False,25.0,60.25,-25.0,True,-224.9,15.384615384615385,13,0.2827,Premium,2.5
+2025-08-12,20:00,Team J,Team N,World Cup - Qualification CONCACAF,Away,Away Team Under 1.5 Goals,1.99,2.5,27.0,68.9,0.186,Completed,Loss,2,3,5,6,True,25.0,24.75,-25.0,True,-249.9,14.285714285714285,14,0.2701,Premium,2.5

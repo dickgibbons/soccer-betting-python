@@ -1,0 +1,72 @@
+date,kick_off,home_team,away_team,league,country,market,bet_description,odds,recommended_stake_pct,edge_percent,confidence_percent,expected_value,quality_score,risk_level
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,England,Over 11.5 Corners,Over 11.5 Total Corners,4.276698146013046,8.0,150.0,58.4,1.5,0.784,High Risk
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,Netherlands,Over 11.5 Corners,Over 11.5 Total Corners,4.050118816477093,8.0,136.7,58.4,1.367,0.744,High Risk
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Germany,Over 11.5 Corners,Over 11.5 Total Corners,3.621822568999904,8.0,111.7,58.4,1.117,0.669,High Risk
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Germany,Home Over 1.5,Home Team Over 1.5 Goals,3.453680886911515,8.0,106.9,59.9,1.069,0.66,High Risk
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,Netherlands,Over 9.5 Corners,Over 9.5 Total Corners,1.9787558471841815,8.0,63.4,82.6,0.634,0.621,Medium Risk
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,England,Away,Away Team Win,3.0,8.0,83.6,61.2,0.836,0.596,Medium Risk
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,England,Over 1.5,Over 1.5 Goals,2.223837089292953,8.0,64.2,73.8,0.642,0.588,Medium Risk
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,England,Over 1.5,Over 1.5 Goals,2.217749285862147,8.0,63.0,73.5,0.63,0.583,Medium Risk
+2025-09-16,18:45,Worthing,Jersey Bulls,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.8579813277172677,8.0,49.6,80.5,0.496,0.571,Medium Risk
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Netherlands,Over 9.5 Corners,Over 9.5 Total Corners,1.8501244162371258,8.0,49.0,80.5,0.49,0.569,Medium Risk
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,2.0396273446229642,8.0,54.8,75.9,0.548,0.568,Medium Risk
+2025-09-16,17:00,SV Wehen,SSV Jahn Regensburg,3. Liga,Germany,Over 9.5 Corners,Over 9.5 Total Corners,1.9131632091970647,8.0,48.6,77.7,0.486,0.557,Medium Risk
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,England,BTTS No,Both Teams to Score - No,2.63,8.0,67.4,63.6,0.674,0.557,Medium Risk
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Netherlands,Over 11.5 Corners,Over 11.5 Total Corners,2.4198882124209433,8.0,61.5,66.8,0.615,0.552,Medium Risk
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Germany,Over 9.5 Corners,Over 9.5 Total Corners,1.9901363057808596,8.0,49.7,75.2,0.497,0.55,Medium Risk
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Netherlands,Over 9.5 Corners,Over 9.5 Total Corners,1.7624194252396281,8.0,41.9,80.5,0.419,0.548,Low Risk
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,England,Over 1.5,Over 1.5 Goals,1.9267314493157726,8.0,46.7,76.1,0.467,0.545,Medium Risk
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Germany,Over 1.5,Over 1.5 Goals,1.9856404770225788,8.0,46.6,73.8,0.466,0.535,Medium Risk
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,England,BTTS No,Both Teams to Score - No,2.51,8.0,59.7,63.6,0.597,0.534,Medium Risk
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.706220058968362,8.0,37.1,80.4,0.371,0.533,Low Risk
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Netherlands,Over 11.5 Corners,Over 11.5 Total Corners,2.713234836339142,8.0,63.4,60.2,0.634,0.531,Medium Risk
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,England,Over 1.5,Over 1.5 Goals,1.9510329360427854,8.0,44.1,73.8,0.441,0.528,Medium Risk
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Germany,Over 11.5 Corners,Over 11.5 Total Corners,2.666696480747878,8.0,60.6,60.2,0.606,0.523,Medium Risk
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,Netherlands,BTTS No,Both Teams to Score - No,2.57,8.0,55.8,60.6,0.558,0.51,Medium Risk
+2025-09-16,18:45,Worthing,Jersey Bulls,FA Cup,England,Over 11.5 Corners,Over 11.5 Total Corners,2.5828752689404766,8.0,55.5,60.2,0.555,0.507,Medium Risk
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Germany,Over 9.5 Corners,Over 9.5 Total Corners,1.8239014167938667,8.0,36.1,74.6,0.361,0.507,Medium Risk
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.845927749266883,8.0,36.7,74.0,0.367,0.506,Medium Risk
+2025-09-16,18:45,Southport,Radcliffe,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,2.1092597525036076,8.0,43.9,68.2,0.439,0.505,Medium Risk
+2025-09-16,17:00,FC Schweinfurt 05,MSV Duisburg,3. Liga,Germany,Under 11.5 Corners,Under 11.5 Total Corners,1.4755685794294962,8.0,22.5,83.0,0.225,0.5,Low Risk
+2025-09-16,17:00,FC Schweinfurt 05,MSV Duisburg,3. Liga,Germany,Home/Away,Home Win or Away Win (No Draw),1.42,8.0,19.6,84.2,0.196,0.495,Low Risk
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Netherlands,Over 9.5 Corners,Over 9.5 Total Corners,2.062136279062163,8.0,40.7,68.2,0.407,0.495,Medium Risk
+2025-09-16,18:45,Chichester City,Whitstable Town,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.706895424081283,8.0,28.4,75.2,0.284,0.486,Low Risk
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,England,BTTS No,Both Teams to Score - No,2.15,8.0,39.6,64.9,0.396,0.478,Medium Risk
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,France,Over 1.5,Over 1.5 Goals,1.9008404553104368,8.0,32.7,69.8,0.327,0.477,Medium Risk
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.7734558224765202,8.0,28.1,72.3,0.281,0.473,Low Risk
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.8962511914934044,8.0,31.4,69.3,0.314,0.472,Medium Risk
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Netherlands,Home/Away,Home Win or Away Win (No Draw),1.29,8.0,10.0,85.2,0.1,0.471,Low Risk
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,France,Over 9.5 Corners,Over 9.5 Total Corners,2.1393369938491866,8.0,37.5,64.3,0.375,0.47,Medium Risk
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,England,Under 11.5 Corners,Under 11.5 Total Corners,1.4918101020353354,8.0,16.7,78.2,0.167,0.463,Low Risk
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Netherlands,Draw/Away,Draw or Away Win,2.17,8.0,36.6,63.0,0.366,0.462,Medium Risk
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,England,BTTS No,Both Teams to Score - No,2.3,8.0,39.5,60.6,0.395,0.461,Medium Risk
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Netherlands,Home/Away,Home Win or Away Win (No Draw),1.39,8.0,12.4,80.9,0.124,0.461,Low Risk
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,2.127450498738047,8.0,35.0,63.5,0.35,0.459,Medium Risk
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,England,Home/Away,Home Win or Away Win (No Draw),1.33,8.0,8.9,81.8,0.089,0.454,Low Risk
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,England,Over 2.5,Over 2.5 Goals,1.7661535761426503,8.0,24.0,70.2,0.24,0.453,Low Risk
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,France,Home/Away,Home Win or Away Win (No Draw),1.27,8.0,5.8,83.3,0.058,0.45,Low Risk
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,France,Home Under 1.5,Home Team Under 1.5 Goals,1.5532501838477917,8.0,16.3,74.9,0.163,0.448,Low Risk
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Netherlands,Over 11.5 Corners,Over 11.5 Total Corners,2.2332127714061967,8.0,34.5,60.2,0.345,0.444,Medium Risk
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,England,Under 11.5 Corners,Under 11.5 Total Corners,1.3798772889820583,8.0,7.9,78.2,0.079,0.437,Low Risk
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Germany,Draw/Away,Draw or Away Win,2.0,8.0,25.9,63.0,0.259,0.43,Medium Risk
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,England,Under 2.5,Under 2.5 Goals,2.11277332078878,8.0,28.5,60.8,0.285,0.429,Medium Risk
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Germany,Home/Away,Home Win or Away Win (No Draw),1.37,6.8,6.3,77.6,0.063,0.429,Low Risk
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,England,Over 9.5 Corners,Over 9.5 Total Corners,1.7182798434356936,8.0,17.3,68.2,0.173,0.425,Low Risk
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,England,Home Under 1.5,Home Team Under 1.5 Goals,1.7489223066704374,8.0,17.8,67.3,0.178,0.423,Low Risk
+2025-09-16,18:45,Southport,Radcliffe,FA Cup,England,Draw/Away,Draw or Away Win,1.88,8.0,19.3,63.5,0.193,0.412,Medium Risk
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,England,Draw/Away,Draw or Away Win,1.88,8.0,19.3,63.5,0.193,0.412,Medium Risk
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,England,BTTS No,Both Teams to Score - No,2.03,8.0,23.1,60.6,0.231,0.412,Medium Risk
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,England,Draw/Away,Draw or Away Win,1.9,8.0,19.6,63.0,0.196,0.411,Medium Risk
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,England,BTTS No,Both Teams to Score - No,2.1,8.0,22.6,58.4,0.226,0.401,Medium Risk
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Netherlands,BTTS No,Both Teams to Score - No,1.99,7.7,19.0,59.8,0.19,0.396,Medium Risk
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,England,Over 2.5,Over 2.5 Goals,1.862314143053963,7.2,15.6,62.1,0.156,0.395,Medium Risk
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Germany,Over 1.5,Over 1.5 Goals,1.8000075587827842,6.9,13.9,63.3,0.139,0.395,Medium Risk
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,England,Under 3.5,Under 3.5 Goals,1.5907898359187371,4.9,7.2,67.4,0.072,0.391,Low Risk
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,England,Over 2.5,Over 2.5 Goals,1.8608018383350322,6.7,14.4,61.5,0.144,0.389,Medium Risk
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,France,BTTS No,Both Teams to Score - No,1.94,6.9,16.2,59.9,0.162,0.388,Medium Risk
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Germany,BTTS No,Both Teams to Score - No,1.9,6.2,13.9,60.0,0.139,0.382,Medium Risk
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Netherlands,Home Under 1.5,Home Team Under 1.5 Goals,1.7819352036040437,4.7,9.2,61.3,0.092,0.373,Low Risk
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,England,Home Under 1.5,Home Team Under 1.5 Goals,1.7985043239094187,4.8,9.5,60.9,0.095,0.372,Low Risk
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Netherlands,Over 2.5,Over 2.5 Goals,1.8725682242659036,5.1,11.1,59.3,0.111,0.371,Medium Risk
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Germany,Under 11.5 Corners,Under 11.5 Total Corners,1.6881519259724267,3.4,5.9,62.7,0.059,0.368,Low Risk
+2025-09-16,18:45,Slough Town,Welling United,FA Cup,England,Over 2.5,Over 2.5 Goals,1.712088929409066,3.5,6.2,62.0,0.062,0.367,Low Risk

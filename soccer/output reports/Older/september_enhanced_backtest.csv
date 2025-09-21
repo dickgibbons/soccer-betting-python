@@ -1,0 +1,8 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,stake_pct,edge_pct,confidence_pct,quality_score,match_status,bet_outcome,home_score,away_score,total_goals,total_corners,btts,bet_amount,potential_win,actual_pnl,running_total,win_rate,total_picks,verified_result,enhanced_quality,tier,position_size
+2025-09-08,20:00,Bayern Munich,RB Leipzig,Bundesliga,Over 2.5 Goals,Over 2.5 Goals,1.92,3.0,43.5,71.3,0.31,Completed,Loss,0,0,0,11,False,30.0,23.0,-30.0,-30.0,0.0,1,True,0.5854,Elite,3.0
+2025-09-09,17:30,Team A,Team F,Championship,Over 2.5 Goals,Over 2.5 Goals,2.17,3.0,45.5,65.5,0.298,Completed,Loss,1,1,2,9,True,30.0,29.25,-30.0,-60.0,0.0,2,True,0.544,Elite,3.0
+2025-09-09,15:00,Sevilla,Atletico Madrid,La Liga,Under 2.5 Goals,Under 2.5 Goals,1.72,3.0,48.6,70.8,0.344,Completed,Win,0,0,0,15,False,30.0,18.0,21.599999999999998,-38.400000000000006,33.33333333333333,3,True,0.433,Elite,3.0
+2025-09-09,13:00,Team G,Team H,World Cup - Qualification Africa,Both Teams to Score,Both Teams to Score - No,1.85,3.0,37.4,73.7,0.276,Completed,Loss,2,2,4,15,True,30.0,21.25,-30.0,-68.4,25.0,4,True,0.3942,Elite,3.0
+2025-09-02,17:30,RB Leipzig,Bayern Munich,Bundesliga,Over 2.5 Goals,Over 2.5 Goals,2.52,3.0,40.0,72.7,0.291,Completed,Loss,2,0,2,14,False,30.0,38.0,-30.0,-98.4,20.0,5,True,0.499,Elite,3.0
+2025-09-05,17:30,Team G,Team J,UEFA Europa League,Over 2.5 Goals,Over 2.5 Goals,2.06,3.0,30.4,72.2,0.219,Completed,Loss,0,0,0,8,False,30.0,26.5,-30.0,-128.4,16.666666666666664,6,True,0.4109,Elite,3.0
+2025-09-04,18:45,Team B,Team M,Ligue 1,Over 2.5 Goals,Over 2.5 Goals,2.44,2.5,28.0,72.0,0.202,Completed,Loss,0,1,1,10,False,25.0,36.0,-25.0,-153.4,14.285714285714285,7,True,0.3459,Premium,2.5

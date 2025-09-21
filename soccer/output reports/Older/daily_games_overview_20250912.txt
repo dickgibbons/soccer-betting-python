@@ -1,0 +1,76 @@
+⚽ DAILY COMPREHENSIVE GAMES OVERVIEW ⚽
+=======================================================
+📅 Friday, 2025-09-12
+🌍 Total Games Worldwide: 25
+👀 Games in Followed Leagues: 0
+🎯 Games with Betting Picks: 0
+
+📊 SUMMARY STATISTICS:
+-------------------------
+   Coverage Rate: 0/25 games (0.0%)
+   Pick Generation Rate: 0.0% of followed games
+   Total Betting Opportunities: 0
+
+🏆 LEAGUE BREAKDOWN:
+--------------------
+   ⭕ Botola 2: 7 games, ❌ picks
+   ⭕ Premier League: 2 games, ❌ picks
+   ⭕ Primera División: 2 games, ❌ picks
+   ⭕ Cup: 1 games, ❌ picks
+   ⭕ Liga Alef: 1 games, ❌ picks
+   ⭕ Kansallinen Liiga: 1 games, ❌ picks
+   ⭕ Landesliga - Niederosterreich: 1 games, ❌ picks
+   ⭕ Denmark Series - Group 4: 1 games, ❌ picks
+   ⭕ Non League Div One - Isthmian North: 1 games, ❌ picks
+   ⭕ Liga Premier Serie A: 1 games, ❌ picks
+   ⭕ USL League One: 1 games, ❌ picks
+   ⭕ USL Championship: 1 games, ❌ picks
+   ⭕ MLS Next Pro: 1 games, ❌ picks
+   ⭕ Primera A: 1 games, ❌ picks
+   ⭕ Capixaba B: 1 games, ❌ picks
+   ⭕ Segunda División: 1 games, ❌ picks
+   ⭕ USL Super League: 1 games, ❌ picks
+
+🎯 GAMES WITH BETTING PICKS:
+===================================
+
+   No betting opportunities found in followed leagues today.
+
+👀 ALL GAMES IN FOLLOWED LEAGUES:
+========================================
+
+   No games found in followed leagues today.
+
+🌍 OTHER LEAGUES (NOT FOLLOWED):
+===================================
+
+   Cup: 1 game
+   Liga Alef: 1 game
+   Botola 2: 7 games
+   Premier League: 2 games
+   Kansallinen Liiga: 1 game
+   Landesliga - Niederosterreich: 1 game
+   Denmark Series - Group 4: 1 game
+   Non League Div One - Isthmian North: 1 game
+   Liga Premier Serie A: 1 game
+   USL League One: 1 game
+   USL Championship: 1 game
+   MLS Next Pro: 1 game
+   Primera A: 1 game
+   Capixaba B: 1 game
+   Segunda División: 1 game
+   USL Super League: 1 game
+   Primera División: 2 games
+
+📈 LEGEND:
+👀 = League we actively follow
+⭕ = League not in our follow list
+🎯 = Game has betting picks
+⚪ = Game analyzed but no quality picks found
+❌ = No picks generated
+
+⚠️ NOTES:
+• Only followed leagues are analyzed for betting opportunities
+• Pick generation requires minimum edge and confidence thresholds
+• Unfollowed leagues are listed for completeness only
+• Times shown in local timezone

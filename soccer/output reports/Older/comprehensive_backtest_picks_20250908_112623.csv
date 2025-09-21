@@ -1,0 +1,253 @@
+date,day_name,kick_off,home_team,away_team,league,market,odds,stake_pct,edge_pct,confidence_pct,predicted_ev,actual_result,return_amount,profit_loss,match_score,total_corners,total_goals
+2025-08-02,Saturday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.54,8.0,57.2,61.9,0.572,WIN,20.32,12.32,0-0,10,0
+2025-08-02,Saturday,17:30,Liverpool,Manchester United,Premier League,Over 9.5 Corners,1.9204540711166813,8.0,29.2,67.3,0.292,WIN,15.36,7.36,0-2,16,2
+2025-08-02,Saturday,17:30,Liverpool,Manchester United,Premier League,Away Under 1.5,1.7786890231893095,4.7,9.2,61.4,0.092,LOSS,0,-4.72,0-2,16,2
+2025-08-02,Saturday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.79,8.0,62.7,58.3,0.627,WIN,22.32,14.32,1-0,13,1
+2025-08-02,Saturday,21:00,Real Madrid,Barcelona,La Liga,Home/Draw,1.97,8.0,20.9,61.4,0.209,WIN,15.76,7.76,1-0,13,1
+2025-08-02,Saturday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,1.8838104164181517,8.0,18.9,63.1,0.189,WIN,15.07,7.07,1-0,13,1
+2025-08-02,Saturday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.41,8.0,40.8,58.4,0.408,LOSS,0,-8.0,2-1,17,3
+2025-08-02,Saturday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,1.708453292331353,5.1,9.1,63.9,0.091,WIN,8.78,3.64,2-1,17,3
+2025-08-02,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,2.153178453867549,8.0,59.8,74.2,0.598,WIN,17.23,9.23,1-1,15,2
+2025-08-02,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Draw/Away,2.03,8.0,27.5,62.8,0.275,WIN,16.24,8.24,1-1,15,2
+2025-08-02,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Home Under 1.5,1.6508366337889875,4.6,7.5,65.1,0.075,WIN,7.65,3.01,1-1,15,2
+2025-08-02,Saturday,15:00,Leeds United,Leicester City,Championship,Away -1,5.107074470939802,8.0,299.2,78.2,2.992,LOSS,0,-8.0,0-2,18,2
+2025-08-02,Saturday,15:00,Leeds United,Leicester City,Championship,Over 1.5,2.2542542243493955,8.0,48.7,66.0,0.487,WIN,18.03,10.03,0-2,18,2
+2025-08-02,Saturday,15:00,Leeds United,Leicester City,Championship,BTTS No,2.18,8.0,26.5,58.0,0.265,WIN,17.44,9.44,0-2,18,2
+2025-08-02,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,2.0803280120723815,8.0,46.6,70.4,0.466,LOSS,0,-8.0,1-0,9,1
+2025-08-02,Saturday,19:00,LAFC,LA Galaxy,MLS,Draw/Away,2.01,8.0,27.0,63.2,0.27,LOSS,0,-8.0,1-0,9,1
+2025-08-02,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 2.5,1.8571498005062037,4.4,9.3,58.9,0.093,LOSS,0,-4.36,1-0,9,1
+2025-08-02,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 1.5,2.070128114268023,8.0,36.5,66.0,0.365,WIN,16.56,8.56,1-1,10,2
+2025-08-02,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home/Draw,2.13,8.0,29.2,60.7,0.292,LOSS,0,-8.0,1-1,10,2
+2025-08-02,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,1.85,6.8,14.4,61.9,0.144,LOSS,0,-6.79,1-1,10,2
+2025-08-03,Sunday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,1.879283086968485,8.0,43.4,76.3,0.434,WIN,15.03,7.03,1-1,18,2
+2025-08-03,Sunday,17:30,Liverpool,Manchester United,Premier League,BTTS No,2.31,8.0,34.7,58.3,0.347,WIN,18.48,10.48,0-2,17,2
+2025-08-03,Sunday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.79,8.0,81.9,65.2,0.819,WIN,22.32,14.32,0-3,18,3
+2025-08-03,Sunday,21:00,Real Madrid,Barcelona,La Liga,Over 1.5,2.1454283773646528,8.0,52.8,71.2,0.528,WIN,17.16,9.16,0-3,18,3
+2025-08-03,Sunday,21:00,Real Madrid,Barcelona,La Liga,Home/Draw,1.75,3.3,6.2,60.7,0.062,LOSS,0,-3.3,0-3,18,3
+2025-08-03,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 1.5,2.0764022954889416,8.0,52.3,73.3,0.523,LOSS,0,-8.0,0-1,13,1
+2025-08-03,Sunday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.38,8.0,47.2,61.9,0.472,WIN,19.04,11.04,0-1,13,1
+2025-08-03,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,2.0080226333268416,8.0,28.2,63.9,0.282,WIN,16.06,8.06,0-1,13,1
+2025-08-03,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,2.0081016868381547,8.0,23.1,61.3,0.231,WIN,16.06,8.06,2-1,11,3
+2025-08-03,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Home/Draw,1.82,5.1,10.4,60.7,0.104,WIN,9.26,4.17,2-1,11,3
+2025-08-03,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,BTTS No,1.84,4.8,10.1,59.8,0.101,LOSS,0,-4.79,2-1,11,3
+2025-08-03,Sunday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,2.1832138079239027,8.0,31.8,60.4,0.318,WIN,17.47,9.47,2-2,21,4
+2025-08-03,Sunday,15:00,Leeds United,Leicester City,Championship,Home/Draw,1.96,5.7,13.7,58.0,0.137,WIN,11.21,5.49,2-2,21,4
+2025-08-03,Sunday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,2.098568852454094,8.0,51.3,72.1,0.513,WIN,16.79,8.79,2-1,13,3
+2025-08-03,Sunday,19:00,LAFC,LA Galaxy,MLS,Home/Draw,2.08,8.0,27.6,61.4,0.276,WIN,16.64,8.64,2-1,13,3
+2025-08-03,Sunday,19:00,LAFC,LA Galaxy,MLS,Home/Away,1.32,7.9,6.4,80.6,0.064,WIN,10.48,2.54,2-1,13,3
+2025-08-03,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.13,8.0,24.4,58.4,0.244,LOSS,0,-8.0,1-1,13,2
+2025-08-03,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home Under 1.5,1.6486915601063286,4.6,7.4,65.1,0.074,WIN,7.52,2.96,1-1,13,2
+2025-08-04,Monday,19:45,Team 11,Team 29,Championship,Home Under 1.5,1.7407761442137948,6.2,11.5,64.1,0.115,WIN,10.81,4.6,1-1,10,2
+2025-08-04,Monday,19:45,Team 11,Team 29,Championship,Away +1,1.5928371003544088,3.4,5.1,66.0,0.051,WIN,5.44,2.03,1-1,10,2
+2025-08-09,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 1.5,2.0159229842149573,8.0,43.6,71.2,0.436,WIN,16.13,8.13,1-1,13,2
+2025-08-09,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,2.0500741206506268,8.0,29.4,63.1,0.294,WIN,16.4,8.4,1-1,13,2
+2025-08-09,Saturday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.09,8.0,23.9,59.3,0.239,LOSS,0,-8.0,1-1,13,2
+2025-08-09,Saturday,17:30,Liverpool,Manchester United,Premier League,Over 9.5 Corners,1.7482344496621687,8.0,28.4,73.5,0.284,WIN,13.99,5.99,1-1,12,2
+2025-08-09,Saturday,17:30,Liverpool,Manchester United,Premier League,Over 2.5,1.8468506246045617,3.9,8.3,58.7,0.083,LOSS,0,-3.93,1-1,12,2
+2025-08-09,Saturday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,2.0487233378191263,8.0,30.8,63.9,0.308,WIN,16.39,8.39,2-1,13,3
+2025-08-09,Saturday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.14,8.0,26.8,59.3,0.268,LOSS,0,-8.0,2-1,13,3
+2025-08-09,Saturday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.0,7.4,18.6,59.3,0.186,LOSS,0,-7.42,2-2,16,4
+2025-08-09,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,BTTS No,2.67,8.0,55.0,58.0,0.55,LOSS,0,-8.0,2-1,12,3
+2025-08-09,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,2.0219350599330674,8.0,34.6,66.6,0.346,WIN,16.18,8.18,2-1,12,3
+2025-08-09,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Home/Away,1.24,8.0,5.7,85.3,0.057,WIN,9.92,1.92,2-1,12,3
+2025-08-09,Saturday,15:00,Leeds United,Leicester City,Championship,Away Over 1.5,2.219130082269642,8.0,34.9,60.8,0.349,LOSS,0,-8.0,1-1,10,2
+2025-08-09,Saturday,15:00,Leeds United,Leicester City,Championship,Home Under 1.5,1.5780141976982254,5.4,7.8,68.3,0.078,WIN,8.51,3.12,1-1,10,2
+2025-08-09,Saturday,15:00,Leeds United,Leicester City,Championship,Home/Away,1.37,5.6,5.2,76.8,0.052,LOSS,0,-5.64,1-1,10,2
+2025-08-09,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 1.5,1.9664375301427979,8.0,42.8,72.6,0.428,WIN,15.73,7.73,1-1,17,2
+2025-08-09,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,1.8286471765291714,8.0,28.8,70.4,0.288,WIN,14.63,6.63,1-1,17,2
+2025-08-09,Saturday,19:00,LAFC,LA Galaxy,MLS,Home Under 1.5,1.729012593707656,8.0,18.1,68.3,0.181,WIN,13.83,5.83,1-1,17,2
+2025-08-09,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.27,8.0,40.4,61.9,0.404,LOSS,0,-8.0,1-1,15,2
+2025-08-09,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home/Draw,1.5,8.0,11.8,74.5,0.118,WIN,12.0,4.0,1-1,15,2
+2025-08-09,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home +1,1.445463868822371,7.0,7.8,74.5,0.078,WIN,10.06,3.1,1-1,15,2
+2025-08-10,Sunday,15:00,Arsenal,Chelsea,Premier League,Draw/Away,2.02,8.0,23.0,60.9,0.23,WIN,16.16,8.16,1-2,15,3
+2025-08-10,Sunday,17:30,Liverpool,Manchester United,Premier League,BTTS No,1.87,8.0,20.2,64.3,0.202,LOSS,0,-8.0,2-1,20,3
+2025-08-10,Sunday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,1.885381935551386,8.0,23.2,65.3,0.232,WIN,15.08,7.08,1-1,14,2
+2025-08-10,Sunday,21:00,Real Madrid,Barcelona,La Liga,Home/Draw,1.77,4.5,8.6,61.4,0.086,WIN,7.91,3.44,1-1,14,2
+2025-08-10,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,2.5277083176466504,8.0,55.1,61.3,0.551,WIN,20.22,12.22,1-1,15,2
+2025-08-10,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 2.5,1.8393641917523407,3.8,7.9,58.7,0.079,LOSS,0,-3.76,1-1,15,2
+2025-08-10,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,BTTS No,1.98,6.4,15.6,58.4,0.156,WIN,12.64,6.26,3-0,9,3
+2025-08-10,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Under 11.5 Corners,1.439654138616809,8.0,10.9,77.1,0.109,WIN,11.52,3.52,3-0,9,3
+2025-08-10,Sunday,15:00,Leeds United,Leicester City,Championship,Over 1.5,1.9265693355682365,8.0,28.1,66.5,0.281,WIN,15.41,7.41,1-1,14,2
+2025-08-10,Sunday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,1.8736692832211699,8.0,19.7,63.9,0.197,WIN,14.99,6.99,1-1,14,2
+2025-08-10,Sunday,15:00,Leeds United,Leicester City,Championship,Home/Draw,1.81,5.5,11.1,61.4,0.111,WIN,9.89,4.42,1-1,14,2
+2025-08-10,Sunday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,1.8846882125990558,8.0,26.8,67.3,0.268,WIN,15.08,7.08,2-1,16,3
+2025-08-10,Sunday,19:00,LAFC,LA Galaxy,MLS,Home/Draw,2.04,8.0,23.8,60.7,0.238,WIN,16.32,8.32,2-1,16,3
+2025-08-10,Sunday,19:00,LAFC,LA Galaxy,MLS,Home/Away,1.38,8.0,12.5,81.5,0.125,WIN,11.04,3.04,2-1,16,3
+2025-08-10,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.5,8.0,46.0,58.4,0.46,WIN,20.0,12.0,1-0,10,1
+2025-08-15,Friday,19:45,Team 8,Team 31,Serie B,Over 1.5,2.1851100730126443,8.0,54.5,70.7,0.545,WIN,17.48,9.48,2-1,14,3
+2025-08-15,Friday,19:45,Team 8,Team 31,Serie B,Over 9.5 Corners,1.98673800528972,8.0,43.7,72.3,0.437,WIN,15.89,7.89,2-1,14,3
+2025-08-15,Friday,19:45,Team 8,Team 31,Serie B,BTTS No,2.15,8.0,33.0,61.9,0.33,LOSS,0,-8.0,2-1,14,3
+2025-08-16,Saturday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.41,8.0,49.1,61.9,0.491,LOSS,0,-8.0,2-2,11,4
+2025-08-16,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,1.7530418178271172,8.0,32.1,75.3,0.321,WIN,14.02,6.02,2-2,11,4
+2025-08-16,Saturday,17:30,Liverpool,Manchester United,Premier League,BTTS No,2.47,8.0,46.4,59.3,0.464,WIN,19.76,11.76,0-1,15,1
+2025-08-16,Saturday,17:30,Liverpool,Manchester United,Premier League,Over 9.5 Corners,2.022075253817155,8.0,46.3,72.3,0.463,WIN,16.18,8.18,0-1,15,1
+2025-08-16,Saturday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.33,8.0,44.1,61.9,0.441,LOSS,0,-8.0,1-1,16,2
+2025-08-16,Saturday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,1.7811108772441138,8.0,28.0,71.9,0.28,WIN,14.25,6.25,1-1,16,2
+2025-08-16,Saturday,21:00,Real Madrid,Barcelona,La Liga,Draw/Away,1.89,7.1,15.8,61.3,0.158,WIN,13.41,6.32,1-1,16,2
+2025-08-16,Saturday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,2.0349084099072505,8.0,47.2,72.3,0.472,WIN,16.28,8.28,0-2,13,2
+2025-08-16,Saturday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.12,8.0,28.1,60.4,0.281,WIN,16.96,8.96,0-2,13,2
+2025-08-16,Saturday,20:45,Juventus,Inter Milan,Serie A,Over 1.5,1.8117178763477861,8.0,25.0,69.0,0.25,WIN,14.49,6.49,0-2,13,2
+2025-08-16,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,1.8291457049902062,5.0,10.4,60.4,0.104,WIN,9.22,4.18,1-1,15,2
+2025-08-16,Saturday,15:00,Leeds United,Leicester City,Championship,Home Over 1.5,3.1035256872500314,8.0,82.0,58.7,0.82,WIN,24.83,16.83,2-0,13,2
+2025-08-16,Saturday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,1.751153987944737,8.0,23.4,70.4,0.234,WIN,14.01,6.01,2-0,13,2
+2025-08-16,Saturday,19:00,LAFC,LA Galaxy,MLS,BTTS No,2.72,8.0,64.4,60.4,0.644,LOSS,0,-8.0,1-2,9,3
+2025-08-16,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 1.5,2.2773135388413426,8.0,56.0,68.5,0.56,WIN,18.22,10.22,1-2,9,3
+2025-08-16,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,2.0478140920192907,8.0,26.4,61.7,0.264,LOSS,0,-8.0,1-2,9,3
+2025-08-16,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 9.5 Corners,1.9929582588232768,8.0,48.0,74.3,0.48,WIN,15.94,7.94,2-0,13,2
+2025-08-16,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.18,8.0,29.2,59.3,0.292,WIN,17.44,9.44,2-0,13,2
+2025-08-16,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Draw/Away,1.96,8.0,25.8,64.2,0.258,LOSS,0,-8.0,2-0,13,2
+2025-08-17,Sunday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.52,8.0,46.3,58.0,0.463,WIN,20.16,12.16,0-3,11,3
+2025-08-17,Sunday,15:00,Arsenal,Chelsea,Premier League,Over 1.5,2.0788535879759573,8.0,42.9,68.7,0.429,WIN,16.63,8.63,0-3,11,3
+2025-08-17,Sunday,15:00,Arsenal,Chelsea,Premier League,Away Under 1.5,1.7178230535778543,2.9,5.2,61.2,0.052,LOSS,0,-2.91,0-3,11,3
+2025-08-17,Sunday,17:30,Liverpool,Manchester United,Premier League,Over 9.5 Corners,2.087984222607025,8.0,62.3,77.7,0.623,WIN,16.7,8.7,1-1,18,2
+2025-08-17,Sunday,17:30,Liverpool,Manchester United,Premier League,Draw/Away,2.02,8.0,27.6,63.2,0.276,WIN,16.16,8.16,1-1,18,2
+2025-08-17,Sunday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,1.86,8.0,21.7,65.4,0.217,LOSS,0,-8.0,2-2,13,4
+2025-08-17,Sunday,21:00,Real Madrid,Barcelona,La Liga,Under 2.5,1.752170278808057,3.6,6.8,61.0,0.068,LOSS,0,-3.63,2-2,13,4
+2025-08-17,Sunday,21:00,Real Madrid,Barcelona,La Liga,Home/Away,1.38,6.3,6.0,76.8,0.06,LOSS,0,-6.3,2-2,13,4
+2025-08-17,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,1.9315708798141504,8.0,60.3,83.0,0.603,WIN,15.45,7.45,0-1,13,1
+2025-08-17,Sunday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.36,8.0,41.8,60.1,0.418,WIN,18.88,10.88,0-1,13,1
+2025-08-17,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 1.5,1.3115244728043074,8.0,6.7,81.4,0.067,LOSS,0,-8.0,0-1,13,1
+2025-08-17,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 11.5 Corners,3.7030959586216734,8.0,142.8,65.6,1.428,WIN,29.62,21.62,3-1,16,4
+2025-08-17,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,2.067147373522275,8.0,38.4,67.0,0.384,WIN,16.54,8.54,3-1,16,4
+2025-08-17,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Home/Draw,1.86,6.0,12.9,60.7,0.129,WIN,11.13,5.14,3-1,16,4
+2025-08-17,Sunday,15:00,Leeds United,Leicester City,Championship,Over 1.5,2.25284554326436,8.0,60.5,71.2,0.605,WIN,18.02,10.02,3-0,19,3
+2025-08-17,Sunday,15:00,Leeds United,Leicester City,Championship,BTTS No,2.11,8.0,30.5,61.9,0.305,WIN,16.88,8.88,3-0,19,3
+2025-08-17,Sunday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,1.8106501633870375,8.0,28.9,71.2,0.289,WIN,14.49,6.49,3-0,19,3
+2025-08-17,Sunday,19:00,LAFC,LA Galaxy,MLS,Over 1.5,1.986279712529063,8.0,35.4,68.2,0.354,WIN,15.89,7.89,1-1,10,2
+2025-08-17,Sunday,19:00,LAFC,LA Galaxy,MLS,BTTS No,1.88,6.4,14.1,60.7,0.141,LOSS,0,-6.41,1-1,10,2
+2025-08-17,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.35,8.0,37.0,58.3,0.37,WIN,18.8,10.8,2-0,14,2
+2025-08-17,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 2.5,1.8697325030539744,4.4,9.7,58.7,0.097,LOSS,0,-4.44,2-0,14,2
+2025-08-21,Thursday,19:45,Team 5,Team 24,MLS,Away Over 1.5,3.2269271814264653,8.0,95.6,60.6,0.956,LOSS,0,-8.0,2-0,16,2
+2025-08-23,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 1.5,1.9945987253756978,8.0,45.8,73.1,0.458,WIN,15.96,7.96,1-1,9,2
+2025-08-23,Saturday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.5,8.0,45.1,58.0,0.451,LOSS,0,-8.0,1-1,9,2
+2025-08-23,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,2.1807235333249997,8.0,40.9,64.6,0.409,LOSS,0,-8.0,1-1,9,2
+2025-08-23,Saturday,17:30,Liverpool,Manchester United,Premier League,BTTS No,1.89,5.1,11.4,58.9,0.114,WIN,9.64,4.54,2-0,10,2
+2025-08-23,Saturday,17:30,Liverpool,Manchester United,Premier League,Under 11.5 Corners,1.3862938925157682,8.0,9.5,79.0,0.095,WIN,11.09,3.09,2-0,10,2
+2025-08-23,Saturday,17:30,Liverpool,Manchester United,Premier League,Over 1.5,1.3216643429803894,6.4,5.1,79.5,0.051,WIN,8.4,2.04,2-0,10,2
+2025-08-23,Saturday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.11,8.0,53.8,72.9,0.538,LOSS,0,-8.0,1-1,13,2
+2025-08-23,Saturday,21:00,Real Madrid,Barcelona,La Liga,Over 1.5,1.9426480163887332,8.0,38.4,71.2,0.384,WIN,15.54,7.54,1-1,13,2
+2025-08-23,Saturday,20:45,Juventus,Inter Milan,Serie A,Over 1.5,2.3893093973171675,8.0,63.7,68.5,0.637,WIN,19.11,11.11,2-0,12,2
+2025-08-23,Saturday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.4,8.0,48.4,61.9,0.484,WIN,19.2,11.2,2-0,12,2
+2025-08-23,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 1.5,2.179376022688695,8.0,49.8,68.7,0.498,WIN,17.44,9.44,1-1,16,2
+2025-08-23,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,BTTS No,2.3,8.0,34.1,58.3,0.341,LOSS,0,-8.0,1-1,16,2
+2025-08-23,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,1.8158418712730096,7.8,16.0,63.9,0.16,WIN,14.21,6.38,1-1,16,2
+2025-08-23,Saturday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,2.143172488025442,8.0,49.9,69.9,0.499,LOSS,0,-8.0,2-1,8,3
+2025-08-23,Saturday,19:00,LAFC,LA Galaxy,MLS,BTTS No,2.69,8.0,66.4,61.9,0.664,LOSS,0,-8.0,2-2,12,4
+2025-08-23,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 1.5,2.001794833836946,8.0,37.6,68.7,0.376,WIN,16.01,8.01,2-2,12,4
+2025-08-23,Saturday,19:00,LAFC,LA Galaxy,MLS,Home/Away,1.37,5.9,5.5,77.0,0.055,LOSS,0,-5.92,2-2,12,4
+2025-08-23,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.3,8.0,33.5,58.0,0.335,LOSS,0,-8.0,1-3,10,4
+2025-08-24,Sunday,15:00,Arsenal,Chelsea,Premier League,Draw/Away,2.17,8.0,36.3,62.8,0.363,WIN,17.36,9.36,1-2,14,3
+2025-08-24,Sunday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,1.9134937731584076,7.9,18.1,61.7,0.181,WIN,15.18,7.25,1-2,14,3
+2025-08-24,Sunday,15:00,Arsenal,Chelsea,Premier League,BTTS No,1.93,7.4,17.1,60.7,0.171,LOSS,0,-7.37,1-2,14,3
+2025-08-24,Sunday,17:30,Liverpool,Manchester United,Premier League,BTTS No,2.7,8.0,57.4,58.3,0.574,LOSS,0,-8.0,1-1,14,2
+2025-08-24,Sunday,17:30,Liverpool,Manchester United,Premier League,Over 1.5,2.128628329646202,8.0,46.3,68.7,0.463,WIN,17.03,9.03,1-1,14,2
+2025-08-24,Sunday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.25,8.0,36.6,60.7,0.366,LOSS,0,-8.0,1-1,12,2
+2025-08-24,Sunday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,1.9092554639260504,7.5,17.1,61.3,0.171,WIN,14.33,6.82,1-1,12,2
+2025-08-24,Sunday,21:00,Real Madrid,Barcelona,La Liga,Home/Draw,1.8,3.9,7.8,59.9,0.078,WIN,7.05,3.13,1-1,12,2
+2025-08-24,Sunday,20:45,Juventus,Inter Milan,Serie A,Home/Draw,1.79,5.0,9.8,61.4,0.098,WIN,8.91,3.93,2-2,18,4
+2025-08-24,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,2.0757639635748193,8.0,25.3,60.4,0.253,WIN,16.61,8.61,1-1,11,2
+2025-08-24,Sunday,15:00,Leeds United,Leicester City,Championship,Over 1.5,2.0887263633440263,8.0,52.3,72.9,0.523,WIN,16.71,8.71,1-1,14,2
+2025-08-24,Sunday,15:00,Leeds United,Leicester City,Championship,BTTS No,2.2,8.0,34.2,61.0,0.342,LOSS,0,-8.0,1-1,14,2
+2025-08-24,Sunday,15:00,Leeds United,Leicester City,Championship,Over 9.5 Corners,1.7579821221607284,8.0,19.9,68.2,0.199,WIN,14.06,6.06,1-1,14,2
+2025-08-24,Sunday,19:00,LAFC,LA Galaxy,MLS,Under 11.5 Corners,1.4002935694684104,8.0,10.6,79.0,0.106,LOSS,0,-8.0,0-2,13,2
+2025-08-24,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 9.5 Corners,1.8368962165929426,8.0,27.5,69.4,0.275,WIN,14.7,6.7,3-1,14,4
+2025-08-24,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home/Draw,2.0,8.0,22.7,61.4,0.227,WIN,16.0,8.0,3-1,14,4
+2025-08-24,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 2.5,1.8490104520778883,4.0,8.4,58.7,0.084,WIN,7.36,3.38,3-1,14,4
+2025-08-25,Monday,19:45,Team 7,Team 35,MLS,Over 1.5,2.193339182040478,8.0,58.5,72.3,0.585,WIN,17.55,9.55,2-1,14,3
+2025-08-25,Monday,19:45,Team 7,Team 35,MLS,BTTS No,1.88,8.0,19.2,63.4,0.192,LOSS,0,-8.0,2-1,14,3
+2025-08-28,Thursday,19:45,Team 10,Team 29,Serie B,BTTS No,2.41,8.0,89.1,78.4,0.891,LOSS,0,-8.0,2-1,15,3
+2025-08-28,Thursday,19:45,Team 10,Team 29,Serie B,Over 1.5,2.2336417442214644,8.0,59.1,71.2,0.591,WIN,17.87,9.87,2-1,15,3
+2025-08-28,Thursday,19:45,Team 10,Team 29,Serie B,Draw/Away,2.13,8.0,25.2,58.8,0.252,LOSS,0,-8.0,2-1,15,3
+2025-08-30,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 11.5 Corners,3.8499255479503898,8.0,164.6,68.7,1.646,WIN,30.8,22.8,1-1,14,2
+2025-08-30,Saturday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,2.1737146371185267,8.0,51.3,69.6,0.513,WIN,17.39,9.39,1-1,14,2
+2025-08-30,Saturday,15:00,Arsenal,Chelsea,Premier League,BTTS No,2.16,8.0,30.5,60.4,0.305,LOSS,0,-8.0,1-1,14,2
+2025-08-30,Saturday,17:30,Liverpool,Manchester United,Premier League,BTTS No,1.98,7.3,17.9,59.6,0.179,WIN,14.5,7.18,3-0,18,3
+2025-08-30,Saturday,17:30,Liverpool,Manchester United,Premier League,Under 11.5 Corners,1.3964248941534407,7.7,7.6,77.1,0.076,LOSS,0,-7.66,3-0,18,3
+2025-08-30,Saturday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,2.448950358504176,8.0,54.5,63.1,0.545,LOSS,0,-8.0,1-1,9,2
+2025-08-30,Saturday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.07,7.7,20.7,58.3,0.207,LOSS,0,-7.73,1-1,9,2
+2025-08-30,Saturday,21:00,Real Madrid,Barcelona,La Liga,Home Under 1.5,1.694035001970719,8.0,14.0,67.3,0.14,WIN,13.55,5.55,1-1,9,2
+2025-08-30,Saturday,20:45,Juventus,Inter Milan,Serie A,BTTS No,2.42,8.0,49.7,61.9,0.497,LOSS,0,-8.0,1-2,14,3
+2025-08-30,Saturday,20:45,Juventus,Inter Milan,Serie A,Home/Draw,1.73,3.4,6.2,61.4,0.062,LOSS,0,-3.37,1-2,14,3
+2025-08-30,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,1.920337026490441,8.0,25.2,65.2,0.252,WIN,15.36,7.36,1-2,16,3
+2025-08-30,Saturday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 2.5,1.7594523076261674,8.0,15.9,65.9,0.159,WIN,14.08,6.08,1-2,16,3
+2025-08-30,Saturday,15:00,Leeds United,Leicester City,Championship,BTTS No,2.24,8.0,32.8,59.3,0.328,WIN,17.92,9.92,2-0,11,2
+2025-08-30,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 9.5 Corners,2.1626045540769656,8.0,52.4,70.4,0.524,WIN,17.3,9.3,2-1,12,3
+2025-08-30,Saturday,19:00,LAFC,LA Galaxy,MLS,Over 1.5,2.3244679062167046,8.0,50.8,64.9,0.508,WIN,18.6,10.6,2-1,12,3
+2025-08-30,Saturday,19:00,LAFC,LA Galaxy,MLS,BTTS No,2.16,8.0,39.4,64.6,0.394,LOSS,0,-8.0,2-1,12,3
+2025-08-30,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Over 9.5 Corners,1.9915690200323977,8.0,32.6,66.6,0.326,WIN,15.93,7.93,2-0,12,2
+2025-08-30,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.22,8.0,31.6,59.3,0.316,WIN,17.76,9.76,2-0,12,2
+2025-08-30,Saturday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Draw/Away,2.1,8.0,31.0,62.4,0.31,LOSS,0,-8.0,2-0,12,2
+2025-08-31,Sunday,15:00,Arsenal,Chelsea,Premier League,Over 9.5 Corners,2.1228489681704614,8.0,41.3,66.6,0.413,WIN,16.98,8.98,0-3,19,3
+2025-08-31,Sunday,17:30,Liverpool,Manchester United,Premier League,Over 9.5 Corners,1.8327339106755236,8.0,22.0,66.6,0.22,WIN,14.66,6.66,0-2,11,2
+2025-08-31,Sunday,17:30,Liverpool,Manchester United,Premier League,BTTS No,1.89,8.0,19.2,63.0,0.192,WIN,15.12,7.12,0-2,11,2
+2025-08-31,Sunday,21:00,Real Madrid,Barcelona,La Liga,Over 1.5,2.2205008099637786,8.0,62.3,73.1,0.623,WIN,17.76,9.76,1-1,18,2
+2025-08-31,Sunday,21:00,Real Madrid,Barcelona,La Liga,Over 9.5 Corners,1.9936418440843242,8.0,40.3,70.4,0.403,WIN,15.95,7.95,1-1,18,2
+2025-08-31,Sunday,21:00,Real Madrid,Barcelona,La Liga,BTTS No,2.1,8.0,21.9,58.0,0.219,LOSS,0,-7.97,1-1,18,2
+2025-08-31,Sunday,20:45,Juventus,Inter Milan,Serie A,Over 9.5 Corners,2.141312712816007,8.0,46.2,68.3,0.462,WIN,17.13,9.13,0-2,13,2
+2025-08-31,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Over 9.5 Corners,1.9002231242306884,8.0,38.4,72.8,0.384,WIN,15.2,7.2,1-1,12,2
+2025-08-31,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Draw/Away,1.89,8.0,18.0,62.5,0.18,WIN,15.12,7.12,1-1,12,2
+2025-08-31,Sunday,15:30,Bayern Munich,Borussia Dortmund,Bundesliga,Away Under 1.5,1.7007278138671842,3.0,5.3,61.9,0.053,WIN,5.12,2.11,1-1,12,2
+2025-08-31,Sunday,15:00,Leeds United,Leicester City,Championship,BTTS No,2.28,8.0,49.2,65.4,0.492,LOSS,0,-8.0,1-1,15,2
+2025-08-31,Sunday,15:00,Leeds United,Leicester City,Championship,Over 1.5,1.9796866668088595,6.2,15.2,58.2,0.152,WIN,12.28,6.08,1-1,15,2
+2025-08-31,Sunday,19:00,LAFC,LA Galaxy,MLS,Home Under 1.5,1.7926592254881022,8.0,18.3,66.0,0.183,WIN,14.34,6.34,0-3,9,3
+2025-08-31,Sunday,19:00,LAFC,LA Galaxy,MLS,Over 2.5,1.8023236960644367,2.8,5.7,58.7,0.057,WIN,5.13,2.28,0-3,9,3
+2025-08-31,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,BTTS No,2.3,8.0,39.0,60.4,0.39,WIN,18.4,10.4,0-3,18,3
+2025-08-31,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home/Draw,1.97,8.0,19.5,60.7,0.195,LOSS,0,-8.0,0-3,18,3
+2025-08-31,Sunday,21:30,Flamengo,Palmeiras,Brazilian Serie A,Home Under 1.5,1.7755643408787132,8.0,17.2,66.0,0.172,WIN,14.2,6.2,0-3,18,3
+2025-09-02,Tuesday,20:00,Real Madrid,Bayern Munich,UEFA Champions League,Over 9.5 Corners,2.071553413743545,8.0,47.5,71.2,0.475,WIN,16.57,8.57,0-2,16,2
+2025-09-02,Tuesday,20:00,Real Madrid,Bayern Munich,UEFA Champions League,Over 2.5,1.796511344587608,2.7,5.4,58.7,0.054,LOSS,0,-2.7,0-2,16,2
+2025-09-02,Tuesday,20:00,Barcelona,Arsenal,UEFA Champions League,Over 9.5 Corners,2.1791115307686164,8.0,37.5,63.1,0.375,WIN,17.43,9.43,1-1,17,2
+2025-09-02,Tuesday,20:00,Barcelona,Arsenal,UEFA Champions League,Home/Draw,1.96,8.0,20.3,61.4,0.203,WIN,15.68,7.68,1-1,17,2
+2025-09-02,Tuesday,18:45,Tottenham,Roma,UEFA Europa League,Over 9.5 Corners,1.9828153685946592,8.0,26.6,63.9,0.266,WIN,15.86,7.86,2-2,12,4
+2025-09-02,Tuesday,18:45,Tottenham,Roma,UEFA Europa League,Home Under 1.5,1.699482088189199,6.1,10.7,65.1,0.107,LOSS,0,-6.12,2-2,12,4
+2025-09-02,Tuesday,19:30,Crystal Palace,Brighton,Premier League,Over 1.5,2.3191039176130257,8.0,58.1,68.2,0.581,WIN,18.55,10.55,1-3,17,4
+2025-09-02,Tuesday,19:30,Crystal Palace,Brighton,Premier League,BTTS No,2.14,8.0,48.3,69.3,0.483,LOSS,0,-8.0,1-3,17,4
+2025-09-02,Tuesday,19:30,Crystal Palace,Brighton,Premier League,Over 9.5 Corners,2.0296589322077603,8.0,24.4,61.3,0.244,WIN,16.24,8.24,1-3,17,4
+2025-09-03,Wednesday,20:00,Real Madrid,Bayern Munich,UEFA Champions League,Over 1.5,2.2036916321580162,8.0,62.8,73.9,0.628,WIN,17.63,9.63,2-1,8,3
+2025-09-03,Wednesday,20:00,Real Madrid,Bayern Munich,UEFA Champions League,Over 9.5 Corners,1.8144055095600544,8.0,24.2,68.5,0.242,LOSS,0,-8.0,2-1,8,3
+2025-09-03,Wednesday,20:00,Real Madrid,Bayern Munich,UEFA Champions League,BTTS No,1.95,8.0,20.6,61.9,0.206,LOSS,0,-8.0,2-1,8,3
+2025-09-03,Wednesday,20:00,Barcelona,Arsenal,UEFA Champions League,BTTS No,2.3,8.0,39.6,60.7,0.396,WIN,18.4,10.4,0-0,8,0
+2025-09-03,Wednesday,20:00,Barcelona,Arsenal,UEFA Champions League,Over 1.5,1.8334673216926645,8.0,30.0,70.9,0.3,LOSS,0,-8.0,0-0,8,0
+2025-09-03,Wednesday,18:45,Tottenham,Roma,UEFA Europa League,Over 9.5 Corners,2.0090544131443657,8.0,33.8,66.6,0.338,LOSS,0,-8.0,1-1,8,2
+2025-09-03,Wednesday,18:45,Tottenham,Roma,UEFA Europa League,BTTS No,2.21,8.0,28.3,58.0,0.283,LOSS,0,-8.0,1-1,8,2
+2025-09-03,Wednesday,18:45,Tottenham,Roma,UEFA Europa League,Over 2.5,1.8218982060773175,3.3,6.7,58.6,0.067,LOSS,0,-3.27,1-1,8,2
+2025-09-03,Wednesday,19:30,Crystal Palace,Brighton,Premier League,BTTS No,2.33,8.0,41.4,60.7,0.414,LOSS,0,-8.0,1-1,16,2
+2025-09-03,Wednesday,19:30,Crystal Palace,Brighton,Premier League,Home/Draw,1.98,8.0,20.1,60.7,0.201,WIN,15.84,7.84,1-1,16,2
+2025-09-03,Wednesday,19:30,Crystal Palace,Brighton,Premier League,Under 11.5 Corners,1.4288004150191083,8.0,12.8,79.0,0.128,LOSS,0,-8.0,1-1,16,2
+2025-09-06,Saturday,16:30,Manchester City,Tottenham,Premier League,Home Under 1.5,1.7130526456045445,7.3,13.1,66.0,0.131,LOSS,0,-7.32,2-0,11,2
+2025-09-06,Saturday,16:30,Manchester City,Tottenham,Premier League,BTTS No,1.84,3.5,7.3,58.3,0.073,WIN,6.37,2.91,2-0,11,2
+2025-09-06,Saturday,14:00,Newcastle,Brighton,Premier League,Over 9.5 Corners,2.1867754130426005,8.0,45.6,66.6,0.456,WIN,17.49,9.49,1-1,17,2
+2025-09-06,Saturday,14:00,Newcastle,Brighton,Premier League,BTTS No,2.06,8.0,22.1,59.3,0.221,LOSS,0,-8.0,1-1,17,2
+2025-09-06,Saturday,14:00,Newcastle,Brighton,Premier League,Over 1.5,1.3379324102640893,7.6,6.4,79.5,0.064,WIN,10.14,2.56,1-1,17,2
+2025-09-06,Saturday,20:00,PSG,Manchester City,UEFA Champions League,BTTS No,1.98,6.4,15.6,58.4,0.156,WIN,12.64,6.26,0-2,12,2
+2025-09-06,Saturday,20:00,PSG,Manchester City,UEFA Champions League,Under 11.5 Corners,1.3733256217540544,8.0,8.8,79.2,0.088,LOSS,0,-8.0,0-2,12,2
+2025-09-06,Saturday,21:00,Atletico Madrid,Sevilla,La Liga,Over 11.5 Corners,2.5526186446856545,8.0,49.4,58.5,0.494,WIN,20.42,12.42,2-0,14,2
+2025-09-06,Saturday,21:00,Atletico Madrid,Sevilla,La Liga,Over 9.5 Corners,1.9719202657057537,8.0,34.6,68.3,0.346,WIN,15.78,7.78,2-0,14,2
+2025-09-06,Saturday,20:45,AC Milan,Roma,Serie A,Over 9.5 Corners,2.1583817380673085,8.0,39.4,64.6,0.394,WIN,17.27,9.27,1-0,14,1
+2025-09-06,Saturday,20:45,AC Milan,Roma,Serie A,Draw/Away,2.07,8.0,26.8,61.3,0.268,LOSS,0,-8.0,1-0,14,1
+2025-09-06,Saturday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,BTTS No,2.27,8.0,70.8,75.2,0.708,LOSS,0,-8.0,2-1,13,3
+2025-09-06,Saturday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,Over 1.5,2.16536236886877,8.0,54.3,71.2,0.543,WIN,17.32,9.32,2-1,13,3
+2025-09-06,Saturday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,Over 9.5 Corners,1.9712522639459533,8.0,40.4,71.2,0.404,WIN,15.77,7.77,2-1,13,3
+2025-09-06,Saturday,20:45,PSG,Marseille,Ligue 1,Home Under 1.5,1.7410520298891217,2.8,5.2,60.4,0.052,WIN,4.89,2.08,1-2,12,3
+2025-09-06,Saturday,14:30,Ajax,PSV,Eredivisie,Home Under 1.5,1.7909871835262878,8.0,16.7,65.1,0.167,WIN,14.33,6.33,0-1,9,1
+2025-09-06,Saturday,14:30,Ajax,PSV,Eredivisie,Over 9.5 Corners,1.7959256396883476,5.1,10.1,61.3,0.101,LOSS,0,-5.08,0-1,9,1
+2025-09-07,Sunday,16:30,Manchester City,Tottenham,Premier League,Over 9.5 Corners,1.8121787653451098,8.0,36.5,75.3,0.365,LOSS,0,-8.0,0-3,9,3
+2025-09-07,Sunday,16:30,Manchester City,Tottenham,Premier League,Home/Draw,2.02,8.0,23.9,61.4,0.239,LOSS,0,-8.0,0-3,9,3
+2025-09-07,Sunday,16:30,Manchester City,Tottenham,Premier League,Away Under 1.5,1.7742158148859315,6.0,11.6,62.9,0.116,LOSS,0,-6.02,0-3,9,3
+2025-09-07,Sunday,14:00,Newcastle,Brighton,Premier League,Over 9.5 Corners,2.012678616395861,8.0,45.6,72.3,0.456,WIN,16.1,8.1,0-1,13,1
+2025-09-07,Sunday,14:00,Newcastle,Brighton,Premier League,BTTS No,2.05,8.0,30.0,63.4,0.3,WIN,16.4,8.4,0-1,13,1
+2025-09-07,Sunday,20:00,PSG,Manchester City,UEFA Champions League,Over 9.5 Corners,2.0940167689198312,8.0,35.7,64.8,0.357,WIN,16.75,8.75,1-1,17,2
+2025-09-07,Sunday,20:00,PSG,Manchester City,UEFA Champions League,Home Under 1.5,1.7807015246897526,8.0,16.0,65.1,0.16,WIN,14.25,6.25,1-1,17,2
+2025-09-07,Sunday,21:00,Atletico Madrid,Sevilla,La Liga,BTTS No,2.62,8.0,59.0,60.7,0.59,WIN,20.96,12.96,2-0,16,2
+2025-09-07,Sunday,21:00,Atletico Madrid,Sevilla,La Liga,Over 9.5 Corners,2.125287133234663,8.0,41.0,66.3,0.41,WIN,17.0,9.0,2-0,16,2
+2025-09-07,Sunday,20:45,AC Milan,Roma,Serie A,Over 9.5 Corners,1.889023968666576,8.0,22.0,64.6,0.22,WIN,15.11,7.11,1-1,11,2
+2025-09-07,Sunday,20:45,AC Milan,Roma,Serie A,BTTS No,2.04,8.0,21.3,59.5,0.213,LOSS,0,-8.0,1-1,11,2
+2025-09-07,Sunday,20:45,AC Milan,Roma,Serie A,Home/Draw,1.87,6.8,14.7,61.4,0.147,WIN,12.68,5.9,1-1,11,2
+2025-09-07,Sunday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,BTTS No,2.72,8.0,68.2,61.9,0.682,LOSS,0,-8.0,1-1,14,2
+2025-09-07,Sunday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,Over 1.5,2.234544628411888,8.0,59.2,71.2,0.592,WIN,17.88,9.88,1-1,14,2
+2025-09-07,Sunday,15:30,RB Leipzig,Bayer Leverkusen,Bundesliga,Over 9.5 Corners,2.173660962614299,8.0,48.0,68.1,0.48,WIN,17.39,9.39,1-1,14,2
+2025-09-07,Sunday,20:45,PSG,Marseille,Ligue 1,Over 1.5,2.1735892214011248,8.0,44.6,66.5,0.446,WIN,17.39,9.39,2-1,14,3
+2025-09-07,Sunday,20:45,PSG,Marseille,Ligue 1,BTTS No,2.08,8.0,28.7,61.9,0.287,LOSS,0,-8.0,2-1,14,3
+2025-09-07,Sunday,20:45,PSG,Marseille,Ligue 1,Over 9.5 Corners,1.7208894039120493,8.0,24.5,72.3,0.245,WIN,13.77,5.77,2-1,14,3
+2025-09-07,Sunday,14:30,Ajax,PSV,Eredivisie,BTTS No,2.24,8.0,34.0,59.8,0.34,LOSS,0,-8.0,1-2,8,3
+2025-09-07,Sunday,14:30,Ajax,PSV,Eredivisie,Home/Draw,1.92,7.2,16.5,60.7,0.165,LOSS,0,-7.17,1-2,8,3

@@ -1,0 +1,363 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,recommended_stake_pct,edge_percent,confidence_percent,expected_value,quality_score,risk_level,country
+2025-09-07,21:00,Barcelona,Girona,La Liga,Under 1.5,Under 1.5 Goals,4.2237592949387075,8.0,286.8,91.6,2.868,2.132,High Risk,
+2025-09-07,16:30,Liverpool,Nottingham Forest,Premier League,Over 1.5,Over 1.5 Goals,2.3064542628880607,8.0,60.7,69.7,0.607,0.484,Medium Risk,
+2025-09-07,15:30,Bayern Munich,Freiburg,Bundesliga,Over 9.5 Corners,Over 9.5 Total Corners,2.1722808240148797,8.0,48.5,68.3,0.485,0.394,Medium Risk,
+2025-09-07,14:00,Manchester City,Brighton,Premier League,Over 1.5,Over 1.5 Goals,2.0809070658801923,8.0,45.0,69.7,0.45,0.374,Medium Risk,
+2025-09-07,15:00,Juventus,Roma,Serie A,Over 9.5 Corners,Over 9.5 Total Corners,1.985770993913854,8.0,43.3,72.2,0.433,0.37,Medium Risk,
+2025-09-07,21:00,Barcelona,Girona,La Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.9805279798448925,8.0,42.9,72.2,0.429,0.367,Medium Risk,
+2025-09-07,20:45,Inter Milan,Atalanta,Serie A,Over 1.5,Over 1.5 Goals,2.0042302344039515,8.0,40.8,70.3,0.408,0.347,Medium Risk,
+2025-09-07,16:30,Liverpool,Nottingham Forest,Premier League,Over 9.5 Corners,Over 9.5 Total Corners,2.1197291618227654,8.0,41.4,66.7,0.414,0.34,Medium Risk,
+2025-09-07,15:00,Novorizontino,Atlético GO,Unknown,Over 1.5,Over 1.5 Goals,2.352950552048408,8.0,81.3,77.0,0.813,0.65,Medium Risk,
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Over 1.5,Over 1.5 Goals,1.843307988751456,8.0,42.0,77.0,0.42,0.375,Medium Risk,
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Home Under 1.5,Home Team Under 1.5 Goals,1.5735017117311147,8.0,14.1,72.5,0.141,0.166,Low Risk,
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Over 9.5 Corners,Over 9.5 Total Corners,1.7000782099077143,7.8,13.6,66.8,0.136,0.146,Low Risk,
+2025-09-07,15:00,Novorizontino,Atlético GO,Unknown,Away +1,Away Team +1 Handicap,1.4330541099392724,8.0,9.4,76.3,0.094,0.145,Low Risk,
+2025-09-08,16:00,Madagascar,Chad,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.1185623937310374,8.0,59.3,75.2,0.593,0.491,Medium Risk,
+2025-09-08,19:00,Libya,Eswatini,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.171396208559776,8.0,55.8,71.7,0.558,0.455,Medium Risk,
+2025-09-08,16:00,Guinea,Algeria,World Cup - Qualification Africa,Over 9.5 Corners,Over 9.5 Total Corners,2.1131611631465983,8.0,53.5,72.6,0.535,0.442,Medium Risk,
+2025-09-08,23:00,New England II,Huntsville City,MLS Next Pro,Over 1.5,Over 1.5 Goals,1.9919877270427824,8.0,45.8,73.2,0.458,0.39,Medium Risk,
+2025-09-08,16:00,Carl Zeiss Jena  W,1899 Hoffenheim W,Frauen Bundesliga,Over 1.5,Over 1.5 Goals,2.128309373508084,8.0,45.7,68.5,0.457,0.376,Medium Risk,
+2025-09-08,13:00,Zambia,Morocco,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,1.9653805858024889,8.0,39.3,70.9,0.393,0.338,Medium Risk,
+2025-09-08,19:00,Ghana,Mali,World Cup - Qualification Africa,Over 9.5 Corners,Over 9.5 Total Corners,1.726210277348142,8.0,35.8,78.7,0.358,0.336,Low Risk,
+2025-09-08,22:00,Tivoli Gardens,Spanish Town Police,Premier League,Over 9.5 Corners,Over 9.5 Total Corners,2.0880467250107926,8.0,39.2,66.7,0.392,0.325,Medium Risk,
+2025-09-09,00:30,Vila Nova,Athletic Club,Serie B,Over 2.5,Over 2.5 Goals,2.616721369708716,8.0,76.8,67.5,0.768,0.59,Medium Risk,
+2025-09-09,00:30,El Salvador,Suriname,World Cup - Qualification CONCACAF,Over 1.5,Over 1.5 Goals,2.3729489436790385,8.0,66.9,70.3,0.669,0.529,Medium Risk,
+2025-09-09,16:00,Cape Verde Islands,Cameroon,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.3112455187020755,8.0,63.7,70.8,0.637,0.508,Medium Risk,
+2025-09-09,23:30,Chile,Uruguay,World Cup - Qualification South America,Over 1.5,Over 1.5 Goals,2.383046242582057,8.0,64.3,68.9,0.643,0.507,Medium Risk,
+2025-09-09,13:00,Sierra Leone,Ethiopia,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.304200879359145,8.0,60.0,69.5,0.6,0.479,Medium Risk,
+2025-09-09,16:00,Congo DR,Senegal,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.2556642742984825,8.0,58.7,70.3,0.587,0.472,Medium Risk,
+2025-09-09,18:45,Albania,Latvia,World Cup - Qualification Europe,Over 9.5 Corners,Over 9.5 Total Corners,2.149278709117442,8.0,56.6,72.9,0.566,0.465,Medium Risk,
+2025-09-09,16:00,Togo,Sudan,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.314630491438746,8.0,53.1,66.2,0.531,0.42,Medium Risk,
+2025-09-10,14:00,Molodechno-DYuSSh 4,Neman,Premier League,Over 9.5 Corners,Over 9.5 Total Corners,1.8430644273310977,8.0,36.6,74.1,0.366,0.466,Medium Risk,
+2025-09-10,00:00,Curaçao,Bermuda,World Cup - Qualification CONCACAF,Over 9.5 Corners,Over 9.5 Total Corners,1.9472015550738464,8.0,41.4,72.6,0.414,0.43,Medium Risk,
+2025-09-10,02:00,Costa Rica,Haiti,World Cup - Qualification CONCACAF,BTTS No,Both Teams to Score - No,2.22,8.0,38.7,62.5,0.387,0.408,Medium Risk,
+2025-09-11,17:00,Brann W,Manchester United W,UEFA Champions League Women,Over 1.5,Over 1.5 Goals,2.2203619992492647,8.0,54.9,69.8,0.549,0.842,Medium Risk,World
+2025-09-11,17:30,St. Pölten W,Fortuna Hjørring,UEFA Champions League Women,Home Over 1.5,Home Team Over 1.5 Goals,3.046262933165229,8.0,91.6,62.9,0.916,0.779,High Risk,World
+2025-09-11,18:30,Roma W,Sporting CP W,UEFA Champions League Women,Over 9.5 Corners,Over 9.5 Total Corners,2.6587349579171464,8.0,67.4,62.9,0.674,0.716,Medium Risk,World
+2025-09-11,17:00,Paris FC W,Austria Wien W,UEFA Champions League Women,Over 9.5 Corners,Over 9.5 Total Corners,1.9878264974220512,8.0,46.1,73.5,0.461,0.63,Medium Risk,World
+2025-09-11,17:30,Vorskla Poltava W,OH Leuven W,UEFA Champions League Women,Over 1.5,Over 1.5 Goals,1.911618317088194,8.0,38.3,72.3,0.383,0.514,Medium Risk,World
+2025-09-11,17:00,Häcken,Atletico Madrid W,UEFA Champions League Women,Over 9.5 Corners,Over 9.5 Total Corners,1.977217902273806,8.0,27.9,64.7,0.279,0.283,Medium Risk,World
+2025-09-13,15:30,Wisla Plock,Cracovia Krakow,Ekstraklasa,Over 9.5 Corners,Over 9.5 Total Corners,2.094391204794327,8.0,68.3,80.4,0.683,0.626,Medium Risk,Poland
+2025-09-13,15:30,Wisla Plock,Cracovia Krakow,Ekstraklasa,Over 1.5,Over 1.5 Goals,2.160684047049986,8.0,53.6,71.1,0.536,0.545,Medium Risk,Poland
+2025-09-13,15:30,Wisla Plock,Cracovia Krakow,Ekstraklasa,BTTS No,Both Teams to Score - No,1.9,7.9,17.8,62.0,0.178,0.401,Medium Risk,Poland
+2025-09-13,15:30,Wisla Plock,Cracovia Krakow,Ekstraklasa,Home Under 1.5,Home Team Under 1.5 Goals,1.6038216388704212,6.0,9.0,68.0,0.09,0.399,Low Risk,Poland
+2025-09-14,13:00,Burnley,Liverpool,Premier League,Away -1,Away -1,6.8430029269498736,8.0,461.5,82.1,4.615,1.813,High Risk,England
+2025-09-14,12:30,Heracles,AZ Alkmaar,Eredivisie,Away -1,Away -1,6.695088368744285,8.0,449.3,82.1,4.493,1.776,High Risk,Netherlands
+2025-09-14,15:15,Paris Saint Germain,Lens,Ligue 1,Home -1,Home -1,6.012646548122621,8.0,350.9,75.0,3.509,1.453,High Risk,France
+2025-09-14,19:30,SC Braga,GIL Vicente,Primeira Liga,Home -1,Home -1,3.595330760904049,8.0,185.3,79.4,1.853,0.973,High Risk,Portugal
+2025-09-14,12:00,Celta Vigo,Girona,La Liga,BTTS No,Both Teams to Score - No,2.65,8.0,130.7,87.1,1.307,0.84,Medium Risk,Spain
+2025-09-14,16:30,Sporting Gijon,Burgos,Segunda División,Over 11.5 Corners,Over 11.5 Total Corners,4.03182933748884,8.0,153.9,63.0,1.539,0.814,High Risk,Spain
+2025-09-14,13:00,Burnley,Liverpool,Premier League,Over 11.5 Corners,Over 11.5 Total Corners,3.605795840586805,8.0,145.3,68.0,1.453,0.808,High Risk,England
+2025-09-14,10:15,Motor Lublin,Nieciecza,Ekstraklasa,BTTS No,Both Teams to Score - No,2.46,8.0,98.6,80.7,0.986,0.719,Medium Risk,Poland
+2025-09-14,19:00,Barcelona,Valencia,La Liga,Home -1,Home -1,3.3093982640840256,8.0,115.5,65.1,1.155,0.707,High Risk,Spain
+2025-09-14,15:00,KFUM Oslo,Viking,Eliteserien,Over 11.5 Corners,Over 11.5 Total Corners,2.6960054853755975,8.0,99.1,73.8,0.991,0.693,Medium Risk,Norway
+2025-09-14,18:00,Leones Negros UDG,CA La Paz,Liga de Expansión MX,BTTS No,Both Teams to Score - No,2.6,8.0,95.4,75.2,0.954,0.687,Medium Risk,Mexico
+2025-09-14,13:00,Burnley,Liverpool,Premier League,Away Over 1.5,Away Team Over 1.5 Goals,3.434929383418579,8.0,107.7,60.5,1.077,0.665,High Risk,England
+2025-09-14,12:00,Djurgardens IF,Hammarby FF,Allsvenskan,Over 9.5 Corners,Over 9.5 Total Corners,2.1458442822103834,8.0,75.9,81.9,0.759,0.655,Medium Risk,Sweden
+2025-09-14,14:00,Kayserispor,Goztepe,Süper Lig,BTTS No,Both Teams to Score - No,2.13,8.0,71.1,80.3,0.711,0.635,Medium Risk,Turkey
+2025-09-14,12:45,Oţelul,FC Botosani,Liga I,Over 9.5 Corners,Over 9.5 Total Corners,1.988162368234956,8.0,62.9,81.9,0.629,0.617,Medium Risk,Romania
+2025-09-14,18:00,York United,Atlético Ottawa,Canadian Premier League,Over 11.5 Corners,Over 11.5 Total Corners,2.3518795280351488,8.0,73.7,73.8,0.737,0.616,Medium Risk,Canada
+2025-09-14,13:00,Virtus Entella,Mantova,Serie B,BTTS No,Both Teams to Score - No,2.27,8.0,70.6,75.2,0.706,0.612,Medium Risk,Italy
+2025-09-14,12:00,Djurgardens IF,Hammarby FF,Allsvenskan,Home Under 1.5,Home Team Under 1.5 Goals,1.7634009894095082,8.0,53.6,87.1,0.536,0.609,Low Risk,Sweden
+2025-09-14,17:00,Arouca,Casa Pia,Primeira Liga,BTTS No,Both Teams to Score - No,2.47,8.0,74.7,70.7,0.747,0.607,Medium Risk,Portugal
+2025-09-14,18:00,Csikszereda,FCSB,Liga I,Home Under 1.5,Home Team Under 1.5 Goals,1.7480495327020662,8.0,50.2,85.9,0.502,0.594,Low Risk,Romania
+2025-09-14,15:15,Stade Brestois 29,Paris FC,Ligue 1,BTTS No,Both Teams to Score - No,2.74,8.0,78.1,65.0,0.781,0.594,Medium Risk,France
+2025-09-14,15:30,Manchester City,Manchester United,Premier League,BTTS No,Both Teams to Score - No,2.84,8.0,79.8,63.3,0.798,0.593,Medium Risk,England
+2025-09-14,16:30,Osasuna,Rayo Vallecano,La Liga,Over 9.5 Corners,Over 9.5 Total Corners,2.0834938770467337,8.0,61.1,77.3,0.611,0.593,Medium Risk,Spain
+2025-09-14,14:15,Racing Santander,Cultural Leonesa,Segunda División,BTTS No,Both Teams to Score - No,2.31,8.0,67.2,72.4,0.672,0.591,Medium Risk,Spain
+2025-09-14,12:00,FC Winterthur,FC Sion,Super League,Home Under 1.5,Home Team Under 1.5 Goals,1.7442867698243494,8.0,49.3,85.6,0.493,0.59,Low Risk,Switzerland
+2025-09-14,12:45,Legia Warszawa,Radomiak Radom,Ekstraklasa,BTTS No,Both Teams to Score - No,2.81,8.0,78.5,63.5,0.785,0.589,Medium Risk,Poland
+2025-09-14,15:00,KFUM Oslo,Viking,Eliteserien,Over 9.5 Corners,Over 9.5 Total Corners,1.7207461301075042,8.0,47.5,85.7,0.475,0.585,Low Risk,Norway
+2025-09-14,14:30,Estrela,Guimaraes,Primeira Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.806294230321561,8.0,48.0,81.9,0.48,0.572,Medium Risk,Portugal
+2025-09-14,12:30,Heracles,AZ Alkmaar,Eredivisie,Draw/Away,Draw or Away Win,2.2,8.0,60.2,72.8,0.602,0.572,Medium Risk,Netherlands
+2025-09-14,14:30,Grasshoppers,Lausanne,Super League,BTTS No,Both Teams to Score - No,2.7,8.0,71.6,63.6,0.716,0.569,Medium Risk,Switzerland
+2025-09-14,10:15,Motor Lublin,Nieciecza,Ekstraklasa,Over 9.5 Corners,Over 9.5 Total Corners,1.794240113681328,8.0,47.0,81.9,0.47,0.569,Low Risk,Poland
+2025-09-14,12:30,Heracles,AZ Alkmaar,Eredivisie,Over 9.5 Corners,Over 9.5 Total Corners,2.662414730641673,8.0,70.5,64.0,0.705,0.568,Medium Risk,Netherlands
+2025-09-14,11:30,Preußen Münster,Fortuna Düsseldorf,2. Bundesliga,Over 9.5 Corners,Over 9.5 Total Corners,2.102748888813331,8.0,56.2,74.3,0.562,0.566,Medium Risk,Germany
+2025-09-14,13:00,Burnley,Liverpool,Premier League,Draw/Away,Draw or Away Win,2.1,8.0,55.9,74.3,0.559,0.565,Medium Risk,England
+2025-09-14,13:00,FF Jaro,AC Oulu,Veikkausliiga,BTTS No,Both Teams to Score - No,2.47,8.0,65.2,66.9,0.652,0.563,Medium Risk,Finland
+2025-09-14,11:30,SV Elversberg,Dynamo Dresden,2. Bundesliga,BTTS No,Both Teams to Score - No,2.6,8.0,67.9,64.6,0.679,0.562,Medium Risk,Germany
+2025-09-14,17:15,Haugesund,Rosenborg,Eliteserien,Over 9.5 Corners,Over 9.5 Total Corners,2.1979032852987284,8.0,57.6,71.7,0.576,0.56,Medium Risk,Norway
+2025-09-14,16:30,Sporting Gijon,Burgos,Segunda División,BTTS No,Both Teams to Score - No,2.55,8.0,65.7,65.0,0.657,0.557,Medium Risk,Spain
+2025-09-14,17:30,TSV 1860 München,Havelse,3. Liga,BTTS No,Both Teams to Score - No,2.39,8.0,62.0,67.8,0.62,0.557,Medium Risk,Germany
+2025-09-14,18:00,York United,Atlético Ottawa,Canadian Premier League,Over 9.5 Corners,Over 9.5 Total Corners,2.0373131846656394,8.0,52.3,74.8,0.523,0.556,Medium Risk,Canada
+2025-09-14,13:00,FF Jaro,AC Oulu,Veikkausliiga,Over 9.5 Corners,Over 9.5 Total Corners,1.9977804633637968,8.0,50.7,75.4,0.507,0.554,Medium Risk,Finland
+2025-09-14,15:30,Widzew Łódź,Arka Gdynia,Ekstraklasa,Home Over 1.5,Home Team Over 1.5 Goals,2.395155071445875,8.0,61.3,67.3,0.613,0.553,Medium Risk,Poland
+2025-09-14,18:00,York United,Atlético Ottawa,Canadian Premier League,BTTS No,Both Teams to Score - No,2.84,8.0,70.3,60.0,0.703,0.551,Medium Risk,Canada
+2025-09-14,18:00,Csikszereda,FCSB,Liga I,Draw/Away,Draw or Away Win,2.34,8.0,58.9,67.9,0.589,0.548,Medium Risk,Romania
+2025-09-14,13:30,FC St. Pauli,FC Augsburg,Bundesliga,BTTS No,Both Teams to Score - No,2.41,8.0,60.4,66.6,0.604,0.548,Medium Risk,Germany
+2025-09-14,14:30,Waldhof Mannheim,Energie Cottbus,3. Liga,Over 9.5 Corners,Over 9.5 Total Corners,2.7983804198581823,8.0,67.1,59.7,0.671,0.54,Medium Risk,Germany
+2025-09-14,15:00,Sarpsborg 08 FF,Sandefjord,Eliteserien,BTTS No,Both Teams to Score - No,2.83,8.0,67.2,59.1,0.672,0.538,Medium Risk,Norway
+2025-09-14,12:00,FC Winterthur,FC Sion,Super League,Over 9.5 Corners,Over 9.5 Total Corners,1.8189835772825376,8.0,40.7,77.3,0.407,0.531,Medium Risk,Switzerland
+2025-09-14,12:00,Djurgardens IF,Hammarby FF,Allsvenskan,BTTS No,Both Teams to Score - No,2.68,8.0,61.8,60.4,0.618,0.527,Medium Risk,Sweden
+2025-09-14,16:30,Sporting Gijon,Burgos,Segunda División,Over 9.5 Corners,Over 9.5 Total Corners,1.8674066498884323,8.0,40.9,75.4,0.409,0.524,Medium Risk,Spain
+2025-09-14,17:15,Haugesund,Rosenborg,Eliteserien,Draw/Away,Draw or Away Win,1.49,8.0,26.9,85.2,0.269,0.521,Low Risk,Norway
+2025-09-14,23:00,Club Queretaro,Monterrey,Liga MX,BTTS No,Both Teams to Score - No,2.47,8.0,56.0,63.2,0.56,0.521,Medium Risk,Mexico
+2025-09-14,11:30,SpVgg Greuther Fürth,1. FC Kaiserslautern,2. Bundesliga,BTTS No,Both Teams to Score - No,2.68,8.0,60.3,59.8,0.603,0.52,Medium Risk,Germany
+2025-09-14,17:30,Empoli,Spezia,Serie B,Over 1.5,Over 1.5 Goals,2.364691127392461,8.0,51.9,64.2,0.519,0.513,Medium Risk,Italy
+2025-09-14,16:00,Sassuolo,Lazio,Serie A,Over 9.5 Corners,Over 9.5 Total Corners,1.865977309016204,8.0,39.5,74.8,0.395,0.513,Medium Risk,Italy
+2025-09-14,13:30,FC St. Pauli,FC Augsburg,Bundesliga,Over 1.5,Over 1.5 Goals,2.3633453078302793,8.0,51.8,64.2,0.518,0.512,Medium Risk,Germany
+2025-09-14,18:45,Rennes,Lyon,Ligue 1,Over 9.5 Corners,Over 9.5 Total Corners,1.8402800874486345,8.0,37.6,74.8,0.376,0.512,Medium Risk,France
+2025-09-14,12:45,Oţelul,FC Botosani,Liga I,BTTS No,Both Teams to Score - No,2.69,8.0,57.9,58.7,0.579,0.509,Medium Risk,Romania
+2025-09-14,12:00,FC Winterthur,FC Sion,Super League,Draw/Away,Draw or Away Win,2.14,8.0,45.3,67.9,0.453,0.508,Medium Risk,Switzerland
+2025-09-14,11:00,Fayal,CD Olivais e Moscavide,Taça de Portugal,Over 9.5 Corners,Over 9.5 Total Corners,1.9801713571170951,8.0,40.8,71.1,0.408,0.507,Medium Risk,Portugal
+2025-09-14,15:00,KFUM Oslo,Viking,Eliteserien,BTTS No,Both Teams to Score - No,1.91,8.0,38.2,72.4,0.382,0.504,Medium Risk,Norway
+2025-09-14,16:00,Gazişehir Gaziantep,Kocaelispor,Süper Lig,BTTS No,Both Teams to Score - No,2.37,8.0,50.0,63.3,0.5,0.503,Medium Risk,Turkey
+2025-09-14,14:45,Telstar,Fortuna Sittard,Eredivisie,Over 1.5,Over 1.5 Goals,2.3131488346196556,8.0,48.6,64.2,0.486,0.503,Medium Risk,Netherlands
+2025-09-14,16:00,Sassuolo,Lazio,Serie A,Draw/Away,Draw or Away Win,2.17,8.0,46.1,67.3,0.461,0.502,Medium Risk,Italy
+2025-09-14,15:30,Widzew Łódź,Arka Gdynia,Ekstraklasa,BTTS No,Both Teams to Score - No,2.54,8.0,53.2,60.3,0.532,0.501,Medium Risk,Poland
+2025-09-14,13:00,Virtus Entella,Mantova,Serie B,Over 1.5,Over 1.5 Goals,2.3525337419857615,8.0,48.8,63.2,0.488,0.499,Medium Risk,Italy
+2025-09-14,19:00,Granada CF,Leganes,Segunda División,BTTS No,Both Teams to Score - No,2.59,8.0,53.5,59.3,0.535,0.497,Medium Risk,Spain
+2025-09-14,15:00,Sarpsborg 08 FF,Sandefjord,Eliteserien,Over 9.5 Corners,Over 9.5 Total Corners,1.9939363568912003,8.0,38.9,69.7,0.389,0.495,Medium Risk,Norway
+2025-09-14,12:00,Celta Vigo,Girona,La Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.5356162070725936,8.0,23.7,80.6,0.237,0.493,Low Risk,Spain
+2025-09-14,18:00,Csikszereda,FCSB,Liga I,Over 1.5,Over 1.5 Goals,1.9698785927697384,8.0,37.6,69.9,0.376,0.492,Medium Risk,Romania
+2025-09-14,12:00,Celta Vigo,Girona,La Liga,Over 1.5,Over 1.5 Goals,2.275154348797204,8.0,44.6,63.5,0.446,0.488,Medium Risk,Spain
+2025-09-14,12:00,FC Andorra,Cordoba,Segunda División,Under 11.5 Corners,Under 11.5 Total Corners,1.4978843825025985,8.0,21.2,80.9,0.212,0.487,Low Risk,Spain
+2025-09-14,10:15,Excelsior,Sparta Rotterdam,Eredivisie,Over 9.5 Corners,Over 9.5 Total Corners,2.1739180114818595,8.0,41.6,65.1,0.416,0.485,Medium Risk,Netherlands
+2025-09-14,11:00,Southampton,Portsmouth,Championship,Home/Draw,Home Win or Draw,2.03,8.0,37.5,67.7,0.375,0.483,Medium Risk,England
+2025-09-14,14:30,Grasshoppers,Lausanne,Super League,Over 1.5,Over 1.5 Goals,2.1229280098556993,8.0,39.6,65.8,0.396,0.482,Medium Risk,Switzerland
+2025-09-14,16:30,Osasuna,Rayo Vallecano,La Liga,Draw/Away,Draw or Away Win,2.23,8.0,42.2,63.8,0.422,0.482,Medium Risk,Spain
+2025-09-14,15:00,Sarpsborg 08 FF,Sandefjord,Eliteserien,Home Under 1.5,Home Team Under 1.5 Goals,1.7237462140923008,8.0,28.0,74.3,0.28,0.481,Low Risk,Norway
+2025-09-14,19:30,SC Braga,GIL Vicente,Primeira Liga,BTTS No,Both Teams to Score - No,2.25,8.0,42.5,63.3,0.425,0.481,Medium Risk,Portugal
+2025-09-14,14:30,Grasshoppers,Lausanne,Super League,Over 9.5 Corners,Over 9.5 Total Corners,1.9735803770475664,8.0,35.0,68.4,0.35,0.478,Medium Risk,Switzerland
+2025-09-14,14:00,Kayserispor,Goztepe,Süper Lig,Over 1.5,Over 1.5 Goals,2.179968830714219,8.0,40.0,64.2,0.4,0.477,Medium Risk,Turkey
+2025-09-14,12:00,Djurgardens IF,Hammarby FF,Allsvenskan,Over 1.5,Over 1.5 Goals,2.2662219824580294,8.0,42.0,62.7,0.42,0.477,Medium Risk,Sweden
+2025-09-14,15:15,Paris Saint Germain,Lens,Ligue 1,Away Under 1.5,Away Team Under 1.5 Goals,1.6345447456240323,8.0,24.0,75.9,0.24,0.476,Low Risk,France
+2025-09-14,11:00,Fayal,CD Olivais e Moscavide,Taça de Portugal,Over 1.5,Over 1.5 Goals,2.1694776665286244,8.0,39.3,64.2,0.393,0.475,Medium Risk,Portugal
+2025-09-14,10:15,Motor Lublin,Nieciecza,Ekstraklasa,Home Under 1.5,Home Team Under 1.5 Goals,1.704960610327945,8.0,26.1,74.0,0.261,0.474,Low Risk,Poland
+2025-09-14,15:30,Borussia Mönchengladbach,Werder Bremen,Bundesliga,Under 11.5 Corners,Under 11.5 Total Corners,1.445492790434073,8.0,16.9,80.9,0.169,0.474,Low Risk,Germany
+2025-09-14,17:00,Arouca,Casa Pia,Primeira Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.7753723014166054,8.0,28.2,72.2,0.282,0.474,Low Risk,Portugal
+2025-09-14,12:00,FC Winterthur,FC Sion,Super League,BTTS No,Both Teams to Score - No,2.21,8.0,39.9,63.3,0.399,0.473,Medium Risk,Switzerland
+2025-09-14,14:30,FC Luzern,BSC Young Boys,Super League,Over 1.5,Over 1.5 Goals,1.9610425545270744,8.0,33.3,68.0,0.333,0.472,Medium Risk,Switzerland
+2025-09-14,16:00,Gazişehir Gaziantep,Kocaelispor,Süper Lig,Home/Away,Home Win or Away Win (No Draw),1.35,8.0,12.7,83.5,0.127,0.472,Low Risk,Turkey
+2025-09-14,11:00,Southampton,Portsmouth,Championship,Over 1.5,Over 1.5 Goals,2.155302024762785,8.0,38.2,64.1,0.382,0.471,Medium Risk,England
+2025-09-14,11:00,Southampton,Portsmouth,Championship,BTTS No,Both Teams to Score - No,2.18,8.0,38.6,63.6,0.386,0.47,Medium Risk,England
+2025-09-14,15:00,Ham-Kam,Stromsgodset,Eliteserien,Over 9.5 Corners,Over 9.5 Total Corners,1.8681297099618213,8.0,30.3,69.7,0.303,0.47,Medium Risk,Norway
+2025-09-14,19:00,Barcelona,Valencia,La Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.608876769043083,8.0,22.1,75.9,0.221,0.47,Low Risk,Spain
+2025-09-14,10:30,AS Roma,Torino,Serie A,Home Over 1.5,Home Team Over 1.5 Goals,2.1567874989935754,8.0,38.8,64.4,0.388,0.469,Medium Risk,Italy
+2025-09-14,11:30,VfL Osnabrück,Hansa Rostock,3. Liga,Under 11.5 Corners,Under 11.5 Total Corners,1.4158451647569832,8.0,14.6,80.9,0.146,0.467,Low Risk,Germany
+2025-09-14,12:30,Utrecht,Groningen,Eredivisie,BTTS No,Both Teams to Score - No,2.39,8.0,42.8,59.7,0.428,0.467,Medium Risk,Netherlands
+2025-09-14,15:00,Universitatea Craiova,Farul Constanta,Liga I,Over 9.5 Corners,Over 9.5 Total Corners,1.7034845314368032,8.0,24.4,73.0,0.244,0.465,Low Risk,Romania
+2025-09-14,17:30,TSV 1860 München,Havelse,3. Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.6033166061638426,8.0,20.9,75.4,0.209,0.465,Low Risk,Germany
+2025-09-14,16:00,Fenerbahce,Trabzonspor,Süper Lig,Under 11.5 Corners,Under 11.5 Total Corners,1.3969761195453485,8.0,13.0,80.9,0.13,0.463,Low Risk,Turkey
+2025-09-14,15:00,Universitatea Craiova,Farul Constanta,Liga I,Home/Away,Home Win or Away Win (No Draw),1.39,8.0,12.7,81.1,0.127,0.462,Low Risk,Romania
+2025-09-14,16:00,Sassuolo,Lazio,Serie A,Home/Away,Home Win or Away Win (No Draw),1.31,8.0,10.2,84.1,0.102,0.462,Low Risk,Italy
+2025-09-14,16:00,Fenerbahce,Trabzonspor,Süper Lig,BTTS No,Both Teams to Score - No,2.42,8.0,42.1,58.7,0.421,0.461,Medium Risk,Turkey
+2025-09-14,15:15,Metz,Angers,Ligue 1,Over 9.5 Corners,Over 9.5 Total Corners,1.7323555365929733,8.0,24.4,71.8,0.244,0.46,Low Risk,France
+2025-09-14,14:30,Sirius,Gais,Allsvenskan,Under 11.5 Corners,Under 11.5 Total Corners,1.427172410255276,8.0,13.8,79.7,0.138,0.46,Low Risk,Sweden
+2025-09-14,15:15,Paris Saint Germain,Lens,Ligue 1,Under 11.5 Corners,Under 11.5 Total Corners,1.4611362384884896,8.0,15.0,78.7,0.15,0.46,Low Risk,France
+2025-09-14,12:30,Bryne,Tromso,Eliteserien,BTTS No,Both Teams to Score - No,1.91,8.0,29.5,67.8,0.295,0.46,Medium Risk,Norway
+2025-09-14,13:00,FF Jaro,AC Oulu,Veikkausliiga,Draw/Away,Draw or Away Win,2.12,8.0,34.8,63.6,0.348,0.459,Medium Risk,Finland
+2025-09-14,14:30,IF Elfsborg,Malmo FF,Allsvenskan,Under 11.5 Corners,Under 11.5 Total Corners,1.4258379335191536,8.0,12.8,79.1,0.128,0.455,Low Risk,Sweden
+2025-09-14,14:15,Levante,Real Betis,La Liga,Under 11.5 Corners,Under 11.5 Total Corners,1.3641702104198166,8.0,10.3,80.9,0.103,0.455,Low Risk,Spain
+2025-09-14,14:15,Levante,Real Betis,La Liga,Home/Away,Home Win or Away Win (No Draw),1.26,8.0,6.0,84.1,0.06,0.454,Low Risk,Spain
+2025-09-14,23:00,Club Queretaro,Monterrey,Liga MX,Home/Away,Home Win or Away Win (No Draw),1.26,8.0,6.0,84.1,0.06,0.454,Low Risk,Mexico
+2025-09-14,19:00,Granada CF,Leganes,Segunda División,Home/Away,Home Win or Away Win (No Draw),1.37,8.0,10.5,80.7,0.105,0.454,Low Risk,Spain
+2025-09-14,14:45,Telstar,Fortuna Sittard,Eredivisie,Over 9.5 Corners,Over 9.5 Total Corners,1.7916308074425578,8.0,25.0,69.7,0.25,0.454,Low Risk,Netherlands
+2025-09-14,14:30,FC Luzern,BSC Young Boys,Super League,Over 9.5 Corners,Over 9.5 Total Corners,1.7835168088946496,8.0,24.4,69.7,0.244,0.452,Low Risk,Switzerland
+2025-09-14,15:30,Borussia Mönchengladbach,Werder Bremen,Bundesliga,Home Under 1.5,Home Team Under 1.5 Goals,1.7270322337126651,8.0,22.5,70.9,0.225,0.451,Low Risk,Germany
+2025-09-14,17:00,Arouca,Casa Pia,Primeira Liga,Home/Draw,Home Win or Draw,2.0,8.0,30.2,65.1,0.302,0.451,Medium Risk,Portugal
+2025-09-14,16:30,Castellón,AD Ceuta FC,Segunda División,Under 11.5 Corners,Under 11.5 Total Corners,1.34316917609742,8.0,8.6,80.9,0.086,0.449,Low Risk,Spain
+2025-09-14,18:45,AC Milan,Bologna,Serie A,Home/Away,Home Win or Away Win (No Draw),1.3,8.0,7.6,82.8,0.076,0.449,Low Risk,Italy
+2025-09-14,19:00,Barcelona,Valencia,La Liga,BTTS No,Both Teams to Score - No,2.24,8.0,35.6,60.5,0.356,0.449,Medium Risk,Spain
+2025-09-14,15:30,Manchester City,Manchester United,Premier League,Over 9.5 Corners,Over 9.5 Total Corners,2.149270817073914,8.0,33.4,62.1,0.334,0.448,Medium Risk,England
+2025-09-14,11:30,SV Elversberg,Dynamo Dresden,2. Bundesliga,Over 9.5 Corners,Over 9.5 Total Corners,1.798377094078922,8.0,24.1,69.0,0.241,0.448,Low Risk,Germany
+2025-09-14,18:45,AC Milan,Bologna,Serie A,Over 9.5 Corners,Over 9.5 Total Corners,1.9364025160106788,8.0,28.9,66.6,0.289,0.448,Medium Risk,Italy
+2025-09-14,14:30,FC Luzern,BSC Young Boys,Super League,Over 11.5 Corners,Over 11.5 Total Corners,2.187295710563113,8.0,34.2,61.3,0.342,0.448,Medium Risk,Switzerland
+2025-09-14,14:15,Levante,Real Betis,La Liga,Over 1.5,Over 1.5 Goals,1.2981855363842092,8.0,6.4,81.9,0.064,0.447,Low Risk,Spain
+2025-09-14,13:00,Virtus Entella,Mantova,Serie B,Over 9.5 Corners,Over 9.5 Total Corners,1.9510052882942028,8.0,27.9,65.5,0.279,0.446,Medium Risk,Italy
+2025-09-14,15:15,Stade Brestois 29,Paris FC,Ligue 1,Home Under 1.5,Home Team Under 1.5 Goals,1.7498938497300376,8.0,22.0,69.7,0.22,0.445,Low Risk,France
+2025-09-14,11:30,SpVgg Greuther Fürth,1. FC Kaiserslautern,2. Bundesliga,Over 1.5,Over 1.5 Goals,2.0649347679171184,8.0,30.6,63.2,0.306,0.445,Medium Risk,Germany
+2025-09-14,14:45,Telstar,Fortuna Sittard,Eredivisie,Home Under 1.5,Home Team Under 1.5 Goals,1.7302127442632214,8.0,21.3,70.1,0.213,0.444,Low Risk,Netherlands
+2025-09-14,12:00,FC Winterthur,FC Sion,Super League,Over 1.5,Over 1.5 Goals,2.008922695790356,8.0,28.8,64.1,0.288,0.443,Medium Risk,Switzerland
+2025-09-14,12:00,Djurgardens IF,Hammarby FF,Allsvenskan,Draw/Away,Draw or Away Win,2.21,8.0,33.1,60.2,0.331,0.44,Medium Risk,Sweden
+2025-09-14,14:30,Estrela,Guimaraes,Primeira Liga,Over 11.5 Corners,Over 11.5 Total Corners,2.141157130721283,8.0,31.4,61.3,0.314,0.439,Medium Risk,Portugal
+2025-09-14,14:00,Kayserispor,Goztepe,Süper Lig,Home/Away,Home Win or Away Win (No Draw),1.32,7.1,5.7,80.0,0.057,0.437,Low Risk,Turkey
+2025-09-14,17:00,Arouca,Casa Pia,Primeira Liga,Over 1.5,Over 1.5 Goals,1.989071996737566,8.0,26.6,63.6,0.266,0.434,Medium Risk,Portugal
+2025-09-14,14:30,FC Luzern,BSC Young Boys,Super League,BTTS No,Both Teams to Score - No,2.01,8.0,27.0,63.2,0.27,0.433,Medium Risk,Switzerland
+2025-09-14,14:30,Waldhof Mannheim,Energie Cottbus,3. Liga,Draw/Away,Draw or Away Win,1.99,8.0,26.4,63.5,0.264,0.433,Medium Risk,Germany
+2025-09-14,16:30,Castellón,AD Ceuta FC,Segunda División,Home Over 1.5,Home Team Over 1.5 Goals,1.6108236070161437,8.0,15.4,71.7,0.154,0.433,Low Risk,Spain
+2025-09-14,12:30,Bryne,Tromso,Eliteserien,Over 1.5,Over 1.5 Goals,1.9515655911975407,8.0,25.3,64.2,0.253,0.433,Medium Risk,Norway
+2025-09-14,13:00,Virtus Entella,Mantova,Serie B,Home Under 1.5,Home Team Under 1.5 Goals,1.4967902641276356,8.0,11.5,74.5,0.115,0.433,Low Risk,Italy
+2025-09-14,15:15,Paris Saint Germain,Lens,Ligue 1,Home Over 1.5,Home Team Over 1.5 Goals,2.006094286883614,8.0,26.4,63.0,0.264,0.431,Medium Risk,France
+2025-09-14,18:00,York United,Atlético Ottawa,Canadian Premier League,Over 1.5,Over 1.5 Goals,1.982941167305036,8.0,25.4,63.2,0.254,0.429,Medium Risk,Canada
+2025-09-14,17:15,Haugesund,Rosenborg,Eliteserien,Over 1.5,Over 1.5 Goals,2.1655708135740697,8.0,29.6,59.9,0.296,0.428,Medium Risk,Norway
+2025-09-14,19:30,SC Braga,GIL Vicente,Primeira Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.782998262128347,8.0,19.6,67.1,0.196,0.427,Low Risk,Portugal
+2025-09-14,15:15,Stade Brestois 29,Paris FC,Ligue 1,Over 1.5,Over 1.5 Goals,2.031391993726652,8.0,26.2,62.1,0.262,0.427,Medium Risk,France
+2025-09-14,19:00,Barcelona,Valencia,La Liga,Under 11.5 Corners,Under 11.5 Total Corners,1.407874113147156,7.0,7.1,76.1,0.071,0.426,Low Risk,Spain
+2025-09-14,16:30,Sporting Gijon,Burgos,Segunda División,Draw/Away,Draw or Away Win,2.2,8.0,29.7,58.9,0.297,0.425,Medium Risk,Spain
+2025-09-14,13:00,Atalanta,Lecce,Serie A,Home Over 1.5,Home Team Over 1.5 Goals,1.9445210470308716,8.0,24.4,64.0,0.244,0.424,Medium Risk,Italy
+2025-09-14,15:15,Stade Brestois 29,Paris FC,Ligue 1,Away Under 1.5,Away Team Under 1.5 Goals,1.789038414357225,8.0,19.1,66.6,0.191,0.424,Low Risk,France
+2025-09-14,10:30,AS Roma,Torino,Serie A,Under 11.5 Corners,Under 11.5 Total Corners,1.4814811687177358,8.0,9.9,74.2,0.099,0.422,Low Risk,Italy
+2025-09-14,13:00,Atalanta,Lecce,Serie A,Away Under 1.5,Away Team Under 1.5 Goals,1.4269744757634966,7.2,7.6,75.4,0.076,0.42,Low Risk,Italy
+2025-09-14,15:15,Stade Brestois 29,Paris FC,Ligue 1,Over 9.5 Corners,Over 9.5 Total Corners,1.835601330892707,8.0,19.5,65.1,0.195,0.419,Medium Risk,France
+2025-09-14,14:30,IF Elfsborg,Malmo FF,Allsvenskan,BTTS No,Both Teams to Score - No,2.13,8.0,26.7,59.5,0.267,0.418,Medium Risk,Sweden
+2025-09-14,11:30,SV Elversberg,Dynamo Dresden,2. Bundesliga,Home Under 1.5,Home Team Under 1.5 Goals,1.7514087428418923,8.0,16.9,66.8,0.169,0.418,Low Risk,Germany
+2025-09-14,16:00,Fenerbahce,Trabzonspor,Süper Lig,Over 1.5,Over 1.5 Goals,2.1580874275769357,8.0,27.3,59.0,0.273,0.418,Medium Risk,Turkey
+2025-09-14,15:30,Manchester City,Manchester United,Premier League,Away Under 1.5,Away Team Under 1.5 Goals,1.7638775407518892,8.0,17.0,66.3,0.17,0.416,Low Risk,England
+2025-09-14,15:30,Widzew Łódź,Arka Gdynia,Ekstraklasa,Home/Draw,Home Win or Draw,2.18,8.0,27.4,58.4,0.274,0.416,Medium Risk,Poland
+2025-09-14,13:30,FC St. Pauli,FC Augsburg,Bundesliga,Home/Draw,Home Win or Draw,1.97,8.0,22.1,62.0,0.221,0.414,Medium Risk,Germany
+2025-09-14,14:30,Grasshoppers,Lausanne,Super League,Away Under 1.5,Away Team Under 1.5 Goals,1.7374231409098555,8.0,15.7,66.6,0.157,0.413,Low Risk,Switzerland
+2025-09-14,23:00,Club Queretaro,Monterrey,Liga MX,Over 9.5 Corners,Over 9.5 Total Corners,1.763733155676069,8.0,16.4,66.0,0.164,0.413,Low Risk,Mexico
+2025-09-14,13:00,KuPS,Ilves,Veikkausliiga,Over 2.5,Over 2.5 Goals,1.8175633658583208,8.0,17.5,64.7,0.175,0.411,Medium Risk,Finland
+2025-09-14,15:00,Sarpsborg 08 FF,Sandefjord,Eliteserien,Over 1.5,Over 1.5 Goals,1.8860858701972167,8.0,19.3,63.2,0.193,0.411,Medium Risk,Norway
+2025-09-14,11:00,Fayal,CD Olivais e Moscavide,Taça de Portugal,BTTS No,Both Teams to Score - No,1.86,8.0,18.5,63.7,0.185,0.41,Medium Risk,Portugal
+2025-09-14,13:00,Lille,Toulouse,Ligue 1,Over 1.5,Over 1.5 Goals,1.8285093170930296,8.0,17.4,64.2,0.174,0.409,Medium Risk,France
+2025-09-14,15:00,Universitatea Craiova,Farul Constanta,Liga I,BTTS No,Both Teams to Score - No,1.98,8.0,21.3,61.3,0.213,0.409,Medium Risk,Romania
+2025-09-14,15:00,KFUM Oslo,Viking,Eliteserien,Over 1.5,Over 1.5 Goals,1.8551585610783008,8.0,17.9,63.5,0.179,0.408,Medium Risk,Norway
+2025-09-14,11:30,SpVgg Greuther Fürth,1. FC Kaiserslautern,2. Bundesliga,Over 9.5 Corners,Over 9.5 Total Corners,1.7705864005706209,7.9,15.3,65.1,0.153,0.406,Low Risk,Germany
+2025-09-14,14:00,Kayserispor,Goztepe,Süper Lig,Over 9.5 Corners,Over 9.5 Total Corners,1.7378604968140885,7.8,14.3,65.8,0.143,0.406,Low Risk,Turkey
+2025-09-14,15:15,Paris Saint Germain,Lens,Ligue 1,Home/Draw,Home Win or Draw,1.92,8.0,19.0,62.0,0.19,0.405,Medium Risk,France
+2025-09-14,13:00,KuPS,Ilves,Veikkausliiga,Under 9.5 Corners,Under 9.5 Total Corners,1.5819505703112786,6.4,9.2,69.1,0.092,0.404,Low Risk,Finland
+2025-09-14,12:30,Utrecht,Groningen,Eredivisie,Home/Draw,Home Win or Draw,2.08,8.0,22.6,58.9,0.226,0.404,Medium Risk,Netherlands
+2025-09-14,11:30,SpVgg Greuther Fürth,1. FC Kaiserslautern,2. Bundesliga,Home/Draw,Home Win or Draw,1.91,8.0,18.3,62.0,0.183,0.403,Medium Risk,Germany
+2025-09-14,18:00,Csikszereda,FCSB,Liga I,BTTS No,Both Teams to Score - No,1.82,7.8,16.0,63.7,0.16,0.403,Medium Risk,Romania
+2025-09-14,11:00,Southampton,Portsmouth,Championship,Over 9.5 Corners,Over 9.5 Total Corners,2.0274395601579744,8.0,21.2,59.8,0.212,0.403,Medium Risk,England
+2025-09-14,11:30,SV Elversberg,Dynamo Dresden,2. Bundesliga,Draw/Away,Draw or Away Win,1.99,7.8,19.3,60.0,0.193,0.398,Medium Risk,Germany
+2025-09-14,13:00,Pisa,Udinese,Serie A,Under 11.5 Corners,Under 11.5 Total Corners,1.6501134142368672,6.8,11.0,67.3,0.11,0.397,Low Risk,Italy
+2025-09-14,12:45,Oţelul,FC Botosani,Liga I,Draw/Away,Draw or Away Win,1.98,7.6,18.7,60.0,0.187,0.396,Medium Risk,Romania
+2025-09-14,13:00,Lille,Toulouse,Ligue 1,BTTS No,Both Teams to Score - No,1.92,7.4,17.0,60.9,0.17,0.395,Medium Risk,France
+2025-09-14,11:30,Preußen Münster,Fortuna Düsseldorf,2. Bundesliga,Draw/Away,Draw or Away Win,1.86,7.1,15.3,62.0,0.153,0.394,Medium Risk,Germany
+2025-09-14,15:15,Strasbourg,Le Havre,Ligue 1,Under 11.5 Corners,Under 11.5 Total Corners,1.6050988369139925,5.3,8.0,67.3,0.08,0.393,Low Risk,France
+2025-09-14,15:00,KFUM Oslo,Viking,Eliteserien,Away Under 1.5,Away Team Under 1.5 Goals,1.6330564479092942,5.5,8.7,66.6,0.087,0.392,Low Risk,Norway
+2025-09-14,14:45,Telstar,Fortuna Sittard,Eredivisie,Draw/Away,Draw or Away Win,1.67,5.7,9.5,65.6,0.095,0.391,Low Risk,Netherlands
+2025-09-14,16:00,Gazişehir Gaziantep,Kocaelispor,Süper Lig,Away Under 1.5,Away Team Under 1.5 Goals,1.794118164283412,6.5,12.8,62.9,0.128,0.39,Low Risk,Turkey
+2025-09-14,18:00,Leones Negros UDG,CA La Paz,Liga de Expansión MX,Home/Draw,Home Win or Draw,1.82,6.4,13.1,62.2,0.131,0.388,Medium Risk,Mexico
+2025-09-14,16:30,Sporting Gijon,Burgos,Segunda División,Home Under 1.5,Home Team Under 1.5 Goals,1.595722281320778,4.4,6.5,66.8,0.065,0.387,Low Risk,Spain
+2025-09-14,13:00,Pisa,Udinese,Serie A,Home Under 1.5,Home Team Under 1.5 Goals,1.798638363908467,6.6,13.2,63.0,0.132,0.387,Low Risk,Italy
+2025-09-14,16:30,Osasuna,Rayo Vallecano,La Liga,Home Under 1.5,Home Team Under 1.5 Goals,1.5774058512071458,4.0,5.8,67.1,0.058,0.386,Low Risk,Spain
+2025-09-14,10:30,AS Roma,Torino,Serie A,Away Under 1.5,Away Team Under 1.5 Goals,1.536107925603948,3.9,5.3,68.5,0.053,0.385,Low Risk,Italy
+2025-09-14,11:00,Southampton,Portsmouth,Championship,Under 11.5 Corners,Under 11.5 Total Corners,1.6148773530356202,4.1,6.3,65.8,0.063,0.382,Low Risk,England
+2025-09-14,13:00,Pisa,Udinese,Serie A,Over 2.5,Over 2.5 Goals,1.8790473893117048,6.5,14.4,60.9,0.144,0.382,Medium Risk,Italy
+2025-09-14,10:15,Motor Lublin,Nieciecza,Ekstraklasa,Away Under 1.5,Away Team Under 1.5 Goals,1.743277612753377,5.2,9.7,62.9,0.097,0.381,Low Risk,Poland
+2025-09-14,14:30,Waldhof Mannheim,Energie Cottbus,3. Liga,Over 2.5,Over 2.5 Goals,1.844516702889054,5.8,12.3,60.9,0.123,0.38,Medium Risk,Germany
+2025-09-14,12:00,Celta Vigo,Girona,La Liga,Home,Home Team Win,1.62,3.3,5.1,64.9,0.051,0.375,Low Risk,Spain
+2025-09-14,10:15,Excelsior,Sparta Rotterdam,Eredivisie,Home/Draw,Home Win or Draw,1.91,5.6,12.8,59.0,0.128,0.374,Medium Risk,Netherlands
+2025-09-14,12:00,Osters IF,IFK Varnamo,Allsvenskan,Draw/Away,Draw or Away Win,1.73,4.4,8.1,62.5,0.081,0.374,Low Risk,Sweden
+2025-09-14,11:30,Preußen Münster,Fortuna Düsseldorf,2. Bundesliga,Over 2.5,Over 2.5 Goals,1.8580555124015985,5.3,11.3,59.9,0.113,0.373,Medium Risk,Germany
+2025-09-14,18:45,Rennes,Lyon,Ligue 1,Over 2.5,Over 2.5 Goals,1.7341255991856432,4.3,7.9,62.2,0.079,0.372,Low Risk,France
+2025-09-14,12:30,Utrecht,Groningen,Eredivisie,Away Under 1.5,Away Team Under 1.5 Goals,1.6980833888093745,3.9,6.8,62.9,0.068,0.372,Low Risk,Netherlands
+2025-09-14,12:30,Utrecht,Groningen,Eredivisie,Over 9.5 Corners,Over 9.5 Total Corners,1.8560178767532576,5.1,11.0,59.8,0.11,0.372,Medium Risk,Netherlands
+2025-09-14,19:00,Barcelona,Valencia,La Liga,Over 2.5,Over 2.5 Goals,1.8618565136959504,5.1,11.1,59.7,0.111,0.372,Medium Risk,Spain
+2025-09-14,14:00,Kayserispor,Goztepe,Süper Lig,Away Under 1.5,Away Team Under 1.5 Goals,1.684958597770431,3.5,6.0,62.9,0.06,0.37,Low Risk,Turkey
+2025-09-14,11:00,Fayal,CD Olivais e Moscavide,Taça de Portugal,Away Under 1.5,Away Team Under 1.5 Goals,1.788170528887774,4.3,8.4,60.6,0.084,0.368,Low Risk,Portugal
+2025-09-14,12:00,Osters IF,IFK Varnamo,Allsvenskan,Over 2.5,Over 2.5 Goals,1.8236928365210976,4.5,9.2,59.9,0.092,0.367,Medium Risk,Sweden
+2025-09-14,13:00,Lille,Toulouse,Ligue 1,Over 9.5 Corners,Over 9.5 Total Corners,1.790095565494254,4.2,8.2,60.5,0.082,0.366,Low Risk,France
+2025-09-14,18:45,AC Milan,Bologna,Serie A,Over 2.5,Over 2.5 Goals,1.755756297706179,4.3,8.2,61.6,0.082,0.366,Low Risk,Italy
+2025-09-14,15:15,Metz,Angers,Ligue 1,BTTS No,Both Teams to Score - No,1.85,4.4,9.3,59.1,0.093,0.364,Medium Risk,France
+2025-09-14,19:00,Granada CF,Leganes,Segunda División,Home Under 1.5,Home Team Under 1.5 Goals,1.7009218047674195,3.1,5.4,62.0,0.054,0.364,Low Risk,Spain
+2025-09-14,16:00,Sassuolo,Lazio,Serie A,Over 2.5,Over 2.5 Goals,1.7710174302874084,4.0,7.8,60.9,0.078,0.362,Low Risk,Italy
+2025-09-14,11:30,SV Elversberg,Dynamo Dresden,2. Bundesliga,Over 2.5,Over 2.5 Goals,1.7380053734142047,3.1,5.8,60.9,0.058,0.361,Low Risk,Germany
+2025-09-14,16:00,Gazişehir Gaziantep,Kocaelispor,Süper Lig,Over 9.5 Corners,Over 9.5 Total Corners,1.753784235462371,2.9,5.5,60.2,0.055,0.357,Low Risk,Turkey
+2025-09-14,15:00,Universitatea Craiova,Farul Constanta,Liga I,Over 2.5,Over 2.5 Goals,1.7785919639184118,3.1,6.1,59.7,0.061,0.357,Low Risk,Romania
+2025-09-15,18:30,Zaragoza,Albacete,Segunda División,Away,Away Team Win,3.1,8.0,107.8,67.0,1.078,0.692,High Risk,Spain
+2025-09-15,19:00,Espanyol,Mallorca,La Liga,Over 1.5,Over 1.5 Goals,2.3516349509499657,8.0,69.4,72.0,0.694,0.596,Medium Risk,Spain
+2025-09-15,18:45,Guingamp,Montpellier,Ligue 2,Over 1.5,Over 1.5 Goals,2.3474858404197687,8.0,69.1,72.0,0.691,0.596,Medium Risk,France
+2025-09-15,16:30,Verona,Cremonese,Serie A,BTTS No,Both Teams to Score - No,2.84,8.0,73.2,61.0,0.732,0.559,Medium Risk,Italy
+2025-09-15,18:45,Guingamp,Montpellier,Ligue 2,Over 9.5 Corners,Over 9.5 Total Corners,2.514173835465052,8.0,63.9,65.2,0.639,0.552,Medium Risk,France
+2025-09-15,16:30,Verona,Cremonese,Serie A,Over 1.5,Over 1.5 Goals,2.1255732657479443,8.0,53.5,72.2,0.535,0.544,Medium Risk,Italy
+2025-09-15,19:00,Espanyol,Mallorca,La Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.981412165942416,8.0,44.2,72.8,0.442,0.524,Medium Risk,Spain
+2025-09-15,18:00,Petrolul Ploiesti,Dinamo Bucuresti,Liga I,Over 9.5 Corners,Over 9.5 Total Corners,2.1188623298526026,8.0,46.1,69.0,0.461,0.514,Medium Risk,Romania
+2025-09-15,18:30,Zaragoza,Albacete,Segunda División,Over 1.5,Over 1.5 Goals,1.9154737101938335,8.0,38.0,72.0,0.38,0.502,Medium Risk,Spain
+2025-09-15,18:30,Zaragoza,Albacete,Segunda División,Over 9.5 Corners,Over 9.5 Total Corners,1.8736816482396532,8.0,36.4,72.8,0.364,0.5,Medium Risk,Spain
+2025-09-15,18:00,Jong PSV,Roda,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,2.0669083786010556,8.0,41.7,68.5,0.417,0.499,Medium Risk,Netherlands
+2025-09-15,17:00,Rizespor,Genclerbirligi,Süper Lig,Over 9.5 Corners,Over 9.5 Total Corners,1.8301357376891176,8.0,33.2,72.8,0.332,0.491,Medium Risk,Turkey
+2025-09-15,15:00,AFC Hermannstadt,Unirea Slobozia,Liga I,Over 9.5 Corners,Over 9.5 Total Corners,1.886795316438023,8.0,34.3,71.2,0.343,0.487,Medium Risk,Romania
+2025-09-15,18:00,Jong Ajax,ADO Den Haag,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,1.7951792611007056,8.0,30.7,72.8,0.307,0.483,Low Risk,Netherlands
+2025-09-15,18:00,Petrolul Ploiesti,Dinamo Bucuresti,Liga I,Over 1.5,Over 1.5 Goals,1.31214896454222,8.0,11.9,85.2,0.119,0.477,Low Risk,Romania
+2025-09-15,17:00,Raków Częstochowa,Gornik Zabrze,Ekstraklasa,Over 9.5 Corners,Over 9.5 Total Corners,2.1041785376893243,8.0,37.8,65.5,0.378,0.475,Medium Risk,Poland
+2025-09-15,18:00,Almere City FC,FC Eindhoven,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,2.100024232136104,8.0,37.5,65.5,0.375,0.475,Medium Risk,Netherlands
+2025-09-15,18:45,Guingamp,Montpellier,Ligue 2,Under 2.5,Under 2.5 Goals,1.6877162797409615,8.0,24.5,73.8,0.245,0.468,Low Risk,France
+2025-09-15,18:45,Como,Genoa,Serie A,Over 1.5,Over 1.5 Goals,1.3032143081188083,8.0,9.7,84.2,0.097,0.461,Low Risk,Italy
+2025-09-15,17:00,Rizespor,Genclerbirligi,Süper Lig,Over 1.5,Over 1.5 Goals,1.2583390551856464,8.0,6.2,84.4,0.062,0.456,Low Risk,Turkey
+2025-09-15,17:00,Raków Częstochowa,Gornik Zabrze,Ekstraklasa,Home/Away,Home Win or Away Win (No Draw),1.36,8.0,9.6,80.6,0.096,0.451,Low Risk,Poland
+2025-09-15,18:00,Dordrecht,Jong AZ,Eerste Divisie,Under 11.5 Corners,Under 11.5 Total Corners,1.3655484470728732,8.0,9.6,80.3,0.096,0.45,Low Risk,Netherlands
+2025-09-15,18:00,Jong PSV,Roda,Eerste Divisie,Home/Away,Home Win or Away Win (No Draw),1.35,8.0,8.8,80.6,0.088,0.449,Low Risk,Netherlands
+2025-09-15,18:30,Zaragoza,Albacete,Segunda División,Over 2.5,Over 2.5 Goals,2.3251552715839052,8.0,37.0,58.9,0.37,0.447,Medium Risk,Spain
+2025-09-15,17:00,AIK Stockholm,IF Brommapojkarna,Allsvenskan,Home/Draw,Home Win or Draw,1.9,8.0,25.5,66.1,0.255,0.441,Medium Risk,Sweden
+2025-09-15,18:45,Como,Genoa,Serie A,Over 9.5 Corners,Over 9.5 Total Corners,2.0358618368129413,8.0,28.8,63.3,0.288,0.435,Medium Risk,Italy
+2025-09-15,18:30,Zaragoza,Albacete,Segunda División,Home Under 1.5,Home Team Under 1.5 Goals,1.5153338817653386,7.3,9.5,72.2,0.095,0.417,Low Risk,Spain
+2025-09-15,18:00,Petrolul Ploiesti,Dinamo Bucuresti,Liga I,Over 2.5,Over 2.5 Goals,1.7040528273520903,8.0,14.1,67.0,0.141,0.41,Low Risk,Romania
+2025-09-15,18:00,Jong Ajax,ADO Den Haag,Eerste Divisie,Home +1,Home Team +1 Handicap,1.5700304549779402,6.6,9.4,69.7,0.094,0.407,Low Risk,Netherlands
+2025-09-15,18:00,Dordrecht,Jong AZ,Eerste Divisie,BTTS No,Both Teams to Score - No,2.06,8.0,21.4,59.0,0.214,0.4,Medium Risk,Netherlands
+2025-09-15,18:45,Como,Genoa,Serie A,Home/Draw,Home Win or Draw,1.76,7.4,14.0,64.8,0.14,0.396,Low Risk,Italy
+2025-09-15,18:45,Guingamp,Montpellier,Ligue 2,Home Under 1.5,Home Team Under 1.5 Goals,1.5810288387075715,5.1,7.4,67.9,0.074,0.394,Low Risk,France
+2025-09-15,19:00,Espanyol,Mallorca,La Liga,Away Under 1.5,Away Team Under 1.5 Goals,1.5999547507528606,5.1,7.6,67.2,0.076,0.392,Low Risk,Spain
+2025-09-15,18:00,Dordrecht,Jong AZ,Eerste Divisie,Away Under 1.5,Away Team Under 1.5 Goals,1.5927598310218087,4.8,7.1,67.2,0.071,0.39,Low Risk,Netherlands
+2025-09-15,17:00,AIK Stockholm,IF Brommapojkarna,Allsvenskan,Over 9.5 Corners,Over 9.5 Total Corners,1.8342710269516869,6.2,13.0,61.6,0.13,0.385,Medium Risk,Sweden
+2025-09-15,15:00,AFC Hermannstadt,Unirea Slobozia,Liga I,Home/Draw,Home Win or Draw,1.91,6.4,14.6,60.0,0.146,0.384,Medium Risk,Romania
+2025-09-15,15:00,AFC Hermannstadt,Unirea Slobozia,Liga I,Away Under 1.5,Away Team Under 1.5 Goals,1.7569243293292116,5.1,9.7,62.4,0.097,0.379,Low Risk,Romania
+2025-09-15,19:00,Espanyol,Mallorca,La Liga,Under 2.5,Under 2.5 Goals,1.7437979660280774,4.0,7.4,61.6,0.074,0.368,Low Risk,Spain
+2025-09-15,18:45,Como,Genoa,Serie A,Over 2.5,Over 2.5 Goals,1.8922112360554224,4.7,10.5,58.4,0.105,0.36,Medium Risk,Italy
+2025-09-15,18:45,Como,Genoa,Serie A,Home Under 1.5,Home Team Under 1.5 Goals,1.7576949585865416,2.9,5.6,60.1,0.056,0.352,Low Risk,Italy
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,Over 11.5 Corners,Over 11.5 Total Corners,4.276698146013046,8.0,150.0,58.4,1.5,0.784,High Risk,England
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,Over 11.5 Corners,Over 11.5 Total Corners,4.050118816477093,8.0,136.7,58.4,1.367,0.744,High Risk,Netherlands
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Over 11.5 Corners,Over 11.5 Total Corners,3.621822568999904,8.0,111.7,58.4,1.117,0.669,High Risk,Germany
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Home Over 1.5,Home Team Over 1.5 Goals,3.453680886911515,8.0,106.9,59.9,1.069,0.66,High Risk,Germany
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,1.9787558471841815,8.0,63.4,82.6,0.634,0.621,Medium Risk,Netherlands
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,Away,Away Team Win,3.0,8.0,83.6,61.2,0.836,0.596,Medium Risk,England
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,Over 1.5,Over 1.5 Goals,2.223837089292953,8.0,64.2,73.8,0.642,0.588,Medium Risk,England
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,Over 1.5,Over 1.5 Goals,2.217749285862147,8.0,63.0,73.5,0.63,0.583,Medium Risk,England
+2025-09-16,18:45,Worthing,Jersey Bulls,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.8579813277172677,8.0,49.6,80.5,0.496,0.571,Medium Risk,England
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,1.8501244162371255,8.0,49.0,80.5,0.49,0.569,Medium Risk,Netherlands
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,2.039627344622964,8.0,54.8,75.9,0.548,0.568,Medium Risk,England
+2025-09-16,17:00,SV Wehen,SSV Jahn Regensburg,3. Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.9131632091970647,8.0,48.6,77.7,0.486,0.557,Medium Risk,Germany
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,BTTS No,Both Teams to Score - No,2.63,8.0,67.4,63.6,0.674,0.557,Medium Risk,England
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Over 11.5 Corners,Over 11.5 Total Corners,2.4198882124209433,8.0,61.5,66.8,0.615,0.552,Medium Risk,Netherlands
+2025-09-16,17:00,FC Saarbrücken,SSV Ulm 1846,3. Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.9901363057808596,8.0,49.7,75.2,0.497,0.55,Medium Risk,Germany
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,1.762419425239628,8.0,41.9,80.5,0.419,0.548,Low Risk,Netherlands
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,Over 1.5,Over 1.5 Goals,1.9267314493157728,8.0,46.7,76.1,0.467,0.545,Medium Risk,England
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Over 1.5,Over 1.5 Goals,1.9856404770225788,8.0,46.6,73.8,0.466,0.535,Medium Risk,Germany
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,BTTS No,Both Teams to Score - No,2.51,8.0,59.7,63.6,0.597,0.534,Medium Risk,England
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.706220058968362,8.0,37.1,80.4,0.371,0.533,Low Risk,England
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Over 11.5 Corners,Over 11.5 Total Corners,2.713234836339142,8.0,63.4,60.2,0.634,0.531,Medium Risk,Netherlands
+2025-09-16,18:45,Banbury United,Chasetown,FA Cup,Over 1.5,Over 1.5 Goals,1.9510329360427856,8.0,44.1,73.8,0.441,0.528,Medium Risk,England
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Over 11.5 Corners,Over 11.5 Total Corners,2.666696480747878,8.0,60.6,60.2,0.606,0.523,Medium Risk,Germany
+2025-09-16,18:00,FC OSS,VVV Venlo,Eerste Divisie,BTTS No,Both Teams to Score - No,2.57,8.0,55.8,60.6,0.558,0.51,Medium Risk,Netherlands
+2025-09-16,18:45,Worthing,Jersey Bulls,FA Cup,Over 11.5 Corners,Over 11.5 Total Corners,2.5828752689404766,8.0,55.5,60.2,0.555,0.507,Medium Risk,England
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Over 9.5 Corners,Over 9.5 Total Corners,1.8239014167938667,8.0,36.1,74.6,0.361,0.507,Medium Risk,Germany
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.845927749266883,8.0,36.7,74.0,0.367,0.506,Medium Risk,England
+2025-09-16,18:45,Southport,Radcliffe,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,2.1092597525036076,8.0,43.9,68.2,0.439,0.505,Medium Risk,England
+2025-09-16,17:00,FC Schweinfurt 05,MSV Duisburg,3. Liga,Under 11.5 Corners,Under 11.5 Total Corners,1.4755685794294962,8.0,22.5,83.0,0.225,0.5,Low Risk,Germany
+2025-09-16,17:00,FC Schweinfurt 05,MSV Duisburg,3. Liga,Home/Away,Home Win or Away Win (No Draw),1.42,8.0,19.6,84.2,0.196,0.495,Low Risk,Germany
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Over 9.5 Corners,Over 9.5 Total Corners,2.062136279062163,8.0,40.7,68.2,0.407,0.495,Medium Risk,Netherlands
+2025-09-16,18:45,Chichester City,Whitstable Town,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.706895424081283,8.0,28.4,75.2,0.284,0.486,Low Risk,England
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,BTTS No,Both Teams to Score - No,2.15,8.0,39.6,64.9,0.396,0.478,Medium Risk,England
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,Over 1.5,Over 1.5 Goals,1.9008404553104368,8.0,32.7,69.8,0.327,0.477,Medium Risk,France
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.7734558224765202,8.0,28.1,72.3,0.281,0.473,Low Risk,England
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.8962511914934044,8.0,31.4,69.3,0.314,0.472,Medium Risk,England
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Home/Away,Home Win or Away Win (No Draw),1.29,8.0,10.0,85.2,0.1,0.471,Low Risk,Netherlands
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,Over 9.5 Corners,Over 9.5 Total Corners,2.139336993849186,8.0,37.5,64.3,0.375,0.47,Medium Risk,France
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,Under 11.5 Corners,Under 11.5 Total Corners,1.4918101020353354,8.0,16.7,78.2,0.167,0.463,Low Risk,England
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Draw/Away,Draw or Away Win,2.17,8.0,36.6,63.0,0.366,0.462,Medium Risk,Netherlands
+2025-09-16,18:45,Horsham,Westfield (Surrey),FA Cup,BTTS No,Both Teams to Score - No,2.3,8.0,39.5,60.6,0.395,0.461,Medium Risk,England
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Home/Away,Home Win or Away Win (No Draw),1.39,8.0,12.4,80.9,0.124,0.461,Low Risk,Netherlands
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,2.127450498738047,8.0,35.0,63.5,0.35,0.459,Medium Risk,England
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,Home/Away,Home Win or Away Win (No Draw),1.33,8.0,8.9,81.8,0.089,0.454,Low Risk,England
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,Over 2.5,Over 2.5 Goals,1.7661535761426503,8.0,24.0,70.2,0.24,0.453,Low Risk,England
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,Home/Away,Home Win or Away Win (No Draw),1.27,8.0,5.8,83.3,0.058,0.45,Low Risk,France
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,Home Under 1.5,Home Team Under 1.5 Goals,1.5532501838477917,8.0,16.3,74.9,0.163,0.448,Low Risk,France
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,Over 11.5 Corners,Over 11.5 Total Corners,2.2332127714061967,8.0,34.5,60.2,0.345,0.444,Medium Risk,Netherlands
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,Under 11.5 Corners,Under 11.5 Total Corners,1.3798772889820583,8.0,7.9,78.2,0.079,0.437,Low Risk,England
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Draw/Away,Draw or Away Win,2.0,8.0,25.9,63.0,0.259,0.43,Medium Risk,Germany
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,Under 2.5,Under 2.5 Goals,2.11277332078878,8.0,28.5,60.8,0.285,0.429,Medium Risk,England
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Home/Away,Home Win or Away Win (No Draw),1.37,6.8,6.3,77.6,0.063,0.429,Low Risk,Germany
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,Over 9.5 Corners,Over 9.5 Total Corners,1.7182798434356936,8.0,17.3,68.2,0.173,0.425,Low Risk,England
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,Home Under 1.5,Home Team Under 1.5 Goals,1.7489223066704374,8.0,17.8,67.3,0.178,0.423,Low Risk,England
+2025-09-16,18:45,Southport,Radcliffe,FA Cup,Draw/Away,Draw or Away Win,1.88,8.0,19.3,63.5,0.193,0.412,Medium Risk,England
+2025-09-16,18:45,Dagenham & Redbridge,Bedford Town,FA Cup,Draw/Away,Draw or Away Win,1.88,8.0,19.3,63.5,0.193,0.412,Medium Risk,England
+2025-09-16,18:45,Witham Town,Mulbarton Wanderers,FA Cup,BTTS No,Both Teams to Score - No,2.03,8.0,23.1,60.6,0.231,0.412,Medium Risk,England
+2025-09-16,18:45,Wythenshawe Town,Bury,FA Trophy,Draw/Away,Draw or Away Win,1.9,8.0,19.6,63.0,0.196,0.411,Medium Risk,England
+2025-09-16,18:45,Halesowen Town,Grimsby Borough,FA Cup,BTTS No,Both Teams to Score - No,2.1,8.0,22.6,58.4,0.226,0.401,Medium Risk,England
+2025-09-16,18:00,MVV,Den Bosch,Eerste Divisie,BTTS No,Both Teams to Score - No,1.99,7.7,19.0,59.8,0.19,0.396,Medium Risk,Netherlands
+2025-09-16,18:45,Weston-super-Mare,Taunton Town,FA Cup,Over 2.5,Over 2.5 Goals,1.862314143053963,7.2,15.6,62.1,0.156,0.395,Medium Risk,England
+2025-09-16,17:00,FC Viktoria Köln,Hoffenheim II,3. Liga,Over 1.5,Over 1.5 Goals,1.8000075587827842,6.9,13.9,63.3,0.139,0.395,Medium Risk,Germany
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,Under 3.5,Under 3.5 Goals,1.5907898359187371,4.9,7.2,67.4,0.072,0.391,Low Risk,England
+2025-09-16,18:45,Tonbridge Angels,Steyning Town,FA Cup,Over 2.5,Over 2.5 Goals,1.860801838335032,6.7,14.4,61.5,0.144,0.389,Medium Risk,England
+2025-09-16,17:00,Boulogne,Bastia,Ligue 2,BTTS No,Both Teams to Score - No,1.94,6.9,16.2,59.9,0.162,0.388,Medium Risk,France
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,BTTS No,Both Teams to Score - No,1.9,6.2,13.9,60.0,0.139,0.382,Medium Risk,Germany
+2025-09-16,18:00,Waalwijk,Vitesse,Eerste Divisie,Home Under 1.5,Home Team Under 1.5 Goals,1.7819352036040437,4.7,9.2,61.3,0.092,0.373,Low Risk,Netherlands
+2025-09-16,18:45,Evesham United,Racing Club Warwick,FA Cup,Home Under 1.5,Home Team Under 1.5 Goals,1.7985043239094187,4.8,9.5,60.9,0.095,0.372,Low Risk,England
+2025-09-16,18:00,Helmond Sport,Jong Utrecht,Eerste Divisie,Over 2.5,Over 2.5 Goals,1.8725682242659036,5.1,11.1,59.3,0.111,0.371,Medium Risk,Netherlands
+2025-09-16,17:00,Verl,Alemannia Aachen,3. Liga,Under 11.5 Corners,Under 11.5 Total Corners,1.6881519259724267,3.4,5.9,62.7,0.059,0.368,Low Risk,Germany
+2025-09-16,18:45,Slough Town,Welling United,FA Cup,Over 2.5,Over 2.5 Goals,1.712088929409066,3.5,6.2,62.0,0.062,0.367,Low Risk,England

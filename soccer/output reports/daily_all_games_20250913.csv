@@ -1,0 +1,1516 @@
+date,kick_off,home_team,away_team,league,country,home_odds,draw_odds,away_odds,followed_league,has_picks,pick_count,top_pick_markets
+2025-09-13,00:00,Khimki II,Rotor-2,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,00:00,Rodina Moskva III,Salyut-Belgorod,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,00:00,FK Spartak Tambov,Znamya Truda,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,00:00,Kvant,Dinamo St. Petersburg,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,03:00,Wanaka,Nelson Suburbs,National League - Southern,New-Zealand,2.0,3.0,3.0,No,No,0,None
+2025-09-13,08:00,Siwelele U23,Orlando Pirates U23,Diski Challenge,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,08:00,Chippa United U23,Golden Arrows U23,Diski Challenge,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,08:15,Sokol Lanžhot,Holešov,4. liga - Divizie E,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,08:30,Trostianets,Dinaz Vyshhorod,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:00,Avispa Fukuoka,Cerezo Osaka,J1 League,Japan,3.3,3.3,2.15,Yes,Yes,3,"Over 1.5, Over 9.5 Corners, Home +1"
+2025-09-13,09:00,Honda,Porvenir Asuka,Japan Football League,Japan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:00,Augsburg U19,Freiburg U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:00,Wisła Kraków U19,Jagiellonia U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:00,Sampdoria U19,Venezia U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:00,APR,Al Hilal Omdurman,CECAFA Club Cup,World,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:30,Ventforet Kofu,Sagan Tosu,J2 League,Japan,3.1,3.1,2.3,No,No,0,None
+2025-09-13,09:30,Tartu Kalev,Narva U21,Esiliiga B,Estonia,2.05,3.7,2.88,No,No,0,None
+2025-09-13,09:30,Läänemaa Haapsalu,Johvi Phoenix,Esiliiga B,Estonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:30,Elva,Nõmme United,Esiliiga A,Estonia,4.75,4.5,1.48,No,No,0,None
+2025-09-13,09:30,Hirnyk-Sport,Kolos Kovalivka II,Druha Liga,Ukraine,3.5,3.5,1.83,No,No,0,None
+2025-09-13,09:30,Thitsar Arman,Yadanarbon,National League,Myanmar,2.5,3.75,2.25,No,No,0,None
+2025-09-13,09:30,Mohammedan,Railway,Calcutta Premier Division,India,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:30,Kalighat,Southern Samity,Calcutta Premier Division,India,2.0,3.0,3.0,No,No,0,None
+2025-09-13,09:45,Taguig,Dynamic Herb Cebu,PFL,Philippines,2.15,3.4,2.8,No,No,0,None
+2025-09-13,09:55,Fagiano Okayama,Nagoya Grampus,J1 League,Japan,2.62,3.1,2.75,Yes,Yes,1,Home/Away
+2025-09-13,10:00,Kashima,Shonan Bellmare,J1 League,Japan,1.55,4.33,5.25,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,10:00,Yokohama F. Marinos,Kawasaki Frontale,J1 League,Japan,3.0,3.75,2.15,Yes,Yes,1,Home/Away
+2025-09-13,10:00,Albirex Niigata,Shimizu S-pulse,J1 League,Japan,2.25,3.3,3.1,Yes,No,0,None
+2025-09-13,10:00,Gamba Osaka,Urawa,J1 League,Japan,2.05,3.5,3.4,Yes,Yes,4,"BTTS No, Over 1.5, Over 9.5 Corners"
+2025-09-13,10:00,Omiya Ardija,V-varen Nagasaki,J2 League,Japan,2.9,3.3,2.3,No,No,0,None
+2025-09-13,10:00,Jubilo Iwata,Imabari,J2 League,Japan,2.55,3.4,2.6,No,No,0,None
+2025-09-13,10:00,Parceiro Nagano,Gainare Tottori,J3 League,Japan,1.8,3.25,4.0,No,No,0,None
+2025-09-13,10:00,Gyeongnam FC,Gimpo Citizen,K League 2,South-Korea,3.1,3.1,2.2,No,No,0,None
+2025-09-13,10:00,Seoul E-Land FC,Suwon Bluewings,K League 2,South-Korea,2.5,3.4,2.5,No,No,0,None
+2025-09-13,10:00,Cheonan City,Incheon United,K League 2,South-Korea,4.5,3.6,1.67,No,No,0,None
+2025-09-13,10:00,Gangwon FC,FC Seoul,K League 1,South-Korea,2.7,3.25,2.55,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,10:00,Pohang Steelers,Ulsan Hyundai FC,K League 1,South-Korea,2.45,3.3,2.88,Yes,No,0,None
+2025-09-13,10:00,Jeonbuk Motors,Daejeon Citizen,K League 1,South-Korea,1.8,3.9,4.1,Yes,Yes,4,"Over 9.5 Corners, Over 1.5, Home/Away"
+2025-09-13,10:00,Stocksund,Stockholm Internazionale,Ettan - Norra,Sweden,7.5,4.75,1.3,No,No,0,None
+2025-09-13,10:00,Ruh Lviv,Epitsentr Dunayivtsi,Premier League,Ukraine,2.2,3.1,3.5,No,No,0,None
+2025-09-13,10:00,Pardubice U19,Slovácko U19,1. Liga U19,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Real Sociedad W,Sevilla W,Primera División Femenina,Spain,1.5,4.33,5.0,No,No,0,None
+2025-09-13,10:00,Pogon Szczecin W,UJ Krakow W,Ekstraliga Women,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Slask Wroclaw W,Rekord Bielsko-Biala W,Ekstraliga Women,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Felgueiras 1932,Benfica B,Segunda Liga,Portugal,2.15,3.3,3.1,No,No,0,None
+2025-09-13,10:00,Nürnberg,Werder Bremen W,Frauen Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Magdeburg U19,Chemnitzer FC U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Erzgebirge Aue U19,Dynamo Dresden U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Ingolstadt U19,Nürnberg U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Elversberg U19,Fortuna Düsseldorf U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Schott Mainz U19,Bayer Leverkusen U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Jahn Regensburg II,Eintracht Bamberg,Oberliga - Bayern Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Jagiellonia II,Wisła Płock II,III Liga - Group 1,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Wybrzeże Rewalskie Rewal,Luzino,III Liga - Group 2,Poland,4.2,3.9,1.62,No,No,0,None
+2025-09-13,10:00,Penuel,Livyi Bereh,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Karpaty Lviv U19,SK Poltava U19,U19 League,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Lech Poznań U19,Odra Opole U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Lechia Gdańsk U19,Górnik Zabrze U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Miedź Legnica U19,Stal Rzeszów U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Rio Ave U19,Vitoria Guimaraes U19,Júniores U19,Portugal,2.75,4.0,2.0,No,No,0,None
+2025-09-13,10:00,Samtse,Southern City,Premier League,Bhutan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Benfica U23,Estrela U23,Liga Revelação U23,Portugal,1.38,5.0,5.25,No,No,0,None
+2025-09-13,10:00,LSF,Herlev,Denmark Series - Group 1,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Glostrup,Såby,Denmark Series - Group 1,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,GVI,Sydkysten,Denmark Series - Group 2,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Skjold Sæby,Skovshoved,Denmark Series - Group 2,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Kiruna FF,Täfteå,Division 2 - Play-offs,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Blackburn Rovers U18,Stoke City U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Manchester United U18,Burnley U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Aston Villa U18,Leicester City U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Arsenal U18,Chelsea U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Resovia U19,Legia Warszawa U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Honka W,ONS,Kansallinen Liiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,AmaZulu U23,Sekhukhune United U23,Diski Challenge,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Arucas,Panadería Pulido,Tercera División RFEF - Group 12,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Norwich City U18,Southampton U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:00,Como U19,Pro Vercelli U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:30,Gute,Falu BS,Division 2 - Norra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:30,Oleksandria II,Lokomotiv Kyiv,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:30,CS Afumati,Politehnica Iasi,Liga II,Romania,3.0,3.0,2.25,No,No,0,None
+2025-09-13,10:30,Reading U18,Brighton U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,10:30,Eastern,Kowloon City,Premier League,Hong-Kong,1.38,4.5,6.0,No,No,0,None
+2025-09-13,10:30,Thalgau,Puch,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Vindbjart,Djerv,3. Division - Girone 5,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Våg,Haugesund II,3. Division - Girone 5,Norway,1.73,4.5,3.2,No,No,0,None
+2025-09-13,11:00,Gamla Upsala W,Jitex W,Elitettan,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Mallbacken W,Team TG FF W,Elitettan,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Örebro Söder W,Elfsborg,Elitettan,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Alingsås W,Vittsjö,Damallsvenskan,Sweden,5.75,4.0,1.45,No,No,0,None
+2025-09-13,11:00,Falkenbergs FF,Utsikten,Superettan,Sweden,1.73,3.7,4.33,No,No,0,None
+2025-09-13,11:00,Husqvarna,Angelholms FF,Ettan - Södra,Sweden,2.4,3.6,2.4,No,No,0,None
+2025-09-13,11:00,Torslanda,Olympic,Ettan - Södra,Sweden,2.7,3.4,2.25,No,No,0,None
+2025-09-13,11:00,Haninge,Örebro Syrianska,Ettan - Norra,Sweden,1.75,3.9,3.5,No,No,0,None
+2025-09-13,11:00,Sandviken,Pors Grenland,2. Division - Group 1,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Notodden,Sotra,2. Division - Group 1,Norway,4.2,3.7,1.67,No,No,0,None
+2025-09-13,11:00,Arendal,Vard,2. Division - Group 1,Norway,1.42,4.2,6.0,No,No,0,None
+2025-09-13,11:00,Enskede,Sylvia,Division 2 - Södra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Huddinge,Smedby,Division 2 - Södra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Högaborg,Växjö Norra,Division 2 - Östra Götaland,Sweden,2.25,3.6,2.55,No,No,0,None
+2025-09-13,11:00,Smorgon,Naftan,Premier League,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Shaanxi Union,Shenyang Urban,League One,China,3.9,3.4,1.75,No,No,0,None
+2025-09-13,11:00,Strogino,SKA Khabarovsk II,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Zvezda St. Petersburg,Kolomna,Second League - Group 2,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Slonim,Lokomotiv Gomel,1. Division,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,HB Koge,AC Horsens,1. Division,Denmark,5.5,4.1,1.55,No,No,0,None
+2025-09-13,11:00,Tauras,Neptūną Klaipėda,1 Lyga,Lithuania,1.85,3.8,3.25,No,No,0,None
+2025-09-13,11:00,SV Darmstadt 98,Eintracht Braunschweig,2. Bundesliga,Germany,1.6,4.0,5.25,Yes,No,0,None
+2025-09-13,11:00,Karlsruher SC,1. FC Nürnberg,2. Bundesliga,Germany,1.95,3.7,3.6,Yes,Yes,1,Over 1.5
+2025-09-13,11:00,FC Schalke 04,Holstein Kiel,2. Bundesliga,Germany,2.2,3.4,3.2,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,11:00,Ishøj,HIK,2. Division,Denmark,2.75,3.5,2.1,No,No,0,None
+2025-09-13,11:00,Baník Ostrava W,Horní Heršpice W,1. Liga Women,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Nizhny Novgorod,FC Orenburg,Premier League,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Nyva Ternopil,Viktoriya Mykolaivka,Persha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Internazionale U20,Parma U20,Campionato Primavera - 1,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Blumenthaler SV U19,Holstein Kiel U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Hamburger SV U19,Eintracht Braunsch U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Hansa Rostock U19,Viktoria Berlin U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Hertha BSC U19,Union Berlin U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Eintracht Frankf U19,Greuther Fürth U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Kaiserslautern U19,Karlsruher SC U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Meppen U19,Borussia M'bach U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Tus Dassendorf,Paloma,Oberliga - Hamburg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Hannover 96 II,SSV Jeddeloh,Regionalliga - Nord,Germany,1.7,4.2,3.6,No,No,0,None
+2025-09-13,11:00,Goczałkowice Zdrój,Ślęza Wrocław,III Liga - Group 3,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Górnik Zabrze II,Sparta Katowice,III Liga - Group 3,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Starowice Dolne,Słowianin,III Liga - Group 3,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Zorya Luhansk U19,Kolos Kovalivka U19,U19 League,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Kryvbas 2020 U19,Zhytomyr U19,U19 League,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Kasetsart FC,Chainat,Thai League 2,Thailand,2.25,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Angkor Tiger,Dangkor Senchey,C-League,Cambodia,1.42,5.75,4.2,No,No,0,None
+2025-09-13,11:00,NagaWorld,Kompong Dewa,C-League,Cambodia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Frederikssund,Næstved II,Denmark Series - Group 1,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Tårnby FF,Espergærde,Denmark Series - Group 1,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Allerød,Ringsted,Denmark Series - Group 2,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Aarhus Fremad II,Aalborg Freja,Denmark Series - Group 4,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Viby,Holstebro,Denmark Series - Group 4,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,ASA Aarhus,Vorup,Denmark Series - Group 4,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Kubikenborg,Piteå,Division 2 - Play-offs,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Lucksta,Boden,Division 2 - Play-offs,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Green Farmers FC,Ngozi City,Ligue A,Burundi,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Leeds United U18,Everton U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Crystal Palace U18,Ipswich Town U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Fulham U18,Birmingham City U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Shangyu Pterosaur,BIT,League Two,China,1.8,3.1,4.1,No,No,0,None
+2025-09-13,11:00,Chonburi FC,Bangkok United,Thai League 1,Thailand,3.6,3.6,1.8,No,No,0,None
+2025-09-13,11:00,PTE-PEAC,III. Kerületi TUE,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Gia Định,Phu Dong,Cup,Vietnam,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:00,Thanh Hóa,Hoang Anh Gia Lai,Cup,Vietnam,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:15,Panjsher,Khatlon,Vysshaya Liga,Tajikistan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:15,San Bartolomé,Marino,Tercera División RFEF - Group 12,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Flora Tallinn,Vaprus,Meistriliiga,Estonia,1.4,4.33,6.5,No,No,0,None
+2025-09-13,11:30,Åsane W,KIL / Hemne W,1. Division Women,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Guangzhou E-Power,Hebei Kungfu,League One,China,1.67,3.5,4.33,No,No,0,None
+2025-09-13,11:30,Guangxi Baoyun,Dalian Huayi,League One,China,2.45,3.1,2.62,No,No,0,None
+2025-09-13,11:30,Nanjing City,Shenzhen Juniors,League One,China,1.85,3.25,3.75,No,No,0,None
+2025-09-13,11:30,Arsenal,Nottingham Forest,Premier League,England,1.38,5.0,8.0,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,11:30,Accrington ST,Colchester,League Two,England,2.88,3.25,2.5,No,No,0,None
+2025-09-13,11:30,Crawley Town,Cheltenham,League Two,England,1.91,3.6,4.0,No,No,0,None
+2025-09-13,11:30,Charlton,Millwall,Championship,England,2.4,3.1,3.1,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,11:30,Preston,Middlesbrough,Championship,England,3.2,3.3,2.25,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,11:30,Oxford United,Leicester,Championship,England,4.2,3.5,1.83,Yes,No,0,None
+2025-09-13,11:30,Bradford,Huddersfield,League One,England,2.35,3.4,2.9,No,No,0,None
+2025-09-13,11:30,Northampton,Blackpool,League One,England,2.6,3.4,2.7,No,No,0,None
+2025-09-13,11:30,VSK Århus,Skive,2. Division,Denmark,2.0,3.3,3.2,No,No,0,None
+2025-09-13,11:30,Yeovil Town,Woking,National League,England,2.0,3.3,3.4,No,No,0,None
+2025-09-13,11:30,Barry Town,Bala Town,Premier League,Wales,1.75,3.75,4.0,No,No,0,None
+2025-09-13,11:30,Colwyn Bay,Haverfordwest County AFC,Premier League,Wales,2.25,3.4,2.75,No,No,0,None
+2025-09-13,11:30,Penybont,Flint Town United,Premier League,Wales,1.75,4.0,3.7,No,No,0,None
+2025-09-13,11:30,GAP Connah S Quay FC,Cardiff MET,Premier League,Wales,1.57,3.75,5.25,No,No,0,None
+2025-09-13,11:30,The New Saints,llanelli AFC,Premier League,Wales,1.03,17.0,41.0,No,No,0,None
+2025-09-13,11:30,Briton Ferry,Caernarfon Town,Premier League,Wales,3.7,4.0,1.75,No,No,0,None
+2025-09-13,11:30,Bukovyna,Kulykiv,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Genk W,Gent W,Super League Women,Belgium,1.73,4.0,3.5,No,No,0,None
+2025-09-13,11:30,Tanjong Pagar,Tampines Rovers,Premier League,Singapore,9.5,6.0,1.22,No,No,0,None
+2025-09-13,11:30,Chiangmai United,Sisaket United,Thai League 2,Thailand,2.15,3.3,2.9,No,No,0,None
+2025-09-13,11:30,Petržalka W,Trenčín W,I Liga - Women,Slovakia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Sabah FA,Bunga Raya,FA Cup,Malaysia,1.08,10.0,19.0,No,No,0,None
+2025-09-13,11:30,Wolves U18,Manchester City U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Chengdu Rongcheng II,Wuxi Wugou,League Two,China,3.5,3.3,1.91,No,No,0,None
+2025-09-13,11:30,Nantong Haimen Codion,Shenzhen 2028,League Two,China,2.2,3.1,3.0,No,No,0,None
+2025-09-13,11:30,Sukhothai FC,Lamphun Warrior,Thai League 1,Thailand,2.8,3.3,2.3,No,No,0,None
+2025-09-13,11:30,Yozgat Bld Bozokspor,Karadeniz Ereğli BSK,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,11:30,Pickering Town,Runcorn Linnets,FA Cup,England,3.3,3.7,1.83,No,No,0,None
+2025-09-13,11:35,Qingdao Youth Island,Hangzhou Greentown,Super League,China,2.5,3.8,2.55,No,No,0,None
+2025-09-13,12:00,Kolbotn W,Røa W,Toppserien,Norway,2.35,3.7,2.4,No,No,0,None
+2025-09-13,12:00,Stabæk W,Bodø / Glimt W,Toppserien,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Bjarg,Loddefjord,3. Division - Girone 4,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Fyllingsdalen,Gneist,3. Division - Girone 4,Norway,2.45,4.5,2.1,No,No,0,None
+2025-09-13,12:00,Madla,Brodd,3. Division - Girone 5,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Stord,Staal Jørpeland,3. Division - Girone 5,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Flint,Drøbak / Frogn,3. Division - Girone 6,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Lokomotiv Oslo,Fram,3. Division - Girone 6,Norway,2.38,4.0,2.38,No,No,0,None
+2025-09-13,12:00,IF Ready,Kvik Halden,3. Division - Girone 6,Norway,5.5,6.5,1.28,No,No,0,None
+2025-09-13,12:00,Kjelsås,Follo,2. Division - Group 2,Norway,1.5,4.1,5.0,No,No,0,None
+2025-09-13,12:00,Hønefoss,Grorud,2. Division - Group 2,Norway,2.3,3.7,2.45,No,No,0,None
+2025-09-13,12:00,Motala,Kongahälla,Division 2 - Norra Götaland,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Torns,IFK Trelleborg,Division 2 - Östra Götaland,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,IFK Österåker,Nacka Iliria,Division 2 - Norra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Bollstanäs,Sunnersta,Division 2 - Norra Svealand,Sweden,2.1,3.7,2.75,No,No,0,None
+2025-09-13,12:00,Atyrau,FK Tobol Kostanay,Premier League,Kazakhstan,4.0,3.2,1.8,No,No,0,None
+2025-09-13,12:00,Kyzyl-Zhar,Okzhetpes,Premier League,Kazakhstan,2.1,2.9,3.3,No,No,0,None
+2025-09-13,12:00,Paide II,Kuressaare II,Esiliiga B,Estonia,1.85,4.5,2.88,No,No,0,None
+2025-09-13,12:00,Orsha,Uni Minsk,1. Division,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Kolding IF,Hvidovre,1. Division,Denmark,1.67,3.8,5.0,No,No,0,None
+2025-09-13,12:00,Kauno Žalgiris II,Minija,1 Lyga,Lithuania,2.38,3.6,2.38,No,No,0,None
+2025-09-13,12:00,Grenoble,Dunkerque,Ligue 2,France,2.9,3.3,2.25,Yes,Yes,3,"Over 1.5, Home +1, Over 9.5 Corners"
+2025-09-13,12:00,Annecy,Reims,Ligue 2,France,3.25,3.2,2.1,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,12:00,Getafe,Oviedo,La Liga,Spain,1.95,3.0,4.75,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,12:00,Slavia Praha W,Slovan Liberec W,1. Liga Women,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Erzgebirge Aue,FC Viktoria Köln,3. Liga,Germany,2.15,3.4,2.9,No,No,0,None
+2025-09-13,12:00,MSV Duisburg,SV Wehen,3. Liga,Germany,2.25,3.5,2.7,No,No,0,None
+2025-09-13,12:00,Hoffenheim II,Verl,3. Liga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,FC Ingolstadt 04,FC Schweinfurt 05,3. Liga,Germany,1.53,4.2,4.75,No,No,0,None
+2025-09-13,12:00,Stuttgart II,FC Saarbrücken,3. Liga,Germany,2.8,3.5,2.2,No,No,0,None
+2025-09-13,12:00,Airbus UK,Caersws,FAW Championship,Wales,1.17,7.0,10.0,No,No,0,None
+2025-09-13,12:00,Rekord Bielsko-Biała,Zaglebie Sosnowiec,II Liga - East,Poland,2.4,3.3,2.5,No,No,0,None
+2025-09-13,12:00,Jastrzębie,Chojniczanka Chojnice,II Liga - East,Poland,4.33,3.6,1.67,No,No,0,None
+2025-09-13,12:00,Górnik Łęczna W,Stomilanki Olsztyn W,Ekstraliga Women,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,SGS Essen W,Hamburger SV W,Frauen Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Persis Solo,Persijap,Liga 1,Indonesia,1.95,3.2,3.4,No,No,0,None
+2025-09-13,12:00,Bologna U20,Napoli U20,Campionato Primavera - 1,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,BAK 07 U19,Energie Cottbus U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Kickers Offenbach U19,Stuttgart U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Bayern München U19,Stuttgarter K'rs U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Saarbrücken U19,Hoffenheim U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Denzlingen,Türkspor Neckarsulm,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Backnang,CFR Pforzheim,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Göppinger SV,Hollenbach,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Oberachern,Essingen,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Arminia Ludwigshafen,FV Engers 07,Oberliga - Rheinland-Pfalz / Saar,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Auersmacher,TuS RW Koblenz,Oberliga - Rheinland-Pfalz / Saar,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Dynamo Schwerin,Viktoria Berlin,Oberliga - Nordost-Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Bischofswerdaer FV,Germania Halberstadt,Oberliga - Nordost-Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,FC Grimma,Auerbach,Oberliga - Nordost-Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Heiligenstadt,RSV Eintracht,Oberliga - Nordost-Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Einheit Wernigerode,SC Freital,Oberliga - Nordost-Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,FC Gießen,1960 Hanau,Oberliga - Hessen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Eintracht Frankfurt II,Baunatal,Oberliga - Hessen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,FC Carl Zeiss Jena,Eilenburg,Regionalliga - Nordost,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,BFC Preussen,FC Rot-Weiß Erfurt,Regionalliga - Nordost,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,ZFC Meuselwitz,Hertha Zehlendorf,Regionalliga - Nordost,Germany,1.85,3.75,3.3,No,No,0,None
+2025-09-13,12:00,Lokomotive Leipzig,Luckenwalde,Regionalliga - Nordost,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Eintracht Norderstedt,Kickers Emden,Regionalliga - Nord,Germany,2.4,3.75,2.3,No,No,0,None
+2025-09-13,12:00,Phönix Lübeck,Bremer SV,Regionalliga - Nord,Germany,1.73,3.9,3.6,No,No,0,None
+2025-09-13,12:00,Schöningen,St. Pauli II,Regionalliga - Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Würzburger Kickers,Nürnberg II,Regionalliga - Bayern,Germany,1.5,4.5,4.5,No,No,0,None
+2025-09-13,12:00,Greuther Fürth II,Schwaben Augsburg,Regionalliga - Bayern,Germany,1.6,3.8,4.5,No,No,0,None
+2025-09-13,12:00,Bayreuth,Eichstätt,Regionalliga - Bayern,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Vilzing,Illertissen,Regionalliga - Bayern,Germany,2.45,3.5,2.38,No,No,0,None
+2025-09-13,12:00,SGV Freiberg,Bahlinger SC,Regionalliga - SudWest,Germany,1.27,5.0,8.5,No,No,0,None
+2025-09-13,12:00,Barockstadt Fulda-Lehn.,FC Astoria Walldorf,Regionalliga - SudWest,Germany,1.85,3.75,3.3,No,No,0,None
+2025-09-13,12:00,Bayern Alzenau,FSV Mainz 05 II,Regionalliga - SudWest,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Schott Mainz,Hessen Kassel,Regionalliga - SudWest,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Stuttgarter Kickers,Freiburg II,Regionalliga - SudWest,Germany,1.83,3.7,3.4,No,No,0,None
+2025-09-13,12:00,FC 08 Homburg,TSV Steinbach,Regionalliga - SudWest,Germany,1.8,4.0,3.2,No,No,0,None
+2025-09-13,12:00,SV Sandhausen,Balingen,Regionalliga - SudWest,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Sturm Hauzenberg,Kirchanschöring,Oberliga - Bayern Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Heimstetten,Türkgücü-Ataspor,Oberliga - Bayern Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,TuS Geretsried,Deisenhofen,Oberliga - Bayern Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Union Neumünster,Eutiner SV,Oberliga - Schleswig-Holstein,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Nordmark Satrup,Todesfelde,Oberliga - Schleswig-Holstein,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Rotenhof,Heider SV,Oberliga - Schleswig-Holstein,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Gebenbach,Coburg,Oberliga - Bayern Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Bochum II,Köln II,Regionalliga - West,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Borussia M'gladbach II,Schalke 04 II,Regionalliga - West,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Wuppertaler SV,Wiedenbrück,Regionalliga - West,Germany,2.1,3.4,2.9,No,No,0,None
+2025-09-13,12:00,FC Gutersloh,SV Rodinghausen,Regionalliga - West,Germany,1.62,3.7,4.33,No,No,0,None
+2025-09-13,12:00,Fortuna Düsseldorf II,SSVg Velbert,Regionalliga - West,Germany,1.48,4.2,5.25,No,No,0,None
+2025-09-13,12:00,Rot-weiss Oberhausen,Borussia Dortmund II,Regionalliga - West,Germany,2.45,4.0,2.2,No,No,0,None
+2025-09-13,12:00,Werder Bremen III,BTS Neustadt,Oberliga - Bremen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Brinkumer SV,Habenhauser FV,Oberliga - Bremen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Union Mauer,Fach-Donaufeld,Regionalliga - Ost,Austria,2.55,3.75,2.2,No,No,0,None
+2025-09-13,12:00,St. Gallen W,Aarau,AXA Women’s Super League,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,First Vienna W,Salzburg W,Frauenliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Khon Kaen United,Pattani,Thai League 2,Thailand,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Aşgabat,Balkan,Ýokary Liga,Turkmenistan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Altyn Asyr,Köpetdag Aşgabat,Ýokary Liga,Turkmenistan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Union Sandersdorf,Einheit Rudolstadt,Oberliga - Nordost-Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Sabadell,FC Cartagena,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,AB Tårnby,Avarta,Denmark Series - Group 1,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Silkeborg KFUM,ØB,Denmark Series - Group 3,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Hobro II,Nørresundby,Denmark Series - Group 4,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Middlesbrough U18,Nottingham Forest U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Liverpool U18,Newcastle United U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Sunderland U18,Derby County U18,U18 Premier League - North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Ratchaburi,Port FC,Thai League 1,Thailand,2.45,3.6,2.45,No,No,0,None
+2025-09-13,12:00,Osmaniyespor,Talasgücü Belediyespor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Silifke Belediyespor,Mazıdağı Fosfatspor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Yeşilyurt Belediyespor,Kırıkkale Büyük Anadolu,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Karaköprü Belediyespor,Kırşehir Belediyespor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Ağrı 1970,12 Bingölspor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Türk Metal 1963,Diyarbekirspor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,1926 Bulancak,Pazarspor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Karabük İdman Yurdu,Tokat Bld Plevnespor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Amasyaspor 1968,Yeni Orduspor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Sebat Gençlikspor,Artvin Hopaspor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Anadolu Üniversitesi,Viven Bornova,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Zonguldak Kömürspor,Düzcespor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Çayelispor,Giresunspor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,PEPO,Honka,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Tzeirey Tamra,Hapoel Bnei Musmus,Liga Alef,Israel,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Mariehamn,Haka,Veikkausliiga,Finland,2.8,3.4,2.3,No,No,0,None
+2025-09-13,12:00,Hallwang,Eugendorf,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Austria Lustenau II,Wolfurt,Landesliga - Vorarlbergliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,First Vienna II,Stadlau,Landesliga - Wien,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Vásárosnamény,Zalaegerszegi TE,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:00,Estrela Potiguar U20,Riachuelo U20,Potiguar - U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:15,Dugopolje,Croatia Zmijavci,First NL,Croatia,2.3,3.1,2.8,No,No,0,None
+2025-09-13,12:15,Ho Chi Minh City,Nam Dinh,V.League 1,Vietnam,4.75,2.88,1.8,No,No,0,None
+2025-09-13,12:15,Công An Nhân Dân,Hai Phong,V.League 1,Vietnam,1.42,4.1,6.0,No,No,0,None
+2025-09-13,12:15,Selangor,University Malaya,FA Cup,Malaysia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Angust Nazran,Rubin Yalta,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,CIVO United,Kamuzu Barracks,Super League,Malawi,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,MAFCO,Ekhaya,Super League,Malawi,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Nyasa Big Bullets,Dedza Dynamos,Super League,Malawi,1.25,5.5,8.0,No,No,0,None
+2025-09-13,12:30,Obolon'-Brovar,Dynamo Kyiv,Premier League,Ukraine,11.0,6.25,1.25,No,No,0,None
+2025-09-13,12:30,Admira Wacker,Schwarz-Weiß Bregenz,2. Liga,Austria,1.48,4.5,5.5,No,No,0,None
+2025-09-13,12:30,Barendrecht,Kozakken Boys,Tweede Divisie,Netherlands,2.25,4.0,2.38,No,No,0,None
+2025-09-13,12:30,Koninklijke HFC,GVVV Veenendaal,Tweede Divisie,Netherlands,2.6,3.8,2.25,No,No,0,None
+2025-09-13,12:30,Hoek,ACV,Tweede Divisie,Netherlands,1.45,4.2,5.25,No,No,0,None
+2025-09-13,12:30,Rijnsburgse Boys,Ijsselmeervogels,Tweede Divisie,Netherlands,1.38,5.25,5.0,No,No,0,None
+2025-09-13,12:30,Hallescher FC U19,Wolfsburg U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Nakhon Pathom,Songkhla,Thai League 2,Thailand,2.3,3.0,2.88,No,No,0,None
+2025-09-13,12:30,VV Scherpenzeel,TEC,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Dovo,Harkemase Boys,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Noordwijk,Meerssen,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,SteDoCo,UDI '19,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,SVV Scheveningen,Rijnvogels,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Zwaluwen,GOES,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Erbaaspor,Karaman Belediyespor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Kahramanmaraş İstiklalsp,İçel İdmanyurdu Spor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Mardin BB,Aliağa FAŞ,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Cambuur U21,Twente / Heracles U21,U21 Divisie 1,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Mil-Muğan,Sumqayıt,Premyer Liqa,Azerbaijan,2.88,3.1,2.25,No,No,0,None
+2025-09-13,12:30,Kaya,Davao Aguilas,PFL,Philippines,1.22,5.75,8.0,No,No,0,None
+2025-09-13,12:30,Anif,SV Schwarzach,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Twente / Heracles U21,Cambuur U21,U21 Divisie 1,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Baku Sportinq,Difai Ağsu,Birinci Dasta,Azerbaijan,2.2,3.25,2.88,No,No,0,None
+2025-09-13,12:30,Eemdijk,Hsc 21,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,SC Genemuiden,Sportlust '46,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Huizen,ADO '20,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:30,Ferroviario U20,Floresta CE U20,Cearense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,12:45,Korona Kielce,Pogon Szczecin,Ekstraklasa,Poland,2.2,3.4,3.1,No,No,0,None
+2025-09-13,12:45,PEC Zwolle U21,Willem II Tilburg U21,U21 Divisie 1,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Bærum,Frigg,3. Division - Girone 1,Norway,2.45,4.1,2.2,No,No,0,None
+2025-09-13,13:00,Tromsø II,Ulfstind,3. Division - Girone 1,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Harstad,Funnefoss / Vormsund,3. Division - Girone 1,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Junkeren,Ullern,3. Division - Girone 1,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Volda,Surnadal,3. Division - Girone 2,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Trygg/Lade,Byåsen,3. Division - Girone 2,Norway,1.2,6.25,8.0,No,No,0,None
+2025-09-13,13:00,Skedsmo,Skjetten,3. Division - Girone 3,Norway,3.3,4.5,1.7,No,No,0,None
+2025-09-13,13:00,Bjørkelangen,Elverum,3. Division - Girone 3,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Fana,Fjøra,3. Division - Girone 4,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Askøy,Vålerenga II,3. Division - Girone 4,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Sandefjord II,Os,3. Division - Girone 4,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Sola,Sandnes Ulf II,3. Division - Girone 5,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Trelleborg W,KIF Örebro,Elitettan,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Umeå,Häcken II,Elitettan,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Hammarby,Linköping,Damallsvenskan,Sweden,1.07,11.0,23.0,No,No,0,None
+2025-09-13,13:00,Kristianstad,Växjö,Damallsvenskan,Sweden,1.5,4.1,4.75,No,No,0,None
+2025-09-13,13:00,GIF Sundsvall,Varbergs BoIS FC,Superettan,Sweden,2.88,3.25,2.38,No,No,0,None
+2025-09-13,13:00,Oddevold,IK brage,Superettan,Sweden,2.2,3.4,2.9,No,No,0,None
+2025-09-13,13:00,Orebro SK,Ostersunds FK,Superettan,Sweden,2.45,3.5,2.55,No,No,0,None
+2025-09-13,13:00,Degerfors IF,Mjallby AIF,Allsvenskan,Sweden,4.33,3.75,1.75,Yes,Yes,1,Away Under 1.5
+2025-09-13,13:00,Brattvåg,Træff,2. Division - Group 1,Norway,1.48,4.5,4.75,No,No,0,None
+2025-09-13,13:00,Skara,Grebbestad,Division 2 - Norra Götaland,Sweden,1.62,4.2,3.9,No,No,0,None
+2025-09-13,13:00,Hestrafor,Astrio,Division 2 - Västra Götaland,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Rīgas FS,FS Jelgava,Virsliga,Latvia,1.14,7.5,12.0,No,No,0,None
+2025-09-13,13:00,Ordabasy,Zhenys,Premier League,Kazakhstan,1.9,3.0,4.0,No,No,0,None
+2025-09-13,13:00,FC Slutsk,Bate Borisov,Premier League,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Spartak Nalchik,Dinamo Stavropol,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Kuban Kholding,Astrakhan,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Ryazan,Zenit Penza,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Dinamo Bryansk,Arsenal Tula II,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Vasco da Gama U20,Madureira U20,Carioca U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Botafogo U20,Flamengo U20,Carioca U20,Brazil,2.45,3.3,2.45,No,No,0,None
+2025-09-13,13:00,Cagliari,Parma,Serie A,Italy,2.25,3.1,3.4,Yes,Yes,2,"Over 9.5 Corners, Over 1.5"
+2025-09-13,13:00,Osipovichy,ABFF U19,1. Division,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Brondby,FC Copenhagen,Superliga,Denmark,3.6,3.25,2.05,No,No,0,None
+2025-09-13,13:00,Baník Ostrava,Slovan Liberec,Czech Liga,Czech-Republic,2.05,3.6,3.1,No,No,0,None
+2025-09-13,13:00,Plzen,Sigma Olomouc,Czech Liga,Czech-Republic,1.42,4.33,6.0,No,No,0,None
+2025-09-13,13:00,Teplice,Mlada Boleslav,Czech Liga,Czech-Republic,2.1,3.7,2.88,No,No,0,None
+2025-09-13,13:00,Zlin,Dukla Praha,Czech Liga,Czech-Republic,2.15,3.1,3.25,No,No,0,None
+2025-09-13,13:00,Uta Arad,Arges Pitesti,Liga I,Romania,2.55,3.1,2.62,No,No,0,None
+2025-09-13,13:00,Slovácko W,Viktoria Plzeň W,1. Liga Women,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,UKS Łódź,Akademia Piłkarska LG,Ekstraliga Women,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Lusitânia Lourosa,Penafiel,Segunda Liga,Portugal,1.83,3.4,4.0,No,No,0,None
+2025-09-13,13:00,Boluspor,Manisa BBSK,1. Lig,Turkey,1.7,3.3,4.75,No,No,0,None
+2025-09-13,13:00,İstanbulspor,Ümraniyespor,1. Lig,Turkey,1.6,3.7,5.0,No,No,0,None
+2025-09-13,13:00,Sparta Rotterdam II,RKAV Volendam,Tweede Divisie,Netherlands,1.95,4.0,2.9,No,No,0,None
+2025-09-13,13:00,Spakenburg,Excelsior Maassluis,Tweede Divisie,Netherlands,1.42,4.75,5.25,No,No,0,None
+2025-09-13,13:00,Kokand-1912,Qizilqum,Super League,Uzbekistan,2.2,3.0,3.1,No,No,0,None
+2025-09-13,13:00,Chornomorets,Metalurh Zaporizhya,Persha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Roma U20,Fiorentina U20,Campionato Primavera - 1,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Normannia Gmünd,Karlsruhe II,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Friedberg,Eintracht Stadtallendorf,Oberliga - Hessen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Hummetroth,Vfb Marburg,Oberliga - Hessen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Curslack-Neuengamme,Halstenbek-Rellingen,Oberliga - Hamburg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Gundelfingen,Pipinsried,Oberliga - Bayern Süd,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Stadeln,Neudrossenfeld,Oberliga - Bayern Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Tłuchowia,Cartusia Kartuzy,III Liga - Group 2,Poland,2.9,3.6,2.05,No,No,0,None
+2025-09-13,13:00,Stargard Szczeciński,Lech Poznań II,III Liga - Group 2,Poland,2.05,3.6,2.9,No,No,0,None
+2025-09-13,13:00,Wetschen,Eintracht Braunschw. II,Oberliga - Niedersachsen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Bars,Dordoi Bishkek,Premier League,Kyrgyzstan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Power Dynamos,NAPSA Stars,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Mufulira Wanderers,ZESCO United,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Red Arrows,Nchanga Rangers,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Konkola Blades,Prison Leopards,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Green Buffaloes,Mines,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Green Eagles,Man Utd Zambia Academy,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Cailungo,Murata,Campionato,San-Marino,3.6,3.7,1.8,No,No,0,None
+2025-09-13,13:00,Faetano,Tre Penne,Campionato,San-Marino,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Juvenes / Dogana,Cosmos,Campionato,San-Marino,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Basel II,Bavois,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Pescara,Venezia,Serie B,Italy,4.33,3.6,1.8,Yes,No,0,None
+2025-09-13,13:00,Modena,Bari,Serie B,Italy,2.35,3.1,3.2,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,13:00,Juve Stabia,Reggiana,Serie B,Italy,2.1,3.0,3.9,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,13:00,Padova,Frosinone,Serie B,Italy,2.45,2.88,3.25,Yes,No,0,None
+2025-09-13,13:00,Břidličná,Nový Jičín,4. liga - Divizie F,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,SfB-Oure,OKS,Denmark Series - Group 3,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Terengganu,Imigresen,FA Cup,Malaysia,1.5,4.1,5.25,No,No,0,None
+2025-09-13,13:00,Garage Express,Flambeau du Centre,Ligue A,Burundi,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,URK,Staphorst,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,DVS 33 Ermelo,ROHDA Raalte,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Sparta Nijkerk,Excelsior '31,Derde Divisie - Saturday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,ASWH,Gemert,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Kloetinge,FC Lisse,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,TOGB,Blauw Geel,Derde Divisie - Sunday,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Renate,Union Brescia,Serie C - Girone A,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Dolomiti Bellunesi,Alcione,Serie C - Girone A,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Lumezzane,Triestina,Serie C - Girone A,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,PRO Vercelli,Virtus Verona,Serie C - Girone A,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Pianese,Sambenedettese,Serie C - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Guidonia Montecelio 1937,Ravenna,Serie C - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Reipas,JPS,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Erzin Spor,Karacabey Belediyespor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Adana 1954 FK,Altınordu,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,68 Aksaray Belediyespor,Adanaspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Ankara Demirspor,Somaspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Groningen U21,Feyenoord U21,U21 Divisie 1,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Go Ahead Eagles U21,De Graafschap U21,U21 Divisie 1,Netherlands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Uberaba U20,Bonfim U20,Mineiro U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Boston City U20,Cruzeiro U20,Mineiro U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Sion II,Naters,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Black Leopards,Upington City,1st Division,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Cape Town City,Casric Stars,1st Division,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Milford FC,Venda FC,1st Division,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Lerumo Lions,Kruger United,1st Division,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,HaPK Edustus,Vaajakoski,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Hungry Lions,Leicesterfield,1st Division,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Leon,Virtus Ciserano Bergamo,Serie D - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Brian Lignano,Campodarsego,Serie D - Girone C,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Altavilla,Este,Serie D - Girone C,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,MP,Tampere United,Ykkönen,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,OLS,KuPS Akatemia,Ykkönen,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,PKKU,Rops,Ykkönen,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Chicken Inn,Kwekwe United,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Herentals,CAPS United,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Yadah,Bikita Minerals,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Manica Diamonds,Green Fuel,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Kariba,Ngezi Platinum,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Simba Bhora,Scotland Mabvuku,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Platinum,Highlanders,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,TelOne,MWOS,Premier Soccer League,Zimbabwe,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Maracana Taua U20,Caete U20,Paraense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Köttmannsdorf,TSU Matrei,Landesliga - Karnten,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Union Henndorf,Anthering,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Silz / Mötz,Kundl,Landesliga - Tirol,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Lochau,Blau-Weiß Feldkirch,Landesliga - Vorarlbergliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Elassona,Astir Lianokladi,Gamma Ethniki - Group 3,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Lefkimmi,Proodos Rogon,Gamma Ethniki - Group 3,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Anagennisi Artas,A. Schimatari,Gamma Ethniki - Group 3,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Tilikratis,Lamia,Gamma Ethniki - Group 3,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Aris Filiates,Nea Selefkia,Gamma Ethniki - Group 3,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Nottingham Forest U21,Dinamo Zagreb U21,Premier League International Cup,World,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Érdi VSE,Gyori ETO FC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Veszprém,Debreceni VSC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Hódmezővásárhely,Diosgyori VTK,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Iváncsa,Kazincbarcikai,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Gyulai Termál,Mezokovesd-zsory,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Nagykanizsai ULE,Kozarmisleny FC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Füzesabony,BVSC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Szolnoki MAV FC,ESMTK,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Tiszafuredi VSE,Putnok VSE,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Majosi,Gödöllő,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Szajol,Paks,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Móri SE,Budapest Honved,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Club River Plate,Independiente F.b.c.,Division Intermedia,Paraguay,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,12 de Junio VH,Encarnación,Division Intermedia,Paraguay,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Salgótarjáni BTC,Tiszakecske FC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Gottne,IFK Östersund,Division 2 - Play-offs,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Padova U19,Modena U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,AlbinoLeffe U19,Renate U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Spezia U19,Pisa U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Bari U19,Benevento U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Pescara U19,Ternana U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Perugia U19,Avellino U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Brescia U19,Reggiana U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Cosenza U19,Catanzaro U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Empoli U19,Monopoli U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Kabwe Warriors,Nkana,Super League,Zambia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,JS Talangaï,Otôho d'Oyo,Ligue 1,Congo,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:00,Singida Fountain Gate,KMC,CECAFA Club Cup,World,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Ørn Horten,Sarpsborg 08 II,3. Division - Girone 6,Norway,1.62,4.75,3.75,No,No,0,None
+2025-09-13,13:30,ÍF II,EB / Streymur II,1. Deild,Faroe-Islands,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Niva,Baranovichi,1. Division,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,SC Freiburg,VfB Stuttgart,Bundesliga,Germany,2.7,3.5,2.55,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,13:30,1. FC Heidenheim,Borussia Dortmund,Bundesliga,Germany,5.0,4.33,1.6,Yes,No,0,None
+2025-09-13,13:30,FSV Mainz 05,RB Leipzig,Bundesliga,Germany,2.35,3.7,2.88,Yes,Yes,3,"Over 1.5, Over 9.5 Corners, Home Under 1.5"
+2025-09-13,13:30,Union Berlin,1899 Hoffenheim,Bundesliga,Germany,2.7,3.5,2.55,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,13:30,VfL Wolfsburg,1.FC Köln,Bundesliga,Germany,1.95,3.6,3.75,Yes,No,0,None
+2025-09-13,13:30,Trethomas Bluebirds,Ynyshir Albions,FAW Championship,Wales,1.57,5.25,3.7,No,No,0,None
+2025-09-13,13:30,Holywell,Gresford Athletic,FAW Championship,Wales,1.18,6.5,9.0,No,No,0,None
+2025-09-13,13:30,Brickfield Rangers,Mold Alexandra,FAW Championship,Wales,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Rhyl,Newtown AFC,FAW Championship,Wales,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Aberystwyth Town,Cwmbran Celtic,FAW Championship,Wales,1.38,4.5,5.75,No,No,0,None
+2025-09-13,13:30,Baglan Dragons,Cardiff Draconians,FAW Championship,Wales,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Lustenau,Kitzbühel,Regionalliga - West,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Almere City II,AFC Amsterdam,Tweede Divisie,Netherlands,2.3,4.0,2.4,No,No,0,None
+2025-09-13,13:30,Katwijk,HHC,Tweede Divisie,Netherlands,2.15,3.6,2.7,No,No,0,None
+2025-09-13,13:30,St. Pauli U19,Werder Bremen U19,U19 Bundesliga,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,FV Ravensburg,FC 08 Villingen,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,VfR Aalen,VfR Mannheim,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Bissingen,TSV Singen,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Reutlingen,FC Nöttingen,Oberliga - Baden-Württemberg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,FC Emmelshausen-Karbach,Pirmasens,Oberliga - Rheinland-Pfalz / Saar,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,SC Idar-Oberstein,Kaiserslautern II,Oberliga - Rheinland-Pfalz / Saar,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,SKRA Częstochowa,Pawłowice Śląskie,III Liga - Group 3,Poland,1.53,4.0,4.8,No,No,0,None
+2025-09-13,13:30,Alay,Talant,Premier League,Kyrgyzstan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Smail,Saham,Professional League,Oman,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Akademija Pandev,Shkupi 1927,First League,Macedonia,2.1,3.2,3.1,No,No,0,None
+2025-09-13,13:30,Sileks,FK Rabotnicki,First League,Macedonia,1.36,4.0,8.0,No,No,0,None
+2025-09-13,13:30,Bregalnica Štip,Novaci,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Osogovo,Skopje,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Pobeda,Ohrid,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Vardar Negotino,Sasa,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Shkëndija Haraçinë,Golemo Konjari,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Kepez Belediyespor,Kastamonuspor 1966,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,İnegölspor,Şanlıurfaspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Tuzlaspor,Ankaraspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Kırklarelispor,Muş Menderesspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Belediye Derincespor,Hekimoğlu Trabzon,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:30,Kozuv Gevgelija,FK Prespa Resen,Second League,Macedonia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:40,Al-Jazira,Al Nasr,Pro League,United-Arab-Emirates,2.1,3.9,2.7,No,No,0,None
+2025-09-13,13:45,Akhmat,Lokomotiv,Premier League,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:45,Dynamo,Spartak Moscow,Premier League,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,13:45,Dynamik,Muzinga,Ligue A,Burundi,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Throttur Reykjavik,Thor Akureyri,1. Deild,Iceland,2.35,3.6,2.45,No,No,0,None
+2025-09-13,14:00,Njardvik,Grindavik,1. Deild,Iceland,1.27,5.5,7.0,No,No,0,None
+2025-09-13,14:00,IR Reykjavik,Fylkir,1. Deild,Iceland,2.2,3.2,3.0,No,No,0,None
+2025-09-13,14:00,Fjolnir,Leiknir R.,1. Deild,Iceland,2.62,4.33,1.95,No,No,0,None
+2025-09-13,14:00,Selfoss,Keflavik,1. Deild,Iceland,3.1,3.75,1.9,No,No,0,None
+2025-09-13,14:00,Völsungur,HK Kopavogur,1. Deild,Iceland,3.8,4.33,1.62,No,No,0,None
+2025-09-13,14:00,Grotta,Thróttur Vogar,2. Deild,Iceland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,KFG,Fjardabyggd / Leiknir,2. Deild,Iceland,2.35,4.1,2.3,No,No,0,None
+2025-09-13,14:00,Dalvík / Reynir,Vikingur Olafsiik,2. Deild,Iceland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kári,Haukar,2. Deild,Iceland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Vídir,Ægir,2. Deild,Iceland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,B71,NSÍ II,1. Deild,Faroe-Islands,1.25,5.25,8.0,No,No,0,None
+2025-09-13,14:00,Molde,Fredrikstad,Eliteserien,Norway,1.7,4.1,4.2,Yes,No,0,None
+2025-09-13,14:00,Egersund,Stabaek,1. Division,Norway,2.45,3.75,2.45,No,No,0,None
+2025-09-13,14:00,ODD Ballklubb,hodd,1. Division,Norway,1.95,3.6,3.5,No,No,0,None
+2025-09-13,14:00,Ranheim,Asane,1. Division,Norway,1.8,3.8,4.0,No,No,0,None
+2025-09-13,14:00,Raufoss,Aalesund,1. Division,Norway,3.9,3.75,1.83,No,No,0,None
+2025-09-13,14:00,Sogndal,Lillestrom,1. Division,Norway,5.0,4.33,1.55,No,No,0,None
+2025-09-13,14:00,Start,Kongsvinger,1. Division,Norway,2.05,3.9,3.1,No,No,0,None
+2025-09-13,14:00,Ariana,IFK Skövde,Ettan - Södra,Sweden,1.27,5.25,7.5,No,No,0,None
+2025-09-13,14:00,Rosengård,Oskarshamns AIK,Ettan - Södra,Sweden,1.53,3.7,5.25,No,No,0,None
+2025-09-13,14:00,Ljungskile SK,Hässleholms IF,Ettan - Södra,Sweden,1.73,3.7,3.8,No,No,0,None
+2025-09-13,14:00,AFC Eskilstuna,Gefle IF,Ettan - Norra,Sweden,2.25,3.5,2.7,No,No,0,None
+2025-09-13,14:00,IF Karlstad,Karlberg,Ettan - Norra,Sweden,1.7,4.0,3.7,No,No,0,None
+2025-09-13,14:00,United Nordic,Hammarby Talang,Ettan - Norra,Sweden,2.35,3.6,2.5,No,No,0,None
+2025-09-13,14:00,Eik-Tønsberg,jerv,2. Division - Group 1,Norway,3.25,3.7,1.85,No,No,0,None
+2025-09-13,14:00,Stjørdals-Blink,Strindheim,2. Division - Group 2,Norway,1.27,5.25,7.5,No,No,0,None
+2025-09-13,14:00,Vänersborgs IF,Kumla,Division 2 - Norra Götaland,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tord,Herrestads,Division 2 - Norra Götaland,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Atvidabergs FF,Arameiska / Syrianska,Division 2 - Södra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Rågsved,Eker Örebro,Division 2 - Södra Svealand,Sweden,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tammeka,FC Levadia Tallinn,Meistriliiga,Estonia,9.0,6.5,1.22,No,No,0,None
+2025-09-13,14:00,Turan Turkistan,Ulytau,Premier League,Kazakhstan,2.7,3.0,2.5,No,No,0,None
+2025-09-13,14:00,Tukums II,Rēzekne FA,1. Liga,Latvia,2.1,3.9,2.62,No,No,0,None
+2025-09-13,14:00,Orel,Metallurg Lipetsk,Second League - Group 3,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,FC Dnepr Mogilev,Volna,1. Division,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bournemouth,Brighton,Premier League,England,2.35,3.6,2.88,Yes,Yes,3,"Over 9.5 Corners, Over 1.5, Home Under 1.5"
+2025-09-13,14:00,Crystal Palace,Sunderland,Premier League,England,1.73,3.6,5.0,Yes,Yes,2,"Over 1.5, Home Under 1.5"
+2025-09-13,14:00,Everton,Aston Villa,Premier League,England,2.55,3.3,2.75,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Fulham,Leeds,Premier League,England,1.95,3.5,3.9,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Newcastle,Wolves,Premier League,England,1.4,4.75,8.0,Yes,No,0,None
+2025-09-13,14:00,Brora Rangers,Brechin,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Clachnacuddin,Deveronvale,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Formartine United,Buckie Thistle,Football League - Highland League,Scotland,1.65,4.0,4.0,No,No,0,None
+2025-09-13,14:00,Huntly,Banks O' Dee,Football League - Highland League,Scotland,3.7,3.8,1.73,No,No,0,None
+2025-09-13,14:00,Keith,Fraserburgh,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Lossiemouth,Inverurie Loco Works,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Nairn County,Rothes,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Turriff United,Wick Academy,Football League - Highland League,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Zulte Waregem,OH Leuven,Jupiler Pro League,Belgium,2.45,3.3,2.88,No,No,0,None
+2025-09-13,14:00,Aberdeen,Livingston,Premiership,Scotland,1.8,3.9,4.0,No,No,0,None
+2025-09-13,14:00,Dundee,Motherwell,Premiership,Scotland,3.6,3.5,2.0,No,No,0,None
+2025-09-13,14:00,Falkirk,ST Mirren,Premiership,Scotland,2.2,3.5,3.1,No,No,0,None
+2025-09-13,14:00,Rangers,Heart Of Midlothian,Premiership,Scotland,1.7,4.1,4.33,No,No,0,None
+2025-09-13,14:00,Arbroath,Dunfermline,Championship,Scotland,3.1,3.25,2.15,Yes,Yes,3,"BTTS No, Over 1.5, Over 9.5 Corners"
+2025-09-13,14:00,Ayr Utd,Ross County,Championship,Scotland,2.4,3.2,2.8,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,14:00,Queen's Park,Morton,Championship,Scotland,2.55,3.2,2.62,Yes,No,0,None
+2025-09-13,14:00,Raith Rovers,ST Johnstone,Championship,Scotland,3.0,3.0,2.35,Yes,Yes,2,"Over 1.5, Home Under 1.5"
+2025-09-13,14:00,Alloa Athletic,Montrose,League One,Scotland,2.1,3.4,3.1,No,No,0,None
+2025-09-13,14:00,East Fife,Queen of the South,League One,Scotland,2.5,3.5,2.5,No,No,0,None
+2025-09-13,14:00,Kelty Hearts,Stenhousemuir,League One,Scotland,2.9,3.5,2.15,No,No,0,None
+2025-09-13,14:00,Peterhead,Hamilton Academical,League One,Scotland,3.1,3.2,2.2,No,No,0,None
+2025-09-13,14:00,Annan Athletic,Clyde,League Two,Scotland,2.55,3.6,2.55,No,No,0,None
+2025-09-13,14:00,Edinburgh City,East Kilbride,League Two,Scotland,3.7,3.8,1.91,No,No,0,None
+2025-09-13,14:00,Elgin City,Stirling Albion,League Two,Scotland,1.9,3.75,3.7,No,No,0,None
+2025-09-13,14:00,Forfar Athletic,Dumbarton,League Two,Scotland,1.91,3.7,3.7,No,No,0,None
+2025-09-13,14:00,Stranraer,Spartans,League Two,Scotland,4.75,3.6,1.75,No,No,0,None
+2025-09-13,14:00,Carrick Rangers,Bangor,Premiership,Northern-Ireland,1.6,4.0,4.5,No,No,0,None
+2025-09-13,14:00,Cliftonville FC,Ballymena United,Premiership,Northern-Ireland,1.9,3.4,3.75,No,No,0,None
+2025-09-13,14:00,Dungannon Swifts,Crusaders FC,Premiership,Northern-Ireland,2.25,3.3,2.9,No,No,0,None
+2025-09-13,14:00,Larne,Glenavon FC,Premiership,Northern-Ireland,1.44,4.1,6.5,No,No,0,None
+2025-09-13,14:00,Portadown,Coleraine FC,Premiership,Northern-Ireland,5.5,4.0,1.53,No,No,0,None
+2025-09-13,14:00,Ballinamallard United,Annagh United,Championship,Northern-Ireland,2.0,3.0,3.0,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,14:00,Dundela,Institute,Championship,Northern-Ireland,2.8,3.5,2.1,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Loughgall,H&W Welders,Championship,Northern-Ireland,2.0,3.0,3.0,Yes,Yes,3,"Over 1.5, Home Under 1.5, Under 11.5 Corners"
+2025-09-13,14:00,Limavady United,Newington Youth,Championship,Northern-Ireland,1.55,4.1,4.5,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Queen's University,Armagh City,Championship,Northern-Ireland,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Warrenpoint Town,Ards,Championship,Northern-Ireland,2.0,3.0,3.0,Yes,Yes,1,Under 11.5 Corners
+2025-09-13,14:00,Bristol Rovers,Barrow,League Two,England,1.83,3.6,4.33,No,No,0,None
+2025-09-13,14:00,Chesterfield,Milton Keynes Dons,League Two,England,2.38,3.3,3.0,No,No,0,None
+2025-09-13,14:00,Crewe,Barnet,League Two,England,2.5,3.5,2.7,No,No,0,None
+2025-09-13,14:00,Fleetwood Town,Walsall,League Two,England,2.75,3.1,2.7,No,No,0,None
+2025-09-13,14:00,Gillingham,Notts County,League Two,England,2.35,3.2,3.2,No,No,0,None
+2025-09-13,14:00,Grimsby,Cambridge United,League Two,England,2.15,3.3,3.4,No,No,0,None
+2025-09-13,14:00,Oldham,Bromley,League Two,England,2.55,3.3,2.8,No,No,0,None
+2025-09-13,14:00,Shrewsbury,Salford City,League Two,England,3.0,3.3,2.38,No,No,0,None
+2025-09-13,14:00,Swindon Town,Harrogate Town,League Two,England,1.57,4.1,5.75,No,No,0,None
+2025-09-13,14:00,Tranmere,Newport County,League Two,England,1.67,3.75,5.25,No,No,0,None
+2025-09-13,14:00,Sheffield Wednesday,Bristol City,Championship,England,3.75,3.5,1.95,Yes,No,0,None
+2025-09-13,14:00,Swansea,Hull City,Championship,England,1.75,3.6,4.75,Yes,Yes,3,"Over 1.5, Over 9.5 Corners, Home Under 1.5"
+2025-09-13,14:00,West Brom,Derby,Championship,England,1.73,3.5,5.0,Yes,Yes,2,"Home Over 1.5, Home/Away"
+2025-09-13,14:00,Stoke City,Birmingham,Championship,England,3.0,3.2,2.4,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Watford,Blackburn,Championship,England,2.2,3.3,3.25,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,14:00,Coventry,Norwich,Championship,England,1.7,4.1,4.1,Yes,Yes,3,"Over 1.5, Home Under 1.5, Over 9.5 Corners"
+2025-09-13,14:00,Wrexham,QPR,Championship,England,1.9,3.5,4.0,Yes,Yes,1,Over 1.5
+2025-09-13,14:00,AFC Wimbledon,Rotherham,League One,England,2.2,3.3,3.3,No,No,0,None
+2025-09-13,14:00,Barnsley,Reading,League One,England,1.83,4.0,3.9,No,No,0,None
+2025-09-13,14:00,Burton Albion,Lincoln,League One,England,2.88,3.3,2.45,No,No,0,None
+2025-09-13,14:00,Exeter City,Port Vale,League One,England,3.0,3.4,2.38,No,No,0,None
+2025-09-13,14:00,Leyton Orient,Bolton,League One,England,3.0,3.6,2.25,No,No,0,None
+2025-09-13,14:00,Luton,Plymouth,League One,England,1.57,4.2,5.75,No,No,0,None
+2025-09-13,14:00,Mansfield Town,Stevenage,League One,England,2.5,3.25,2.88,No,No,0,None
+2025-09-13,14:00,Peterborough,Wycombe,League One,England,3.25,3.6,2.05,No,No,0,None
+2025-09-13,14:00,Wigan,Doncaster,League One,England,2.4,3.3,3.0,No,No,0,None
+2025-09-13,14:00,Stockport County,Cardiff,League One,England,2.62,3.6,2.5,No,No,0,None
+2025-09-13,14:00,Krško,Nafta,2. SNL,Slovenia,6.0,4.33,1.38,No,No,0,None
+2025-09-13,14:00,Patro Eisden,Lommel United,Challenger Pro League,Belgium,1.95,3.3,3.5,No,No,0,None
+2025-09-13,14:00,Sparta Praha W,FC Praha,1. Liga Women,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Eyüpspor,Galatasaray,Süper Lig,Turkey,8.0,4.75,1.38,No,No,0,None
+2025-09-13,14:00,Fatih Karagümrük,Kasimpasa,Süper Lig,Turkey,2.8,3.4,2.4,No,No,0,None
+2025-09-13,14:00,Samsunspor,Antalyaspor,Süper Lig,Turkey,1.73,3.6,5.25,No,No,0,None
+2025-09-13,14:00,Stará Ľubovňa,Baník Lehota p.Vtáčnikom,2. liga,Slovakia,1.55,4.5,5.25,No,No,0,None
+2025-09-13,14:00,Púchov,Slávia TU Košice,2. liga,Slovakia,1.42,5.0,6.0,No,No,0,None
+2025-09-13,14:00,Šamorín,Inter Bratislava,2. liga,Slovakia,2.25,3.6,2.88,No,No,0,None
+2025-09-13,14:00,Lokomotíva Zvolen,Zlaté Moravce,2. liga,Slovakia,3.3,3.4,1.91,No,No,0,None
+2025-09-13,14:00,Banga,FK Zalgiris Vilnius,A Lyga,Lithuania,4.2,4.1,1.65,No,No,0,None
+2025-09-13,14:00,Pakhtakor,Neftchi,Super League,Uzbekistan,1.95,3.2,3.4,No,No,0,None
+2025-09-13,14:00,Boreham Wood,Altrincham,National League,England,1.9,3.5,3.7,No,No,0,None
+2025-09-13,14:00,Braintree,York,National League,England,5.5,3.9,1.53,No,No,0,None
+2025-09-13,14:00,Carlisle,Aldershot Town,National League,England,1.48,4.5,5.0,No,No,0,None
+2025-09-13,14:00,Forest Green,Scunthorpe,National League,England,1.55,4.0,4.75,No,No,0,None
+2025-09-13,14:00,Hartlepool,Brackley Town,National League,England,2.0,3.4,3.3,No,No,0,None
+2025-09-13,14:00,Solihull Moors,Morecambe,National League,England,1.5,4.2,5.25,No,No,0,None
+2025-09-13,14:00,Southend,Boston United,National League,England,1.33,4.75,7.5,No,No,0,None
+2025-09-13,14:00,Sutton Utd,Tamworth,National League,England,2.45,3.5,2.55,No,No,0,None
+2025-09-13,14:00,Truro City,Rochdale,National League,England,4.2,3.75,1.7,No,No,0,None
+2025-09-13,14:00,Wealdstone,Gateshead,National League,England,1.85,3.8,3.4,No,No,0,None
+2025-09-13,14:00,FC Stăuceni,Sireți,Liga 1,Moldova,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Oguzsport,Făleşti,Liga 1,Moldova,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AGF,Køge,Kvindeliga,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,SC St. Tönis,KFC Uerdingen 05,Oberliga - Niederrhein,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,SV Babelsberg 03,Chemnitzer FC,Regionalliga - Nordost,Germany,2.15,3.6,2.7,No,No,0,None
+2025-09-13,14:00,Eimsbütteler TV,Süderelbe,Oberliga - Hamburg,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bayern Hof,ASV Neumarkt,Oberliga - Bayern Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Znicz Biała Piska,Widzew II,III Liga - Group 1,Poland,3.0,3.6,2.0,No,No,0,None
+2025-09-13,14:00,Warta Sieradz,Legia Warszawa II,III Liga - Group 1,Poland,2.8,3.5,2.1,No,No,0,None
+2025-09-13,14:00,Olimpia Elbląg,Swit,III Liga - Group 1,Poland,2.4,3.6,2.4,No,No,0,None
+2025-09-13,14:00,Carina Gubin,Lechia Zielona Góra,III Liga - Group 3,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Naprzód,Wisła Kraków II,III Liga - Group 4,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Star Starachowice,Korona Kielce II,III Liga - Group 4,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Świdniczanka Świdnik,Cracovia Kraków II,III Liga - Group 4,Poland,2.8,3.6,2.1,No,No,0,None
+2025-09-13,14:00,Lisne,Vilkhivtsi,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Blumenthaler SV,Geestemünde,Oberliga - Bremen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sintrense,O Elvas,Campeonato de Portugal Prio - Group D,Portugal,2.45,3.2,2.62,No,No,0,None
+2025-09-13,14:00,Besa Kavajë,Apolonia Fier,1st Division,Albania,1.55,3.6,5.25,No,No,0,None
+2025-09-13,14:00,Kastrioti Krujë,Korabi Peshkopi,1st Division,Albania,2.45,3.0,2.7,No,No,0,None
+2025-09-13,14:00,Bylis,Egnatia Rrogozhinë,Superliga,Albania,3.3,3.25,2.0,No,No,0,None
+2025-09-13,14:00,Tirana,Flamurtari,Superliga,Albania,1.95,3.3,3.4,No,No,0,None
+2025-09-13,14:00,Blansko,Vsetín,3. liga - MSFL,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Unie Hlubina,Hlučín,3. liga - MSFL,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hodonín,Hranice,3. liga - MSFL,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Start Brno,Zlín II,3. liga - MSFL,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Vítkovice,Vrchovina,3. liga - MSFL,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Brühl,Lausanne Sport II,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Luzern II,FC Schaffhausen,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Paradiso,Young Boys II,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Breitenrain,Cham,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ghazl El Mehalla,El Mokawloon,Premier League,Egypt,2.45,2.7,3.2,No,No,0,None
+2025-09-13,14:00,Haras El Hodood,El Gouna FC,Premier League,Egypt,2.9,2.7,2.62,No,No,0,None
+2025-09-13,14:00,Maritsa Plovdiv,Sekirovo,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Spartak Plovdiv,Sayana Haskovo,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Rozova dolina,Sozopol,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Zagorets,Lokomotiv Plovdiv II,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Gigant Saedinenie,Levski Karlovo,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Maritsa Milevo,Yambol 1915,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Atletik Kuklen,Rodopa Smolyan,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Asenovets,Neftochimic Burgas,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Strumska Slava,Septemvri Sofia II,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Rilski Sportist,Vitosha Bistritsa,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Botev Ihtiman,Levski Sofia II,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,CSKA Sofia III,Oborishte,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Pirin Razlog,Slavia Sofia II,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Pirin Gotse Delchev,Septemvri Simitli,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bansko,Slivnishki geroy,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Balkan Botevgrad,Kostinbrod,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Club Brugge W,Zulte-Waregem W,Super League Women,Belgium,1.22,6.25,8.0,No,No,0,None
+2025-09-13,14:00,Humpolec,Pelhřimov,4. liga - Divizie D,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Šternberk,Bzenec,4. liga - Divizie E,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kroměříž II,Nové Sady,4. liga - Divizie E,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Břeclav,Skaštice,4. liga - Divizie E,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Stonava,Bospor Bohumín,4. liga - Divizie F,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Petřvald na Moravě,Valašské Meziříčí,4. liga - Divizie F,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Germaneya,Kyustendil,Third League - Southwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Nesebar,FK Rakovski,Third League - Southeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Jezero,Dečić,First League,Montenegro,3.1,3.1,2.2,No,No,0,None
+2025-09-13,14:00,Dartford,Burgess Hill Town,Non League Premier - Isthmian,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Carshalton Athletic,Cray Wanderers,Non League Premier - Isthmian,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ramsgate,Potters Bar Town,Non League Premier - Isthmian,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Chichester City,Cheshunt,Non League Premier - Isthmian,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Botev Novi Pazar,Aksakovo,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Fratria II,Svetkavitsa Targovishte,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Chernomorets Balchik,Şüvəlan,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Riltsi,Chernolomets 1919,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Septemvri Tervel,Ustrem Donchevo,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Muttenz,FC Wohlen,1. Liga Classic - Group 2,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Solothurn,Bassecourt,1. Liga Classic - Group 2,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Buochs,Münsingen,1. Liga Classic - Group 2,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Lancaster City,Ilkeston Town,Non League Premier - Northern,England,2.25,3.3,2.75,No,No,0,None
+2025-09-13,14:00,Cleethorpes Town,Leek Town,Non League Premier - Northern,England,1.85,3.8,3.2,No,No,0,None
+2025-09-13,14:00,Chaves U19,Gil Vicente U19,Júniores U19,Portugal,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Martigny Sports,Prishtina Bern,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Dietikon,Widnau,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Höngg,Collina d'Oro,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tuggen,Baden,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,YF Juventus,Freienbach,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Famalicão U19,Moreirense U19,Júniores U19,Portugal,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,União Leiria U19,Torreense U19,Júniores U19,Portugal,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Komárno W,Spartak Myjava W,I Liga - Women,Slovakia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Zvijezda 09,Drina Zvornik,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Velež Nevesinje,BSK Banja Luka,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,FK Vlasenica,Laktaši,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sloboda Novi Grad,FK Romanija Pale,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Slavija,Kozara Gradiška,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Guarani U20,Desportivo Brasil U20,Paulista - U20,Brazil,1.57,3.5,4.75,No,No,0,None
+2025-09-13,14:00,RoPS W,PKKU W,Kansallinen Liiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tuzla City,Stupčanica Olovo,1st League - FBiH,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Igman Konjic,Vitez,1st League - FBiH,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Travnik,Tomislav,1st League - FBiH,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Radnik Hadžići,Bratstvo Gračanica,1st League - FBiH,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Leatherhead,Hendon,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hanworth Villa,Hayes & Yeading United,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Raynes Park Vale,Bognor Regis Town,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Harrow Borough,Kingstonian,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bedfont Sports,Metropolitan Police,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,South Park,Binfield,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hartley Wintney,Littlehampton Town,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Southall,AFC Portchester,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Horndean,Ascot United,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Fareham Town,Westfield (Surrey),Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Moneyfields,Egham Town,Non League Div One - Isthmian South Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Heybridge Swifts,Lowestoft Town,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Concord Rangers,Grays Athletic,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Felixstowe & Walton Utd,Newmarket Town,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Redbridge,Cambridge City,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Takeley,Stanway Rovers,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Brightlingsea Regent,Downham Town,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tilbury,Gorleston,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Mildenhall Town,Maldon & Tiptree,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Walthamstow,Brantham Athletic,Non League Div One - Isthmian North,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Rushden & Diamonds,Basford United,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Mickleover Sports,Bourne Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,St Neots Town,Long Eaton United,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Shepshed Dynamo,Corby Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Anstey Nomads,Coleshill Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Belper Town,Bedworth United,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Loughborough University,Sutton Coldfield Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Lichfield City,Coventry Sphinx,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Rugby Borough,Carlton Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Racing Club Warwick,Rugby Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Boldmere St. Michaels,Wellingborough Town,Non League Div One - Northern Midlands,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hastings United,Broadbridge Heath,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sittingbourne,Ashford United,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sevenoaks Town,Sheppey United,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Margate,VCD Athletic,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Jersey Bulls,Beckenham Town,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Erith Town,Merstham,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Eastbourne Town,Herne Bay,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Croydon Athletic,Hassocks,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Faversham Town,East Grinstead Town,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Deal Town,Crowborough Athletic,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,East Grinstead Town,Hassocks,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Three Bridges,AFC Whyteleafe,Non League Div One - Isthmian South East,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Polet Dorćol,Brodarac,Srpska Liga - Belgrade,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Torlak,Teleoptik,Srpska Liga - Belgrade,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,OFK Bačka,Sloga Čonoplja,Srpska Liga - Vojvodina,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kikinda,Naftagas,Srpska Liga - Vojvodina,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,FK Veternik,Sloboda DT,Srpska Liga - Vojvodina,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Mladost Bački Jarak,Omladinac NB,Srpska Liga - Vojvodina,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Metalac GM,Jedinstvo Putevi,Srpska Liga - West,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,FK Zlatibor,FK Polimlje Prijepolje,Srpska Liga - West,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,FK Radnički Valjevo,Sloga Požega,Srpska Liga - West,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Napredak Markovac,FK Mladi Radnik 1940 Radinac,Srpska Liga - West,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,TP-47,GBK,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Yantra Polski Trambesh,Lokomotiv Mezdra,Third League - Northwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kom Berkovitsa,Juventus Malchika,Third League - Northwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bdin,Akademik Svishtov,Third League - Northwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,OFK Levski,Partizan,Third League - Northwest,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Yalova Yeşilovaspor,Galata,3. Lig - Group 1,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Silivrispor,Çorluspor 1947,3. Lig - Group 1,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kestel Çilek,1926 Polatlı Belediye,3. Lig - Group 1,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Küçükçekmece Sinopspor,Beykoz İshaklıspor,3. Lig - Group 1,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kütahyaspor,Karşıyaka,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Nazilli Belediyespor,Denizli İYG,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Arsenal Tula,Spartak Kostroma,First League,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Cherno more II,Dorostol,Third League - Northeast,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,BKMA,Alashkert,Premier League,Armenia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Chernomorets 1919 Burgas,Vihren,Second League,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sevlievo,FK Minyor Pernik,Second League,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sportist Svoge,Levski Krumovgrad,Second League,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Marek,Lokomotiv G. Oryahovitsa,Second League,Bulgaria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Zimbru,CSF Bălți,Super Liga,Moldova,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Castellón II,Reddis,Segunda División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Trastevere,USD Palmese,Serie D - Girone G,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,VPS,Kooteepee,Veikkausliiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,KPV-j,JJK,Ykkönen,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Chelmsford City,Hertford Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Morpeth Town,Witton Albion,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ashton United,Scarborough Athletic,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bracknell Town,Tadley Calleva,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Stalybridge Celtic,Chester,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hitchin Town,St Albans City,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Chesham United,King's Lynn Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hemel Hempstead Town,Bishop's Stortford,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hampton & Richmond,AFC Croydon Athletic,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hyde United,Whitby Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Whitehawk,Walton & Hersham,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Needham Market,Eynesbury Rovers,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Gainsborough Trinity,Rushall Olympic,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Westfield (Surrey),Horsham,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Matlock Town,Carlton Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,West Auckland Town,Spennymoor Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Maldon & Tiptree,Stanway Rovers,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Shepshed Dynamo,Stamford,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Curzon Ashton,Hebburn Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Salisbury,Laverstock & Ford,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sporting Khalsa,Hereford,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Alvechurch,Leamington,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Enfield 1893,Enfield Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bury Town,Woodford Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hanwell Town,Bedfont Sports,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Nantwich Town,Trafford,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Royston Town,Brentwood Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Newcastle Blue Star,Marine,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Gosport Borough,Poole Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Leiston,Hackney Wick,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Whitstable Town,Chichester City,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hungerford Town,Swindon Supermarine,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Steyning Town,Tonbridge Angels,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Welling United,Slough Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sutton Coldfield Town,Stourbridge,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Fylde,Bamber Bridge,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ashford United,Chatham Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Jersey Bulls,Worthing,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Congleton Town,Chorley,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Gloucester City,Chippenham Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,South Shields,Guiseley AFC,FA Cup,England,1.6,3.75,4.5,No,No,0,None
+2025-09-13,14:00,Dorking Wanderers,Wingate & Finchley,FA Cup,England,1.3,5.0,7.0,No,No,0,None
+2025-09-13,14:00,Racing Club Warwick,Evesham United,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Farnborough,Dover,FA Cup,England,1.85,3.6,3.3,No,No,0,None
+2025-09-13,14:00,Spalding United,Alfreton Town,FA Cup,England,2.35,3.6,2.5,No,No,0,None
+2025-09-13,14:00,Burgess Hill Town,Farnham Town,FA Cup,England,2.75,3.6,2.1,No,No,0,None
+2025-09-13,14:00,Deal Town,Egham Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Coleshill Town,Hednesford Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Harborough Town,Worksop Town,FA Cup,England,2.5,3.75,2.25,No,No,0,None
+2025-09-13,14:00,Grimsby Borough,Halesowen Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bootle,Darlington 1883,FA Cup,England,5.0,4.0,1.5,No,No,0,None
+2025-09-13,14:00,Brixham,Dorchester Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Dunston UTS,Stocksbridge Park Steels,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Totton,Torquay,FA Cup,England,2.7,3.5,2.2,No,No,0,None
+2025-09-13,14:00,Bedford Town,Dagenham & Redbridge,FA Cup,England,2.7,3.75,2.1,No,No,0,None
+2025-09-13,14:00,Peterborough Sports,AFC Hornchurch,FA Cup,England,3.7,3.5,1.8,No,No,0,None
+2025-09-13,14:00,Buxton,Redditch United,FA Cup,England,1.44,4.2,5.5,No,No,0,None
+2025-09-13,14:00,Chasetown,Banbury United,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Tower Hamlets,Flackwell Heath,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Fareham Town,Sholing,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Wimborne Town,Bath City,FA Cup,England,3.9,3.6,1.73,No,No,0,None
+2025-09-13,14:00,Maidenhead,Faversham Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Telford United,Kidderminster Harriers,FA Cup,England,3.2,3.4,2.0,No,No,0,None
+2025-09-13,14:00,Billericay Town,Berkhamsted,FA Cup,England,1.44,4.5,5.0,No,No,0,None
+2025-09-13,14:00,Chertsey Town,Cray Valley PM,FA Cup,England,2.75,3.6,2.1,No,No,0,None
+2025-09-13,14:00,Ebbsfleet United,Ashford Town (Middlesex),FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Eastbourne Borough,Epsom & Ewell FC,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,United of Manchester,Chadderton,FA Cup,England,1.53,4.1,4.5,No,No,0,None
+2025-09-13,14:00,Quorn,Kettering Town,FA Cup,England,2.5,3.75,2.25,No,No,0,None
+2025-09-13,14:00,Shaftesbury Town,Frome Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Taunton Town,Weston-super-Mare,FA Cup,England,2.8,3.5,2.1,No,No,0,None
+2025-09-13,14:00,Westbury United,Oxford City,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Macclesfield,Atherton Laburnum Rovers,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Merthyr Town,Torpoint Athletic,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Sudbury,Aveley,FA Cup,England,3.3,3.5,1.91,No,No,0,None
+2025-09-13,14:00,Luftëtari,Burreli,1st Division,Albania,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Pogradeci,Laci,1st Division,Albania,2.45,3.0,2.7,No,No,0,None
+2025-09-13,14:00,Silva,Coruña,Tercera División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Alcorcón II,Pozuelo Alarcón,Tercera División RFEF - Group 7,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Atlético Tordesillas,Colegios Diocesanos,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,UD Melilla II,Granada II,Tercera División RFEF - Group 9,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ceuta II,Recreativo Huelva II,Tercera División RFEF - Group 10,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Beti Kozkor,Cirbonero,Tercera División RFEF - Group 15,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Beti Onak,San Juan,Tercera División RFEF - Group 15,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Calamocha,Atlético Monzón,Tercera División RFEF - Group 17,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Guadalajara II,Sonseca,Tercera División RFEF - Group 18,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kampaniakos Chalastra,Kavala,Super League 2,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Egaleo,Kallithea,Super League 2,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Ilioupoli,Panargiakos,Super League 2,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Kalamata,Marko,Super League 2,Greece,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,St. Peter,Ybbs,Landesliga - Niederosterreich,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,St. Martin i.M.,Bad Schallerbach,Landesliga - Oberosterreich,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Oedt,Union Edelweiß,Landesliga - Oberosterreich,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bad Ischl,Union Vöcklamarkt,Landesliga - Oberosterreich,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Pregarten,Weißkirchen / Allhaming,Landesliga - Oberosterreich,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Lebring,Ilz,Landesliga - Steiermark,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Wienerberg,Dinamo Helfort,Landesliga - Wien,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hellas Kagran,Gerasdorf Stammersdorf,Landesliga - Wien,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sinđelić,Brzi Brod,Srpska Liga - East,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Olympic FC,CD IN San Juan FC,Nacional B,Bolivia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Siofok,MTK Budapest,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Szarvaskend,Ferencvarosi TC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,REAC,Karcag SE,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Sloga Leskovac,Radnicki Pirot,Srpska Liga - East,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Timok Zaječar,OFK Bor 1919,Srpska Liga - East,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Morava Ćuprija,Vlasina,Srpska Liga - East,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Lecco U19,Vicenza U19,Campionato Primavera - 2,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Gnistan,Inter Turku,Veikkausliiga,Finland,4.33,4.2,1.62,No,No,0,None
+2025-09-13,14:00,Mulbarton Wanderers,Witham Town,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Radcliffe,Southport,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Waltham Abbey,Gorleston,FA Cup,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Aylesbury United,Northwood,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Biggleswade Town,Leverstock Green,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Stotfold,Marlow,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hertford Town,Biggleswade,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Milton Keynes Irish,Ware,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hadley,Thame United,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Flackwell Heath,Enfield 1893,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,AFC Dunstable,Beaconsfield Town,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Frome Town,Swindon Supermarine,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Didcot Town,Exmouth,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Malvern Town,Bristol Manor Farm,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Larkhall Athletic,Tavistock,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Bideford,Melksham Town,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Brixham,Bishop's Cleeve,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Falmouth Town,Westbury United,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Shaftesbury Town,Mousehole,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Winchester City,Portishead Town,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Hartpury University,Sporting Club Inkberrow,Non League Div One - Southern South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:00,Barton Rovers,London Lions,Non League Div One - Southern Central,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:15,Real Sociedad,Real Madrid,La Liga,Spain,5.5,4.2,1.57,Yes,No,0,None
+2025-09-13,14:15,Cadiz,Eibar,Segunda División,Spain,2.4,3.0,3.2,No,No,0,None
+2025-09-13,14:15,Mirandes,Deportivo La Coruna,Segunda División,Spain,3.25,3.1,2.3,No,No,0,None
+2025-09-13,14:15,Marbella,Ibiza,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:15,Teruel,Eldense,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:15,Villarreal II,Europa Fc,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Ajax,PEC Zwolle,Eredivisie,Netherlands,1.3,5.75,9.0,Yes,Yes,1,Under 11.5 Corners
+2025-09-13,14:30,VVV Venlo,Helmond Sport,Eerste Divisie,Netherlands,2.15,3.6,3.1,No,No,0,None
+2025-09-13,14:30,Dravinja,Beltinci,2. SNL,Slovenia,2.75,3.3,2.25,No,No,0,None
+2025-09-13,14:30,Dekani,Tabor Sežana,2. SNL,Slovenia,4.0,3.5,1.73,No,No,0,None
+2025-09-13,14:30,Bsk Bijelo Brdo,Jarun,First NL,Croatia,1.9,3.1,3.8,No,No,0,None
+2025-09-13,14:30,Hrvace,Karlovac 1919,First NL,Croatia,3.5,3.6,1.85,No,No,0,None
+2025-09-13,14:30,Sesvete,HNK Cibalia,First NL,Croatia,2.1,3.1,3.2,No,No,0,None
+2025-09-13,14:30,Alemannia Aachen,SSV Ulm 1846,3. Liga,Germany,2.3,3.2,2.88,No,No,0,None
+2025-09-13,14:30,Sandecja Nowy Sącz,Stal Stalowa Wola,II Liga - East,Poland,2.62,3.5,2.25,No,No,0,None
+2025-09-13,14:30,Estoril,AVS,Primeira Liga,Portugal,1.75,3.9,4.33,Yes,Yes,1,Over 1.5
+2025-09-13,14:30,Moreirense,Rio Ave,Primeira Liga,Portugal,2.2,3.1,3.6,Yes,Yes,4,"Over 1.5, Home Under 1.5, Over 9.5 Corners"
+2025-09-13,14:30,Leixoes,Farense,Segunda Liga,Portugal,2.45,3.0,2.8,No,No,0,None
+2025-09-13,14:30,BAK '07,Anker Wismar,Oberliga - Nordost-Nord,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Mławianka Mława,Bełchatów,III Liga - Group 1,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Preußen Münster II,Türkspor Dortmund,Oberliga - Westfalen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Lüneburger SK Hansa,Schwarz-Weiß Rehden,Oberliga - Niedersachsen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Retz,SV Horn,Regionalliga - Ost,Austria,8.0,5.0,1.27,No,No,0,None
+2025-09-13,14:30,Guimaraes B,SC Braga B,Liga 3,Portugal,2.4,3.4,2.5,No,No,0,None
+2025-09-13,14:30,Sanjoanense,São João Ver,Liga 3,Portugal,1.83,3.4,3.5,No,No,0,None
+2025-09-13,14:30,Trofense,Fafe,Liga 3,Portugal,2.2,3.25,2.88,No,No,0,None
+2025-09-13,14:30,Sporting CP U19,Tondela U19,Júniores U19,Portugal,1.95,3.75,3.0,No,No,0,None
+2025-09-13,14:30,Glacis United,Manchester 62,Premier Division,Gibraltar,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Dugo Selo,Hrvatski Dragovoljac,Second NL,Croatia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Bjelovar,Križevci,Second NL,Croatia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Trnje,Solin,Second NL,Croatia,3.6,3.6,1.8,No,No,0,None
+2025-09-13,14:30,Mladost Ždralovi,Uljanik,Second NL,Croatia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Varteks Varaždin,Grobničan Čavle,Second NL,Croatia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Lucko,Segesta Sisak,Second NL,Croatia,1.91,3.4,3.4,No,No,0,None
+2025-09-13,14:30,Uskok Klis,Dakovo-Croatia,Second NL,Croatia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Bristol City U21,Stoke City U21,Premier League Cup,England,2.3,4.5,2.2,No,No,0,None
+2025-09-13,14:30,ZOB Ahan,Mes Rafsanjan,Persian Gulf Pro League,Iran,2.05,2.88,3.6,No,No,0,None
+2025-09-13,14:30,Chadormalu SC,Malavan,Persian Gulf Pro League,Iran,2.55,2.88,2.7,No,No,0,None
+2025-09-13,14:30,Shams Azar Qazvin,Paykan,Persian Gulf Pro League,Iran,2.35,2.88,3.0,No,No,0,None
+2025-09-13,14:30,Pasaia KE,Aurrerá Vitoria,Tercera División RFEF - Group 4,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,San Ignacio,Zarautz,Tercera División RFEF - Group 4,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Valle Egüés,Txantrea,Tercera División RFEF - Group 15,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Oberena,Aoiz,Tercera División RFEF - Group 15,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Neudorf / Parn,Deutschkreutz,Landesliga - Burgenland,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,FAC Wien,LAC-Inter,Landesliga - Wien,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:30,Padinska Skela,Radnički Novi Beograd,Srpska Liga - Belgrade,Serbia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,14:45,Spartak Varna,Arda Kardzhali,First League,Bulgaria,5.25,3.7,1.67,No,No,0,None
+2025-09-13,15:00,Höttur / Huginn,Kormákur / Hvöt,2. Deild,Iceland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Dinamo Tbilisi,Gagra,Erovnuli Liga,Georgia,1.57,3.9,4.75,No,No,0,None
+2025-09-13,15:00,Riga,Auda,Virsliga,Latvia,1.27,5.5,8.5,No,No,0,None
+2025-09-13,15:00,JFK Ventspils,Riga Mariners,1. Liga,Latvia,3.0,3.9,1.91,No,No,0,None
+2025-09-13,15:00,Progress / AFA Olaine,Smiltene,1. Liga,Latvia,6.0,5.75,1.28,No,No,0,None
+2025-09-13,15:00,Druzhba,Nart Cherkessk,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Sevastopol,Pobeda,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,NK Varazdin,HNK Hajduk Split,HNL,Croatia,3.75,3.4,1.8,No,No,0,None
+2025-09-13,15:00,Nice,Nantes,Ligue 1,France,1.62,3.9,5.5,Yes,Yes,1,Home Under 1.5
+2025-09-13,15:00,SCR Altach,Lask Linz,Bundesliga,Austria,2.6,3.3,2.62,Yes,Yes,2,"Over 11.5 Corners, Over 9.5 Corners"
+2025-09-13,15:00,FC BW Linz,Grazer AK,Bundesliga,Austria,2.25,3.25,3.2,Yes,Yes,1,Over 1.5
+2025-09-13,15:00,Wolfsberger AC,Red Bull Salzburg,Bundesliga,Austria,3.6,4.0,1.83,Yes,No,0,None
+2025-09-13,15:00,Metalist 1925 Kharkiv,Shakhtar Donetsk,Premier League,Ukraine,8.5,5.0,1.33,No,No,0,None
+2025-09-13,15:00,Hamrun Spartans,Mosta,Premier League,Malta,1.42,4.33,5.5,No,No,0,None
+2025-09-13,15:00,UN Kaerjeng 97,Union Titus Petange,National Division,Luxembourg,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Al Ahli Doha,Al Wakrah,Stars League,Qatar,3.0,3.6,2.05,No,No,0,None
+2025-09-13,15:00,Al Shamal,Al-Arabi SC,Stars League,Qatar,2.45,3.9,2.35,No,No,0,None
+2025-09-13,15:00,Granad. Tenerife W,Espanyol W,Primera División Femenina,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Lauterach,Wals-Grünau,Regionalliga - West,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Imst,Dornbirn,Regionalliga - West,Austria,1.65,4.2,3.7,No,No,0,None
+2025-09-13,15:00,Olympiakos Piraeus,Panserraikos,Super League 1,Greece,1.12,8.0,26.0,No,No,0,None
+2025-09-13,15:00,Flota Świnoujście,Kluczevia Stargard,III Liga - Group 2,Poland,1.44,4.33,5.25,No,No,0,None
+2025-09-13,15:00,Kluczbork,Miedź Legnica II,III Liga - Group 3,Poland,1.67,3.75,4.0,No,No,0,None
+2025-09-13,15:00,Czarni Połaniec,Sparta KW,III Liga - Group 4,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Rebel,Metalurh Zaporizhya,Druha Liga,Ukraine,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Talant,Abdish-Ata,Premier League,Kyrgyzstan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Asiagoal,Alga,Premier League,Kyrgyzstan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Bars,Muras United,Premier League,Kyrgyzstan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,US Monastirienne,ES Sahel,Ligue 1,Tunisia,2.4,2.75,3.0,No,No,0,None
+2025-09-13,15:00,US Ben Guerdane,CA Bizertin,Ligue 1,Tunisia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Stade Tunisien,ES Tunis,Ligue 1,Tunisia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Leobendorf,Mannsdorf-Großenzersdorf,Regionalliga - Ost,Austria,2.25,3.75,2.5,No,No,0,None
+2025-09-13,15:00,Doubravka,Petřín Plzeň II,4. liga - Divizie A,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Tachov,Jiskra Domažlice II,4. liga - Divizie A,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Spartak Soběslav,Hluboka nad Vltavou,4. liga - Divizie A,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Rapid Psáry,Karlovy Vary,4. liga - Divizie B,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Spoje Praha,Tempo Praha,4. liga - Divizie B,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Přední Kopanina,Štětí,4. liga - Divizie B,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Jiskra Domažlice,Loko Vltavín,3. liga - CFL A,Czech-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Şagadam,Ahal,Ýokary Liga,Turkmenistan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Merw,Arkadag,Ýokary Liga,Turkmenistan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Chantilly,Beauvais,National 2 - Group B,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Amical Saint-Prex,Portalban / Gletterens,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,La Chaux-de-Fonds,Chênois,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Meyrin,Monthey,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Taverne,Kosova,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Mendrisio,Wettswil-Bonstetten,1. Liga Classic - Group 3,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Sámano,Real Oviedo II,Segunda División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Basconia,SD Logroñés,Segunda División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,HPS W,VIFK W,Kansallinen Liiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,La Sarraz-Eclépens,Echallens,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Bendel Insurance,Niger Tornadoes,NPFL,Nigeria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Turan,Qabala,Premyer Liqa,Azerbaijan,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Etar Veliko Tarnovo,Spartak Pleven,Second League,Bulgaria,1.57,3.6,5.0,No,No,0,None
+2025-09-13,15:00,Ilves II,Kiffen,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,P-Iirot,HJS Akatemia,Kakkonen - Play-offs,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Cañoneros Marina,Inter Playa del Carmen,Liga Premier Serie A,Mexico,2.88,3.25,2.25,No,No,0,None
+2025-09-13,15:00,Escobedo,Castro,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Guarnizo,Selaya,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Cartes,Torina,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Alcobendas Sport,Villanueva Pardillo,Tercera División RFEF - Group 7,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Numancia II,Villaralbo,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Arandina,Almazán,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Santanyí,Mercadal,Tercera División RFEF - Group 11,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Tenerife,Mensajero,Tercera División RFEF - Group 12,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Avance Ezcabarte,Subiza,Tercera División RFEF - Group 15,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,St. Margarethen / Bur,SK Pama,Landesliga - Burgenland,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Siezenheim,Neumarkt,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Bürmoos,Straßwalchen,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Admira Dornbirn,Göfis,Landesliga - Vorarlbergliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Hard,Bizau,Landesliga - Vorarlbergliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Ludesch,Rotenberg,Landesliga - Vorarlbergliga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Pécsi MFC,DEAC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Baghdad,Diyala,Iraqi League,Iraq,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Al Zawra'a,Al Shorta,Iraqi League,Iraq,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,Diables Noirs,Jeunesse Unie de Kintélé,Ligue 1,Congo,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:00,NC Magra,Khroub,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,3,"Over 1.5, Draw/Away, Under 11.5 Corners"
+2025-09-13,15:00,IB Khémis El Khechna,US Biskra,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:00,Teleghma,USM Annaba,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,15:00,JS Jijel,HB Chelghoum Laïd,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:00,MO Bejaia,MSP Batna,Ligue 2,Algeria,2.0,3.0,3.0,Yes,No,0,None
+2025-09-13,15:00,CA Batna,US Chaouia,Ligue 2,Algeria,2.0,3.0,3.0,Yes,No,0,None
+2025-09-13,15:00,Usm El Harrach,MC Saida,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:00,Hussein Dey,WA Tlemcen,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,2,"Under 11.5 Corners, Away Under 1.5"
+2025-09-13,15:00,RC Kouba,WA Mostaganem,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,15:00,Témouchent,ASM Oran,Ligue 2,Algeria,2.0,3.0,3.0,Yes,No,0,None
+2025-09-13,15:00,Koléa,RC Arba,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:00,JS El Biar,Tiaret,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 1.5
+2025-09-13,15:00,CRB Adrar,GC Mascara,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Under 11.5 Corners
+2025-09-13,15:00,Nrb Beni Oulbene,JS Bordj Ménaïel,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:00,Béchar Djedid,JS Tixeraine,Ligue 2,Algeria,2.0,3.0,3.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,15:15,Chełmianka Chełm,Avia Świdnik,III Liga - Group 4,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:15,Catanzaro,Carrarese,Serie B,Italy,2.4,2.9,3.3,Yes,Yes,1,Away Under 1.5
+2025-09-13,15:25,Al Khaleej Saihat,Al-Fayha,Pro League,Saudi-Arabia,2.25,3.2,2.9,No,No,0,None
+2025-09-13,15:25,Al Qadsia,Al Nasar,Premier League,Kuwait,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Union Espanola,A. Italiano,Primera División,Chile,2.3,3.4,3.0,No,No,0,None
+2025-09-13,15:30,Halmstad,IFK Norrkoping,Allsvenskan,Sweden,2.8,3.25,2.5,Yes,No,0,None
+2025-09-13,15:30,Magallanes,Deportes Temuco,Primera B,Chile,2.2,3.2,3.1,No,No,0,None
+2025-09-13,15:30,Wisla Plock,Cracovia Krakow,Ekstraklasa,Poland,2.3,3.2,3.25,No,No,0,None
+2025-09-13,15:30,Radomlje,Olimpija Ljubljana,1. SNL,Slovenia,5.25,4.0,1.53,No,No,0,None
+2025-09-13,15:30,Bokelj,Mornar,First League,Montenegro,2.45,3.25,2.5,No,No,0,None
+2025-09-13,15:30,SC Kriens,Grand-Saconnex,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Polonia Warszawa U19,Znicz Pruszków U19,Central Youth League,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Forli,Gubbio,Serie C - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Pontedera,Rimini,Serie C - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Campobasso FC,Pineto,Serie C - Girone B,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Siracusa,Benevento,Serie C - Girone C,Italy,4.5,3.5,1.65,No,No,0,None
+2025-09-13,15:30,AZ Picerno,Casarano,Serie C - Girone C,Italy,1.95,2.8,4.1,No,No,0,None
+2025-09-13,15:30,Persepolis FC,Foolad FC,Persian Gulf Pro League,Iran,1.8,3.1,4.2,No,No,0,None
+2025-09-13,15:30,Llanes,Praviano,Tercera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,La Virgen del Camino,Guijuelo,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,ASEC Mimosas,SOA,Ligue 1,Ivory-Coast,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,San-Pédro,US Tchologo,Ligue 1,Ivory-Coast,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:30,Mouna,Bouaké,Ligue 1,Ivory-Coast,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:45,ML Vitebsk,Torpedo Zhodino,Premier League,Belarus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,15:45,Al Akhdoud,Al Taawon,Pro League,Saudi-Arabia,2.3,3.5,2.7,No,No,0,None
+2025-09-13,16:00,Uppsala W,Bollstanäs W,Elitettan,Sweden,1.25,5.75,7.5,No,No,0,None
+2025-09-13,16:00,Telavi,Gareji,Erovnuli Liga,Georgia,3.0,3.0,2.3,No,No,0,None
+2025-09-13,16:00,Brann,Valerenga,Eliteserien,Norway,1.53,4.5,5.25,Yes,Yes,4,"Over 1.5, Home/Away, Home Under 1.5"
+2025-09-13,16:00,Sochi II,Dynamo Makhachkala II,Second League - Group 1,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Halifax Tides W,Ottawa Rapid W,Northern Super League,Canada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Juventus,Inter,Serie A,Italy,2.8,3.0,2.7,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,16:00,FC Aarau,FC Vaduz,Challenge League,Switzerland,2.0,3.5,3.3,No,No,0,None
+2025-09-13,16:00,Bellinzona,Rapperswil,Challenge League,Switzerland,2.45,3.3,2.62,No,No,0,None
+2025-09-13,16:00,FC Thun,FC Basel 1893,Super League,Switzerland,3.4,3.9,1.95,No,No,0,None
+2025-09-13,16:00,FC Zurich,Servette FC,Super League,Switzerland,2.3,3.5,2.8,No,No,0,None
+2025-09-13,16:00,FK Košice,Komárno,Super Liga,Slovakia,1.5,4.33,5.25,No,No,0,None
+2025-09-13,16:00,Skalica,Spartak Trnava,Super Liga,Slovakia,4.33,4.0,1.7,No,No,0,None
+2025-09-13,16:00,AS Trencin,Ružomberok,Super Liga,Slovakia,2.35,3.7,2.5,No,No,0,None
+2025-09-13,16:00,Slavia Praha,Karviná,Czech Liga,Czech-Republic,1.14,6.5,15.0,No,No,0,None
+2025-09-13,16:00,Javor,IMT Novi Beograd,Super Liga,Serbia,2.4,3.4,2.6,No,No,0,None
+2025-09-13,16:00,Radnik Surdulica,Radnicki 1923,Super Liga,Serbia,3.1,3.25,2.2,No,No,0,None
+2025-09-13,16:00,Yeni Çorumspor,Van BB,1. Lig,Turkey,1.55,3.9,4.5,No,No,0,None
+2025-09-13,16:00,Sivasspor,Sarıyer,1. Lig,Turkey,1.85,3.5,3.5,No,No,0,None
+2025-09-13,16:00,De Treffers,Quick Boys,Tweede Divisie,Netherlands,3.4,3.6,1.83,No,No,0,None
+2025-09-13,16:00,Santa Lucía,Mtarfa,Challenge League,Malta,1.2,5.5,9.5,No,No,0,None
+2025-09-13,16:00,Marsa,Zurrieq,Challenge League,Malta,3.7,3.9,1.73,No,No,0,None
+2025-09-13,16:00,Nordsjælland,Brøndby,Kvindeliga,Denmark,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Lippstadt 08,Gievenbeck,Oberliga - Westfalen,Germany,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Omonia Nicosia,Akritas,1. Division,Cyprus,1.27,5.25,11.0,No,No,0,None
+2025-09-13,16:00,Kreuzlingen,Vevey Sports,1. Liga Promotion,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Basel W,Thun,AXA Women’s Super League,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,ASO Chlef,El Bayadh,Ligue 1,Algeria,1.85,2.9,4.33,No,No,0,None
+2025-09-13,16:00,Lusitano Évora 1911,Atlético CP,Liga 3,Portugal,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Nimes,Bobigny,National 2 - Group C,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,St Maur Lusitanos,Rumilly Vallières,National 2 - Group C,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Hyères,Limonest,National 2 - Group C,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Rousset-Ste Victoire,Fréjus St-Raphaël,National 2 - Group C,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Chasselay MDA,Toulon,National 2 - Group C,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Wasquehal,Chambly Thelle FC,National 2 - Group B,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Blois,Bourges Foot 18,National 2 - Group B,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,St-Pryvé St-Hilaire,Colmar,National 2 - Group B,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Haguenau,Bastia-Borgo,National 2 - Group B,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Chauray,Montlouis,National 2 - Group A,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Saumur,Châteaubriant,National 2 - Group A,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Saint-Colomban Locminé,Dinan Léhon,National 2 - Group A,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Granville,Lorient II,National 2 - Group A,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Stade Payerne,Lancy,1. Liga Classic - Group 1,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Marino de Luanco,Langreo,Segunda División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Mutilvera,Deportivo Alavés II,Segunda División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Al Jandal,Al Zulfi,Division 1,Saudi-Arabia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Al Taee,Al Draih,Division 1,Saudi-Arabia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,24 Erzincanspor,Batman Petrolspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Elazığspor,Halide Edip Adıvar,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Buca FK,Muğlaspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Bursaspor,Arnavutköy Belediyespor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Fethiyespor,Yeni Malatyaspor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Menemen Belediyespor,Isparta 32 Spor,2. Lig,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Çankaya FK,Bursa Yıldırımspor,3. Lig - Group 1,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Niğde Belediyesispor,Kahramanmaraşspor,3. Lig - Group 2,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Orduspor 1967,Fatsa Belediyespor,3. Lig - Group 3,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Bergama Belediyespor,Eskişehirspor,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Altay,Ayvalıkgücü Belediyespor,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Balıkesirspor,Tire 2021 FK,3. Lig - Group 4,Turkey,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Orlando Pirates,Stellenbosch,8 Cup,South-Africa,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Milsami Orhei,Dacia-Buiucani,Super Liga,Moldova,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Andratx,Barcelona B,Segunda División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Racing Montevideo,Boston River,Primera División - Clausura,Uruguay,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Alondras,Noia,Tercera División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Montañas Pas,Cayón,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Lagun Onak,Deportivo Alavés III,Tercera División RFEF - Group 4,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Vilanova,Grama,Tercera División RFEF - Group 5,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Torrellano,Castellonense,Tercera División RFEF - Group 6,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Atlético Mansillés,Unionistas II,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,UD Santa Marta,Cultural Leonesa II,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Rotlet Molinar,Felanitx,Tercera División RFEF - Group 11,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Unión Sur Yaiza,Herbania,Tercera División RFEF - Group 12,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,San Miguel,Tamaraceite,Tercera División RFEF - Group 12,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Santa Cruz FC,Bala Azul,Tercera División RFEF - Group 13,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,El Palmar,Real Murcia II,Tercera División RFEF - Group 13,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Kohfidisch,Bad Sauerbrunn,Landesliga - Burgenland,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Oberpullendorf,Halbturn,Landesliga - Burgenland,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Mattersburg 2020,Eberau,Landesliga - Burgenland,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,St. Johann in Tirol,Volders,Landesliga - Tirol,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Budaiya,Al Shabab,Premier League,Bahrain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Al Riffa,Al Najma,Premier League,Bahrain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Saint-Malo,Bordeaux,National 2 - Group A,France,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Bekescsaba 1912,Nyiregyhaza,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Gyirmot SE,Csakvar,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Ahironas / Onisilos,Spartakos Kitiou,2. Division,Cyprus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,APEA,Ayia Napa,2. Division,Cyprus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,ASIL Lysi,AE Zakakiou,2. Division,Cyprus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Digenis Morphou,Karmiotissa,2. Division,Cyprus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,Iraklis Yerolakkou,Ethnikos Latsion,2. Division,Cyprus,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,SJK,HJK helsinki,Veikkausliiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:00,JyPK,PK-35 Helsinki,Kansallinen Liiga,Finland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:15,Dender,Union St. Gilloise,Jupiler Pro League,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:15,Hibernians,Birkirkara,Premier League,Malta,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:15,Al-Wasl FC,Al Ain,Pro League,United-Arab-Emirates,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:15,Celtiga,Somozas,Tercera División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:20,Sohar,Dhofar,Professional League,Oman,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,North Carolina Courage W,Angel City W,NWSL Women,USA,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Alta,Rana,2. Division - Group 2,Norway,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,West Ham,Tottenham,Premier League,England,2.0,3.0,3.0,Yes,Yes,2,"Over 1.5, Away Under 1.5"
+2025-09-13,16:30,Cove Rangers,Inverness CT,League One,Scotland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Deportivo Laferrere,Villa Dalmine,Primera B Metropolitana,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Bayern München,Hamburger SV,Bundesliga,Germany,2.0,3.0,3.0,Yes,Yes,1,Under 11.5 Corners
+2025-09-13,16:30,Rudar Prijedor,Velež,Premijer Liga,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Athletic Club,Alaves,La Liga,Spain,2.0,3.0,3.0,Yes,Yes,2,"Over 9.5 Corners, Home +1"
+2025-09-13,16:30,Huesca,Malaga,Segunda División,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,FC Halifax Town,Eastleigh,National League,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,FC Krasnodar,Akron,Premier League,Russia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Petrovac,Mladost DG,First League,Montenegro,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Gimnastic,Sanluqueño,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Mérida AD,Celta de Vigo II,Primera División RFEF - Group 1,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Utebo,Gernika,Segunda División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,West Ham United U18,Tottenham Hotspur U18,U18 Premier League - South,England,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Zulte Waregem II,Mechelen II,Second Amateur Division - VFV A,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Al Hussein,Al Faisaly,League,Jordan,1.95,3.1,3.6,No,No,0,None
+2025-09-13,16:30,Revilla,Laredo,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Santomera,Cieza,Tercera División RFEF - Group 13,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:30,Manchego,San Clemente,Tercera División RFEF - Group 18,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:45,GO Ahead Eagles,FC Volendam,Eredivisie,Netherlands,1.5,4.75,5.5,Yes,Yes,3,"Away, Home Under 1.5, Over 1.5"
+2025-09-13,16:45,NEC Nijmegen,PSV Eindhoven,Eredivisie,Netherlands,4.5,4.2,1.67,Yes,Yes,3,"Over 1.5, Over 9.5 Corners, Home Under 1.5"
+2025-09-13,16:45,Hibernian,Dundee Utd,Premiership,Scotland,1.73,4.0,4.33,No,No,0,None
+2025-09-13,16:45,Bnei Sakhnin,Hapoel Haifa,Ligat Ha'al,Israel,2.8,3.2,2.38,No,No,0,None
+2025-09-13,16:45,Hapoel Petah Tikva,Maccabi Netanya,Ligat Ha'al,Israel,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:45,Tropezón,Barquereño,Tercera División RFEF - Group 3,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,16:45,UFC Hallein,Grödig,Landesliga - Salzburg,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Ranheim II,Spjelkavik,3. Division - Girone 2,Norway,2.8,4.33,1.9,No,No,0,None
+2025-09-13,17:00,Torpedo Kutaisi,Samgurali,Erovnuli Liga,Georgia,1.73,3.5,4.1,No,No,0,None
+2025-09-13,17:00,Asker,Strommen,2. Division - Group 2,Norway,7.0,4.5,1.33,No,No,0,None
+2025-09-13,17:00,Artis,Sparta Praha II,FNL,Czech-Republic,1.38,4.5,6.5,No,No,0,None
+2025-09-13,17:00,Gorica,Bilje,2. SNL,Slovenia,1.65,3.6,4.5,No,No,0,None
+2025-09-13,17:00,Ironi Kiryat Shmona,Maccabi Bnei Raina,Ligat Ha'al,Israel,2.3,3.1,2.8,No,No,0,None
+2025-09-13,17:00,Ironi Tiberias,Maccabi Tel Aviv,Ligat Ha'al,Israel,9.0,5.75,1.25,No,No,0,None
+2025-09-13,17:00,Progres Niederkorn,UNA Strassen,National Division,Luxembourg,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Al-Rayyan SC,Qatar SC,Stars League,Qatar,1.53,4.1,4.75,No,No,0,None
+2025-09-13,17:00,Besiktas,Istanbul Basaksehir,Süper Lig,Turkey,1.67,4.0,4.75,No,No,0,None
+2025-09-13,17:00,Konyaspor,Alanyaspor,Süper Lig,Turkey,1.8,3.7,4.33,No,No,0,None
+2025-09-13,17:00,Macva,FK Vozdovac,Prva Liga,Serbia,2.5,2.88,2.7,No,No,0,None
+2025-09-13,17:00,FC Porto,Nacional,Primeira Liga,Portugal,1.18,6.5,17.0,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,17:00,Buducnost Podgorica,Jedinstvo,First League,Montenegro,1.44,4.1,5.75,No,No,0,None
+2025-09-13,17:00,Panetolikos,Volos NFC,Super League 1,Greece,2.9,3.1,2.55,No,No,0,None
+2025-09-13,17:00,Atromitos,Aris Thessalonikis,Super League 1,Greece,3.2,3.2,2.3,No,No,0,None
+2025-09-13,17:00,Wigry Suwałki,Wikielec,III Liga - Group 1,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Podlasie Biała Podlaska,KSZO 1929,III Liga - Group 4,Poland,5.0,4.0,1.5,No,No,0,None
+2025-09-13,17:00,Vllaznia Shkodër,Partizani,Superliga,Albania,1.65,3.25,5.25,No,No,0,None
+2025-09-13,17:00,FUS Rabat,Raja Casablanca,Botola Pro,Morocco,2.6,3.1,2.5,No,No,0,None
+2025-09-13,17:00,Anorthosis,AEK Larnaca,1. Division,Cyprus,4.75,3.5,1.75,No,No,0,None
+2025-09-13,17:00,Pafos,Apollon Limassol,1. Division,Cyprus,1.48,3.9,7.0,No,No,0,None
+2025-09-13,17:00,Ceramica Cleopatra,Smouha SC,Premier League,Egypt,2.3,2.8,3.3,No,No,0,None
+2025-09-13,17:00,Zamalek SC,AL Masry,Premier League,Egypt,2.2,2.8,3.3,No,No,0,None
+2025-09-13,17:00,FK Trayal,Loznica,Prva Liga,Serbia,2.1,3.0,3.3,No,No,0,None
+2025-09-13,17:00,Luzern W,Rapperswil Jona,AXA Women’s Super League,Switzerland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Standard Liege W,Westerlo W,Super League Women,Belgium,1.3,5.5,6.0,No,No,0,None
+2025-09-13,17:00,Academica,CF Os Belenenses,Liga 3,Portugal,2.8,3.2,2.25,No,No,0,None
+2025-09-13,17:00,Leotar,Sutjeska Foča,1st League - RS,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Leones Negros,Colima,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Mineros de Fresnillo,UA Zacatecas,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Čelik,Budućnost Banovići,1st League - FBiH,Bosnia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Levante II,Hércules II,Tercera División RFEF - Group 6,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Bembibre,Mojados,Tercera División RFEF - Group 8,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Son Cladera,Manacor,Tercera División RFEF - Group 11,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Alcúdia,Cardassar,Tercera División RFEF - Group 11,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Portmany,Peña Deportiva,Tercera División RFEF - Group 11,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Águilas II,Atlético Pulpileño,Tercera División RFEF - Group 13,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Illescas,Villacañas,Tercera División RFEF - Group 18,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Albacete II,Pedroñeras,Tercera División RFEF - Group 18,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Vasas,Puskas Academy,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Fehérvár FC,Szentlőrinc SE,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Ajka,Kisvarda FC,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:00,Dorogi FC,Szeged 2011,Magyar Kupa,Hungary,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:08,Wisłoka Dębica,Siarka Tarnobrzeg,III Liga - Group 4,Poland,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:15,CSKA Sofia,Septemvri Sofia,First League,Bulgaria,1.22,5.5,15.0,No,No,0,None
+2025-09-13,17:15,Zabbar St. Patrick,Naxxar Lions,Premier League,Malta,1.62,3.7,4.33,No,No,0,None
+2025-09-13,17:30,Godoy Cruz,Barracas Central,Liga Profesional Argentina,Argentina,2.05,3.0,4.33,No,No,0,None
+2025-09-13,17:30,Slask Wroclaw,Puszcza Niepołomice,I Liga,Poland,1.8,3.7,4.1,No,No,0,None
+2025-09-13,17:30,Stal Rzeszów,Znicz Pruszków,I Liga,Poland,2.0,3.75,3.4,No,No,0,None
+2025-09-13,17:30,Wisla Krakow,Odra Opole,I Liga,Poland,1.33,5.0,8.0,No,No,0,None
+2025-09-13,17:30,OFK Beograd,Novi Pazar,Super Liga,Serbia,2.15,3.1,3.2,No,No,0,None
+2025-09-13,17:30,Esperança d'Andorra,Inter Club d'Escaldes,1a Divisió,Andorra,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Sampdoria,Cesena,Serie B,Italy,2.55,2.9,3.0,Yes,Yes,2,"Over 1.5, Over 9.5 Corners"
+2025-09-13,17:30,St Joseph S Fc,Mons Calpe,Premier Division,Gibraltar,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Huy,Stade Verviers,Second Amateur Division - ACFF,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Ostiches,La Calamine,Second Amateur Division - ACFF,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Tournai,RUS Binche,Second Amateur Division - ACFF,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Oostkamp,Mandel United,Second Amateur Division - VFV A,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Vilassar Mar,Manresa,Tercera División RFEF - Group 5,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Cornellà,Peralada,Tercera División RFEF - Group 5,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Jove Español,La Nucía,Tercera División RFEF - Group 6,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,UD Caravaca,Muleño,Tercera División RFEF - Group 13,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Al Talaba,Zakho,Iraqi League,Iraq,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Newroz,Al Kahrabaa,Iraqi League,Iraq,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:30,Laguna U20,QFC U20,Potiguar - U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:40,Al Tadhamon,Al Kuwait,Premier League,Kuwait,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,HNK Rijeka,NK Lokomotiva Zagreb,HNL,Croatia,1.55,3.5,5.5,No,No,0,None
+2025-09-13,17:45,Petrópolis,Friburguense,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,Carapebus,Paduano,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,Artsul,Campo Grande,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,Serrano RJ,Duque de Caxias,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,Nova Cidade,Niteroiense,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,17:45,São Cristóvão RJ,Bonsucesso,Carioca - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Palestino,O'Higgins,Primera División,Chile,2.15,3.2,3.4,No,No,0,None
+2025-09-13,18:00,Curico Unido,San Luis,Primera B,Chile,2.3,3.2,3.0,No,No,0,None
+2025-09-13,18:00,Deportes Rengo,Municipal Salamanca,Segunda División,Chile,2.6,3.2,2.4,No,No,0,None
+2025-09-13,18:00,Ituzaingó,Claypole,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Berazategui,Deportivo Muñiz,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Lugano,JJ Urquiza,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Puerto Nuevo,El Porvenir,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Central Cordoba,Defensores de Cambaceres,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Mercedes,Leandro N. Alem,Primera C,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,AFC Toronto W,Vancouver Rise W,Northern Super League,Canada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Fluminense U20,Volta Redonda U20,Carioca U20,Brazil,1.53,4.1,4.5,No,No,0,None
+2025-09-13,18:00,Bangu U20,Maricá U20,Carioca U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Vojvodina,Cukaricki,Super Liga,Serbia,1.67,3.5,4.5,No,No,0,None
+2025-09-13,18:00,Clermont Foot,Saint Etienne,Ligue 2,France,3.7,3.5,1.85,Yes,Yes,2,"Over 1.5, Home/Away"
+2025-09-13,18:00,Austria Vienna (Am),First Vienna,2. Liga,Austria,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,KRC Genk II,Kortrijk,Challenger Pro League,Belgium,6.25,4.33,1.4,No,No,0,None
+2025-09-13,18:00,Francs Borains,AS Eupen,Challenger Pro League,Belgium,2.3,3.3,2.8,No,No,0,None
+2025-09-13,18:00,Club Brugge II,Liège,Challenger Pro League,Belgium,2.62,3.7,2.25,No,No,0,None
+2025-09-13,18:00,Alhama,Granada,Primera División Femenina,Spain,4.0,3.4,1.83,No,No,0,None
+2025-09-13,18:00,Gutiérrez,Guillermo Brown,Torneo Federal A,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Tlaxcala,Tapatío,Liga de Expansión MX,Mexico,2.3,3.4,3.0,No,No,0,None
+2025-09-13,18:00,Albert Quévy-Mons,Standard Liège II,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Rochefort,Union Saint-Gilloise II,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Sporting Hasselt,Diegem Sport,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Hoogstraten,Oud-Heverlee Leuven II,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Lyra-Lierse Berlaar,Cercle Brugge II,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Thes Sport,Houtvenne,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Knokke,Spouwen-Mopertingen,First Amateur Division,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,CR Belouizdad,JS Saoura,Ligue 1,Algeria,1.5,3.4,6.5,No,No,0,None
+2025-09-13,18:00,USM Alger,Khenchela,Ligue 1,Algeria,1.42,3.6,8.0,No,No,0,None
+2025-09-13,18:00,Aliança AL,Jacyobá,Alagoano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Dimensão Saúde,Miguelense,Alagoano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Al-Hilal Saudi FC,Al-Qadisiyah FC,Pro League,Saudi-Arabia,1.48,4.5,5.0,No,No,0,None
+2025-09-13,18:00,Juventus U20,Gremio Prudente U20,Paulista - U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Santo André U20,Oeste U20,Paulista - U20,Brazil,2.5,3.25,2.45,No,No,0,None
+2025-09-13,18:00,Al Wehda Club,Al Ula,Division 1,Saudi-Arabia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Sport Boys,Comerciantes Unidos,Primera División,Peru,1.53,3.6,7.0,No,No,0,None
+2025-09-13,18:00,Zumbi,Agrimaq,Alagoano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Coimbra U20,Atlético Mineiro U20,Mineiro U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Portuguesa U20,Referencia U20,Paulista - U20,Brazil,1.44,4.0,6.0,No,No,0,None
+2025-09-13,18:00,Braine,Jette,Second Amateur Division - ACFF,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Wellen,Cappellen,Second Amateur Division - VFV B,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Racing Mechelen,Rotselaar,Second Amateur Division - VFV B,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Nijlen,Heist,Second Amateur Division - VFV B,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Berchem Sport,Sint-Truiden II,Second Amateur Division - VFV B,Belgium,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Aguia FC,Porto,Pernambucano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Caruaru City,Ypiranga PE,Pernambucano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Centro Limoeirense,América PE,Pernambucano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Uniao Luziense,Inter de Minas,Mineiro - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Imolese,Sangiuliano City,Serie D - Girone D,Italy,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Maccabi Neve Sha'anan,Hapoel Ironi Arraba,Liga Alef,Israel,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Chilpancingo,Gavilanes FC Matamoros,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Atlético Cearense U20,Fortaleza U20,Cearense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Pucarani,Universitario Pando,Nacional B,Bolivia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,Independente Simão Dias,Olímpico SE,Sergipano - 2,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:00,SOL,Stella,Ligue 1,Ivory-Coast,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:15,Piast Gliwice,Jagiellonia,Ekstraklasa,Poland,2.62,3.25,2.75,No,No,0,None
+2025-09-13,18:15,Maribor,Mura,1. SNL,Slovenia,1.5,4.33,5.25,No,No,0,None
+2025-09-13,18:30,Defensores De Belgrano,Chaco For Ever,Primera Nacional,Argentina,2.25,3.0,3.5,No,No,0,None
+2025-09-13,18:30,CA Estudiantes,Defensores Unidos,Primera Nacional,Argentina,1.48,3.8,7.5,No,No,0,None
+2025-09-13,18:30,FC ST. Gallen,FC Lugano,Super League,Switzerland,2.15,3.5,3.0,No,No,0,None
+2025-09-13,18:30,Žilina,Slovan Bratislava,Super Liga,Slovakia,3.4,4.33,1.85,No,No,0,None
+2025-09-13,18:30,Fénix,Flandria,Primera B Metropolitana,Argentina,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,Deportivo Armenio,Brown DE Adrogue,Primera B Metropolitana,Argentina,2.4,2.62,3.1,No,No,0,None
+2025-09-13,18:30,Sacachispas,Excursionistas,Primera B Metropolitana,Argentina,2.55,3.0,2.6,No,No,0,None
+2025-09-13,18:30,Metaloglobus,CFR 1907 Cluj,Liga I,Romania,7.5,3.8,1.42,No,No,0,None
+2025-09-13,18:30,Hannover 96,Hertha BSC,2. Bundesliga,Germany,1.75,3.9,4.2,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,18:30,Sliema Wanderers,Tarxien Rainbows,Premier League,Malta,1.36,4.5,6.5,No,No,0,None
+2025-09-13,18:30,Sutjeska,Arsenal Tivat,First League,Montenegro,1.8,3.4,3.7,No,No,0,None
+2025-09-13,18:30,Melita,Swieqi United,Challenge League,Malta,3.2,3.7,1.95,No,No,0,None
+2025-09-13,18:30,Birzebbuga,Pietà Hotspurs,Challenge League,Malta,2.2,3.5,2.7,No,No,0,None
+2025-09-13,18:30,Tupi,Boston City FC Brasil,Mineiro - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,Cambé,Grêmio Maringá,Paranaense - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,União PR,Oeste Brasil,Paranaense - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,Carajás U20,EC Tailandia U20,Paraense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,Crixás EC,Bom Jesus EC,Goiano - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,18:30,Liverpool Montevideo,Penarol,Primera División - Clausura,Uruguay,3.6,3.25,2.0,No,No,0,None
+2025-09-13,18:45,Fiorentina,Napoli,Serie A,Italy,3.8,3.1,2.1,Yes,Yes,3,"BTTS No, Over 1.5, Over 9.5 Corners"
+2025-09-13,18:45,RAAL La Louvière,Club Brugge KV,Jupiler Pro League,Belgium,5.75,4.5,1.48,No,No,0,None
+2025-09-13,19:00,Independiente del Valle,Cuniburo,Liga Pro,Ecuador,1.3,5.0,9.0,No,No,0,None
+2025-09-13,19:00,Gremio,Mirassol,Serie A,Brazil,2.2,3.1,3.6,No,No,0,None
+2025-09-13,19:00,Fortaleza EC,Vitoria,Serie A,Brazil,1.85,3.4,4.75,No,No,0,None
+2025-09-13,19:00,Paysandu,America Mineiro,Serie B,Brazil,2.15,3.1,3.5,Yes,No,0,None
+2025-09-13,19:00,Brentford,Chelsea,Premier League,England,3.8,3.7,1.91,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,19:00,Feyenoord,Heerenveen,Eredivisie,Netherlands,1.36,5.25,7.5,Yes,Yes,2,"Over 1.5, Home Under 1.5"
+2025-09-13,19:00,Twente,NAC Breda,Eredivisie,Netherlands,1.53,4.33,5.75,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,19:00,Atletico Madrid,Villarreal,La Liga,Spain,1.8,3.7,4.33,Yes,Yes,1,Over 9.5 Corners
+2025-09-13,19:00,Valladolid,Almeria,Segunda División,Spain,2.3,3.3,3.0,No,No,0,None
+2025-09-13,19:00,Fortaleza FC,America de Cali,Primera A,Colombia,2.7,2.9,2.8,No,No,0,None
+2025-09-13,19:00,FAR Rabat,Yacoub El Mansour,Botola Pro,Morocco,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Oriente Petrolero,Real Oruro,Primera División,Bolivia,1.6,3.8,5.0,No,No,0,None
+2025-09-13,19:00,Defensores de Belgrano VR,Crucero Del Norte,Torneo Federal A,Argentina,1.28,5.0,8.5,No,No,0,None
+2025-09-13,19:00,Antequera,Alcorcon,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Sevilla Atletico,Real Betis II,Primera División RFEF - Group 2,Spain,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Deportivo Upala,Quepos Cambute,Liga de Ascenso,Costa-Rica,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Meninos de Ouro U20,Terra Alta U20,Paraense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Aparecida GO,America GO,Goiano - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,São José EC,Comercial,Copa Paulista,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Grêmio Prudente,Francana,Copa Paulista,Brazil,1.62,3.2,5.5,No,No,0,None
+2025-09-13,19:00,ABD FC,Rioverdense,Goiano - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Barra,Inter De Limeira,Serie D,Brazil,2.35,2.8,3.1,No,No,0,None
+2025-09-13,19:00,Municipal Tiquipaya,Municipal Tarija,Nacional B,Bolivia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:00,Libertad,Deportivo Shalon,Nacional B,Bolivia,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:05,Auxerre,Monaco,Ligue 1,France,4.75,4.5,1.62,Yes,Yes,1,Under 11.5 Corners
+2025-09-13,19:15,Escorpiones Belén,CS Uruguay,Liga de Ascenso,Costa-Rica,2.0,3.0,3.0,No,No,0,None
+2025-09-13,19:30,Deportivo Moron,Temperley,Primera Nacional,Argentina,2.1,2.8,4.33,No,No,0,None
+2025-09-13,19:30,Famalicao,Sporting CP,Primeira Liga,Portugal,2.0,3.0,3.0,Yes,Yes,3,"Over 1.5, Over 9.5 Corners, Away Under 1.5"
+2025-09-13,19:30,General Caballero,Cerro Porteno,Division Profesional - Clausura,Paraguay,4.5,3.7,1.7,No,No,0,None
+2025-09-13,19:45,Independiente,Banfield,Liga Profesional Argentina,Argentina,1.7,3.5,5.75,No,No,0,None
+2025-09-13,20:00,Whitecaps II,San Jose Earthquakes II,MLS Next Pro,USA,3.4,3.7,1.85,No,No,0,None
+2025-09-13,20:00,Cavalry FC,HFX Wanderers FC,Canadian Premier League,Canada,1.95,3.2,3.5,Yes,Yes,2,"Over 1.5, Away +1"
+2025-09-13,20:00,Calgary Wild W,Montreal Roses W,Northern Super League,Canada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Serbian White Eagles,Unity ON,Canadian Soccer League,Canada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Bentín Tacna Heroica,Cesar Vallejo,Segunda División,Peru,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Deportiva Agropecuaria,Union Comercio,Segunda División,Peru,1.55,3.7,4.75,No,No,0,None
+2025-09-13,20:00,Mineros de Guyana,Monagas II,Segunda División,Venezuela,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Unaí Itapuã,BOA,Mineiro - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Shamrock,St. David’s,Premier Division,Grenada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Águia de Marabá U20,Vila Rica SC U20,Paraense U20,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,20:00,Nautico Recife,Guarani Campinas,Serie C,Brazil,1.8,3.25,4.2,No,No,0,None
+2025-09-13,20:00,Tigres FC,Real Soacha,Primera B,Colombia,3.9,3.25,1.95,No,No,0,None
+2025-09-13,20:00,Atenas,La Luz,Segunda División,Uruguay,1.95,3.2,3.6,No,No,0,None
+2025-09-13,20:15,Alianza Atletico,Juan Pablo II College,Primera División,Peru,1.48,3.8,7.0,No,No,0,None
+2025-09-13,20:30,Cobresal,Huachipato,Primera División,Chile,1.95,3.5,3.8,No,No,0,None
+2025-09-13,21:00,Loudoun United,San Antonio,USL Championship,USA,1.8,3.6,4.0,No,No,0,None
+2025-09-13,21:00,D. Puerto Montt,D. Melipilla,Segunda División,Chile,1.73,3.5,4.0,No,No,0,None
+2025-09-13,21:00,Zamora FC,Rayo Zuliano,Primera División,Venezuela,1.85,3.3,3.7,No,No,0,None
+2025-09-13,21:00,Atlético Pantoja,Delfines Del Este,Liga Mayor,Dominican-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,21:00,Jalapa,Walter Ferretti,Primera Division,Nicaragua,3.8,3.5,1.8,No,No,0,None
+2025-09-13,21:00,XV de Piracicaba,Oeste,Copa Paulista,Brazil,1.8,3.25,3.9,No,No,0,None
+2025-09-13,21:00,Pioneros de Cancún,Montañeses,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,21:00,Cerro Largo,Defensor Sporting,Primera División - Clausura,Uruguay,2.9,3.0,2.5,No,No,0,None
+2025-09-13,21:03,Orlando Pride W,Bay FC,NWSL Women,USA,1.53,4.1,5.0,No,No,0,None
+2025-09-13,21:10,Alianza Petrolera,Millonarios,Primera A,Colombia,2.75,3.1,2.62,No,No,0,None
+2025-09-13,21:30,Universidad Catolica,Delfin SC,Liga Pro,Ecuador,1.33,4.75,9.0,No,No,0,None
+2025-09-13,21:30,Palmeiras,Internacional,Serie A,Brazil,1.62,3.8,5.75,No,No,0,None
+2025-09-13,21:30,Vila Nova,remo,Serie B,Brazil,2.0,3.1,4.0,Yes,Yes,4,"Over 9.5 Corners, Over 1.5, Away +1"
+2025-09-13,21:30,Nacional Potosí,San Antonio Bulo Bulo,Primera División,Bolivia,1.48,4.1,6.0,No,No,0,None
+2025-09-13,21:30,Fundación Lara Deportiva,Atletico el Vigia FC,Segunda División,Venezuela,2.0,3.0,3.0,No,No,0,None
+2025-09-13,21:30,Araucária,Prudentópolis,Paranaense - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,21:45,Cruz Azul W,Juárez W,Liga MX Femenil,Mexico,1.75,3.9,3.8,No,No,0,None
+2025-09-13,22:00,Portland Hearts of Pine,Chattanooga Red Wolves,USL League One,USA,2.15,3.25,3.1,No,No,0,None
+2025-09-13,22:00,Estudiantes L.P.,River Plate,Liga Profesional Argentina,Argentina,3.0,3.25,2.38,No,No,0,None
+2025-09-13,22:00,SC Scarborough,Manga Canada,Canadian Soccer League,Canada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:00,Sportivo Luqueno,Libertad Asuncion,Division Profesional - Clausura,Paraguay,4.2,3.4,1.83,No,No,0,None
+2025-09-13,22:00,Vega Real,Universidad O&M,Liga Mayor,Dominican-Republic,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:00,Tritons Vallarta,Acatlan,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:00,Deportivo Zap,Sporting Canamy,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:00,Deportiva Venados,Chapulineros,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:00,Mexicali FC,Héroes de Zaci,Liga Premier Serie A,Mexico,2.0,3.0,3.0,No,No,0,None
+2025-09-13,22:30,Caxias,São Bernardo,Serie C,Brazil,2.0,3.1,3.6,No,No,0,None
+2025-09-13,23:00,Westchester SC,Union Omaha,USL League One,USA,3.7,3.4,1.9,No,No,0,None
+2025-09-13,23:00,Greenville Triumph,Tormenta,USL League One,USA,1.95,3.4,3.6,No,No,0,None
+2025-09-13,23:00,Forward Madison,Richmond Kickers,USL League One,USA,1.83,3.6,3.8,No,No,0,None
+2025-09-13,23:00,Pittsburgh Riverhounds,Louisville City,USL Championship,USA,2.8,3.3,2.3,No,No,0,None
+2025-09-13,23:00,Rhode Island,Indy Eleven,USL Championship,USA,2.1,3.25,3.2,No,No,0,None
+2025-09-13,23:00,Deportes Limache,U. Catolica,Primera División,Chile,3.0,3.1,2.4,No,No,0,None
+2025-09-13,23:00,Pacific FC,Vancouver FC,Canadian Premier League,Canada,2.15,3.2,3.0,Yes,Yes,2,"Under 11.5 Corners, Home/Away"
+2025-09-13,23:00,Pachuca,Cruz Azul,Liga MX,Mexico,2.9,3.4,2.4,Yes,Yes,2,"Over 9.5 Corners, Over 1.5"
+2025-09-13,23:00,Comunicaciones,Antigua GFC,Liga Nacional,Guatemala,2.15,3.1,3.25,No,No,0,None
+2025-09-13,23:00,CS Herediano,Sporting San Jose,Primera División,Costa-Rica,1.7,3.4,4.5,No,No,0,None
+2025-09-13,23:00,Deportivo Universitario,UMECIT,Liga Panameña de Fútbol,Panama,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:00,Alebrijes de Oaxaca,Atlante FC,Liga de Expansión MX,Mexico,4.5,4.0,1.7,No,No,0,None
+2025-09-13,23:00,Real Madriz,Rancho Santana,Primera Division,Nicaragua,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:00,Juventus FC Minas Novas,Essube,Mineiro - 3,Brazil,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:00,SAB Spartans,Hard Rock,Premier Division,Grenada,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:15,Victoria,Juticalpa,Liga Nacional,Honduras,1.67,3.75,4.0,No,No,0,None
+2025-09-13,23:20,Once Caldas,Envigado,Primera A,Colombia,1.7,3.7,5.0,No,No,0,None
+2025-09-13,23:30,Atlanta United FC,Columbus Crew,Major League Soccer,USA,2.62,4.2,2.3,No,No,0,None
+2025-09-13,23:30,Charlotte,Inter Miami,Major League Soccer,USA,2.7,3.75,2.45,No,No,0,None
+2025-09-13,23:30,FC Cincinnati,Nashville SC,Major League Soccer,USA,2.5,3.8,2.6,No,No,0,None
+2025-09-13,23:30,DC United,Orlando City SC,Major League Soccer,USA,3.3,3.5,2.15,No,No,0,None
+2025-09-13,23:30,CF Montreal,St. Louis City,Major League Soccer,USA,2.1,3.9,3.1,No,No,0,None
+2025-09-13,23:30,New England Revolution,Toronto FC,Major League Soccer,USA,1.9,4.1,3.7,No,No,0,None
+2025-09-13,23:30,Charleston Battery,Oakland Roots,USL Championship,USA,1.3,5.0,8.0,No,No,0,None
+2025-09-13,23:30,Tampa Bay Rowdies,Colorado Springs,USL Championship,USA,2.2,3.25,3.1,No,No,0,None
+2025-09-13,23:30,Kansas City W,Washington Spirit W,NWSL Women,USA,1.6,3.8,5.0,No,No,0,None
+2025-09-13,23:30,Carolina Core,Atlanta United II,MLS Next Pro,USA,2.1,3.5,3.1,No,No,0,None
+2025-09-13,23:30,Puerto Cabello,Deportivo La Guaira,Primera División,Venezuela,3.4,3.1,2.05,No,No,0,None
+2025-09-13,23:30,Aurora,The Strongest,Primera División,Bolivia,2.55,3.4,2.6,No,No,0,None
+2025-09-13,23:30,Fort Lauderdale United W,Dallas Trinity W,USL Super League,USA,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:30,Sporting JAX,Carolina Ascent W,USL Super League,USA,2.0,3.0,3.0,No,No,0,None
+2025-09-13,23:30,Central Espanol,Rentistas,Segunda División,Uruguay,2.0,3.25,3.6,No,No,0,None

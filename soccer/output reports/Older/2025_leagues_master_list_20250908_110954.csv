@@ -1,0 +1,75 @@
+league_name,country,tier,season_id,season_year,status,start_month,end_month,estimated_matches,betting_markets
+Premier League,England,1,1625,2025-26,Confirmed,August,May,380,All Markets
+Championship,England,2,1626,2025-26,Estimated,August,May,552,All Markets
+League One,England,3,1627,2025-26,Estimated,August,May,462,All Markets
+League Two,England,4,1628,2025-26,Estimated,August,May,462,All Markets
+National League,England,5,1629,2025-26,Estimated,August,May,462,All Markets
+FA Cup,England,0,1630,2025-26,Estimated,August,May,63,All Markets
+EFL Cup,England,0,1631,2025-26,Estimated,August,February,63,All Markets
+FA Trophy,England,3,1632,2025-26,Estimated,October,May,63,All Markets
+La Liga,Spain,1,1729,2025-26,Confirmed,August,May,380,All Markets
+Segunda División,Spain,2,1730,2025-26,Estimated,August,May,552,All Markets
+Copa del Rey,Spain,0,1731,2025-26,Estimated,October,April,63,All Markets
+Bundesliga,Germany,1,1854,2025-26,Confirmed,August,May,380,All Markets
+2. Bundesliga,Germany,2,1855,2025-26,Estimated,August,May,552,All Markets
+3. Liga,Germany,3,1856,2025-26,Estimated,August,May,462,All Markets
+DFB-Pokal,Germany,0,1857,2025-26,Estimated,August,May,63,All Markets
+Serie A,Italy,1,2105,2025-26,Confirmed,August,May,380,All Markets
+Serie B,Italy,2,2106,2025-26,Estimated,August,May,552,All Markets
+Coppa Italia,Italy,0,2107,2025-26,Estimated,August,May,300,All Markets
+Ligue 1,France,1,1843,2025-26,Confirmed,August,May,380,All Markets
+Ligue 2,France,2,1844,2025-26,Estimated,August,May,552,All Markets
+Coupe de France,France,0,1845,2025-26,Estimated,November,May,63,All Markets
+Eredivisie,Netherlands,1,2200,2025-26,Estimated,August,May,380,All Markets
+Eerste Divisie,Netherlands,2,2201,2025-26,Estimated,August,May,552,All Markets
+KNVB Cup,Netherlands,0,2202,2025-26,Estimated,September,April,63,All Markets
+Primeira Liga,Portugal,1,2300,2025-26,Estimated,August,May,380,All Markets
+LigaPro,Portugal,2,2301,2025-26,Estimated,August,May,552,All Markets
+Taça de Portugal,Portugal,0,2302,2025-26,Estimated,September,May,300,All Markets
+Pro League,Belgium,1,2400,2025-26,Estimated,August,May,380,All Markets
+Belgian Cup,Belgium,0,2401,2025-26,Estimated,August,March,63,All Markets
+Scottish Premiership,Scotland,1,2500,2025-26,Estimated,August,May,380,All Markets
+Scottish Championship,Scotland,2,2501,2025-26,Estimated,August,May,552,All Markets
+Scottish Cup,Scotland,0,2502,2025-26,Estimated,October,May,63,All Markets
+UEFA Champions League,Europe,0,3000,2025-26,Estimated,September,May,300,All Markets
+UEFA Europa League,Europe,0,3001,2025-26,Estimated,September,May,300,All Markets
+UEFA Europa Conference League,Europe,0,3002,2025-26,Estimated,August,May,300,All Markets
+UEFA Nations League,Europe,0,3003,2025-26,Estimated,September,November,300,All Markets
+FIFA Club World Cup,International,0,4000,2025,Estimated,June,July,150,All Markets
+FIFA Club World Cup Playin,International,0,4001,2025,Estimated,May,June,150,All Markets
+WC Qualification Europe,International,0,4100,2025-26,Estimated,September,November,80,All Markets
+WC Qualification Africa,International,0,4101,2025-26,Estimated,September,November,80,All Markets
+WC Qualification Asia,International,0,4102,2025-26,Estimated,September,March,80,All Markets
+WC Qualification South America,International,0,4103,2025-26,Estimated,September,March,80,All Markets
+WC Qualification CONCACAF,International,0,4104,2025-26,Estimated,September,March,80,All Markets
+WC Qualification Oceania,International,0,4105,2025-26,Estimated,September,March,80,All Markets
+MLS,USA,1,5000,2025,Estimated,February,November,380,All Markets
+USL Championship,USA,2,5001,2025,Estimated,March,November,552,All Markets
+USL League One,USA,3,5002,2025,Estimated,March,October,462,All Markets
+NWSL,USA,1,5003,2025,Estimated,March,November,380,All Markets
+US Open Cup,USA,0,5004,2025,Estimated,April,September,63,All Markets
+Canadian Premier League,Canada,1,5100,2025,Estimated,April,October,380,All Markets
+Liga MX,Mexico,1,5200,2025,Estimated,January,December,380,All Markets
+Liga de Expansión MX,Mexico,2,5201,2025,Estimated,January,December,552,All Markets
+Copa MX,Mexico,0,5202,2025,Estimated,January,April,63,All Markets
+Copa Libertadores,South America,0,5300,2025,Estimated,February,November,150,All Markets
+Copa Sudamericana,South America,0,5301,2025,Estimated,March,November,63,All Markets
+Brazil Serie A,Brazil,1,5400,2025,Estimated,April,December,380,All Markets
+Brazil Serie B,Brazil,2,5401,2025,Estimated,April,November,552,All Markets
+Copa do Brasil,Brazil,0,5402,2025,Estimated,February,October,63,All Markets
+Primera División,Argentina,1,5500,2025,Estimated,February,December,380,All Markets
+Copa Argentina,Argentina,0,5501,2025,Estimated,February,November,63,All Markets
+Eliteserien,Norway,1,6000,2025,Estimated,March,November,380,All Markets
+First Division,Norway,2,6001,2025,Estimated,April,November,552,All Markets
+Allsvenskan,Sweden,1,6100,2025,Estimated,March,November,380,All Markets
+Superlig,Denmark,1,6200,2025-26,Estimated,July,May,380,All Markets
+Veikkausliiga,Finland,1,6300,2025,Estimated,April,October,380,All Markets
+First League,Czech Republic,1,6400,2025-26,Estimated,August,May,380,All Markets
+Ekstraklasa,Poland,1,6500,2025-26,Estimated,July,May,380,All Markets
+Liga I,Romania,1,6600,2025-26,Estimated,July,May,380,All Markets
+Super League,Switzerland,1,6700,2025-26,Estimated,July,May,380,All Markets
+Austrian Bundesliga,Austria,1,6800,2025-26,Estimated,July,May,380,All Markets
+Süper Lig,Turkey,1,6900,2025-26,Estimated,August,May,380,All Markets
+CONCACAF Champions Cup,International,0,7000,2025,Estimated,February,May,125,All Markets
+CONCACAF Central American Cup,International,0,7001,2025,Estimated,August,December,63,All Markets
+CONCACAF Caribbean Club Championship,International,0,7002,2025,Estimated,May,August,100,All Markets

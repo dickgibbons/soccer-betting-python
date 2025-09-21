@@ -1,0 +1,6 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,recommended_stake_pct,edge_percent,confidence_percent,expected_value,quality_score,risk_level
+2025-09-07,15:00,Novorizontino,Atlético GO,Unknown,Over 1.5,Over 1.5 Goals,2.3529505520484078,8.0,81.3,77.0,0.813,0.65,Medium Risk
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Over 1.5,Over 1.5 Goals,1.843307988751456,8.0,42.0,77.0,0.42,0.375,Medium Risk
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Home Under 1.5,Home Team Under 1.5 Goals,1.5735017117311147,8.0,14.1,72.5,0.141,0.166,Low Risk
+2025-09-07,15:00,Cuiabá,CRB,Unknown,Over 9.5 Corners,Over 9.5 Total Corners,1.7000782099077143,7.8,13.6,66.8,0.136,0.146,Low Risk
+2025-09-07,15:00,Novorizontino,Atlético GO,Unknown,Away +1,Away Team +1 Handicap,1.4330541099392724,8.0,9.4,76.3,0.094,0.145,Low Risk

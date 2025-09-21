@@ -1,0 +1,9 @@
+date,kick_off,home_team,away_team,league,market,bet_description,odds,recommended_stake_pct,edge_percent,confidence_percent,expected_value,quality_score,risk_level
+2025-09-09,00:30,Vila Nova,Athletic Club,Serie B,Over 2.5,Over 2.5 Goals,2.616721369708716,8.0,76.8,67.5,0.768,0.59,Medium Risk
+2025-09-09,00:30,El Salvador,Suriname,World Cup - Qualification CONCACAF,Over 1.5,Over 1.5 Goals,2.3729489436790385,8.0,66.9,70.3,0.669,0.529,Medium Risk
+2025-09-09,16:00,Cape Verde Islands,Cameroon,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.3112455187020755,8.0,63.7,70.8,0.637,0.508,Medium Risk
+2025-09-09,23:30,Chile,Uruguay,World Cup - Qualification South America,Over 1.5,Over 1.5 Goals,2.383046242582057,8.0,64.3,68.9,0.643,0.507,Medium Risk
+2025-09-09,13:00,Sierra Leone,Ethiopia,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.304200879359145,8.0,60.0,69.5,0.6,0.479,Medium Risk
+2025-09-09,16:00,Congo DR,Senegal,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.2556642742984825,8.0,58.7,70.3,0.587,0.472,Medium Risk
+2025-09-09,18:45,Albania,Latvia,World Cup - Qualification Europe,Over 9.5 Corners,Over 9.5 Total Corners,2.149278709117442,8.0,56.6,72.9,0.566,0.465,Medium Risk
+2025-09-09,16:00,Togo,Sudan,World Cup - Qualification Africa,Over 1.5,Over 1.5 Goals,2.314630491438746,8.0,53.1,66.2,0.531,0.42,Medium Risk

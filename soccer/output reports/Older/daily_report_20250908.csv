@@ -1,0 +1,23 @@
+Report Type,Value
+Date,"Monday, 2025-09-08"
+Total Matches Analyzed,32
+High-Value Bets Recommended,8
+
+Rank,Kick Off,League,Home Team,Away Team,Bet Type,Odds,Stake %,Edge %,Confidence %,Quality Score
+#1,16:00,World Cup - Qualification Africa,Madagascar,Chad,Over 1.5 Goals,2.12,8.0%,59.3%,75.2%,0.491
+#2,19:00,World Cup - Qualification Africa,Libya,Eswatini,Over 1.5 Goals,2.17,8.0%,55.8%,71.7%,0.455
+#3,16:00,World Cup - Qualification Africa,Guinea,Algeria,Over 9.5 Total Corners,2.11,8.0%,53.5%,72.6%,0.442
+#4,23:00,MLS Next Pro,New England II,Huntsville City,Over 1.5 Goals,1.99,8.0%,45.8%,73.2%,0.390
+#5,16:00,Frauen Bundesliga,Carl Zeiss Jena  W,1899 Hoffenheim W,Over 1.5 Goals,2.13,8.0%,45.7%,68.5%,0.376
+#6,13:00,World Cup - Qualification Africa,Zambia,Morocco,Over 1.5 Goals,1.97,8.0%,39.3%,70.9%,0.338
+#7,19:00,World Cup - Qualification Africa,Ghana,Mali,Over 9.5 Total Corners,1.73,8.0%,35.8%,78.7%,0.336
+#8,22:00,Premier League,Tivoli Gardens,Spanish Town Police,Over 9.5 Total Corners,2.09,8.0%,39.2%,66.7%,0.325
+
+Summary Metric,Value
+Total Portfolio Edge,374.3%
+Average Confidence,72.2%
+Total Bankroll Risk,64.0%
+
+Market Category,Number of Bets
+Goals,5 bets
+Corners,3 bets

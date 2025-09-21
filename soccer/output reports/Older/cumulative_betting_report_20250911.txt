@@ -1,0 +1,88 @@
+📈 CUMULATIVE BETTING PERFORMANCE REPORT 📈
+===============================================
+📅 Report Date: Thursday, September 11, 2025
+🚀 Tracking Since: September 7, 2025
+
+📊 OVERALL PERFORMANCE:
+-----------------------
+🎯 Total Picks: 27
+✅ Wins: 15
+❌ Losses: 12
+📈 Win Rate: 55.6%
+💰 Running P&L: $110.34
+💸 Total Staked: $675.00
+📊 ROI: +16.3%
+
+💵 BETTING BREAKDOWN ($25 per bet):
+-----------------------------------
+🏆 Average Win: $27.36
+💔 Average Loss: $-25.00
+🎲 Best Win: $41.47
+😞 Worst Loss: $-25.00
+
+🏟️ PERFORMANCE BY LEAGUE:
+--------------------------
+🏆 Frauen Bundesliga:
+   📊 1/1 (100.0%) | P&L: $+28.21
+🏆 MLS Next Pro:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 Premier League:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 Serie B:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 UEFA Champions League Women:
+   📊 4/6 (66.7%) | P&L: $+69.20
+🏆 Unknown:
+   📊 4/5 (80.0%) | P&L: $+58.23
+🏆 World Cup - Qualification Africa:
+   📊 5/9 (55.6%) | P&L: $+45.38
+🏆 World Cup - Qualification CONCACAF:
+   📊 1/1 (100.0%) | P&L: $+34.32
+🏆 World Cup - Qualification Europe:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🏆 World Cup - Qualification South America:
+   📊 0/1 (0.0%) | P&L: $-25.00
+
+🎯 PERFORMANCE BY MARKET:
+--------------------------
+🎲 Away +1:
+   📊 1/1 (100.0%) | P&L: $+10.83
+🎲 Home Over 1.5:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🎲 Home Under 1.5:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🎲 Over 1.5:
+   📊 11/15 (73.3%) | P&L: $+216.12
+🎲 Over 2.5:
+   📊 0/1 (0.0%) | P&L: $-25.00
+🎲 Over 9.5 Corners:
+   📊 3/8 (37.5%) | P&L: $-41.60
+
+📅 RECENT PERFORMANCE (Last 10 picks):
+---------------------------------------
+✅ 2025-09-09 | Sierra Leone vs Ethiopia
+   🎯 Over 1.5 Goals @ 2.30 → $+32.61
+✅ 2025-09-09 | Congo DR vs Senegal
+   🎯 Over 1.5 Goals @ 2.26 → $+31.39
+❌ 2025-09-09 | Albania vs Latvia
+   🎯 Over 9.5 Total Corners @ 2.15 → $-25.00
+❌ 2025-09-09 | Togo vs Sudan
+   🎯 Over 1.5 Goals @ 2.31 → $-25.00
+✅ 2025-09-11 | Brann W vs Manchester United W
+   🎯 Over 1.5 Goals @ 2.22 → $+30.51
+❌ 2025-09-11 | St. Pölten W vs Fortuna Hjørring
+   🎯 Home Team Over 1.5 Goals @ 3.05 → $-25.00
+✅ 2025-09-11 | Roma W vs Sporting CP W
+   🎯 Over 9.5 Total Corners @ 2.66 → $+41.47
+❌ 2025-09-11 | Paris FC W vs Austria Wien W
+   🎯 Over 9.5 Total Corners @ 1.99 → $-25.00
+✅ 2025-09-11 | Vorskla Poltava W vs OH Leuven W
+   🎯 Over 1.5 Goals @ 1.91 → $+22.79
+✅ 2025-09-11 | Häcken vs Atletico Madrid W
+   🎯 Over 9.5 Total Corners @ 1.98 → $+24.43
+
+⚠️ IMPORTANT NOTES:
+• Outcomes are simulated based on realistic match statistics
+• $25 standard bet amount used for all calculations
+• Performance tracking since September 7, 2025
+• Results are for tracking purposes only
