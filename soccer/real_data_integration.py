@@ -424,7 +424,7 @@ class RealDataIntegration:
         
         # Load followed leagues with countries from config
         try:
-            config_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/UPDATED_supported_leagues_database.csv"
+            config_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/UPDATED_supported_leagues_database.csv"
             df = pd.read_csv(config_file)
             # Create league+country mapping
             followed_leagues_with_country = {}
@@ -509,7 +509,7 @@ class RealDataIntegration:
     def save_real_fixtures(self, fixtures: List[Dict], date_str: str):
         """Save real fixtures data for the daily system to use"""
         
-        output_file = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/real_fixtures_{date_str.replace('-', '')}.json"
+        output_file = f"/Users/dickgibbons/soccer-betting-python/soccer/real_fixtures_{date_str.replace('-', '')}.json"
         
         with open(output_file, 'w') as f:
             json.dump(fixtures, f, indent=2)

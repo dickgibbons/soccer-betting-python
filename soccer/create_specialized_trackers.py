@@ -16,7 +16,7 @@ def create_high_confidence_tracker():
     print("🎯 Creating High Confidence Bets Tracker (85%+ confidence)...")
     
     # Load the comprehensive picks
-    all_picks_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/all_time_picks_history_fixed.csv"
+    all_picks_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/all_time_picks_history_fixed.csv"
     df = pd.read_csv(all_picks_file)
     
     # Filter for high confidence bets (85%+)
@@ -55,7 +55,7 @@ def create_high_confidence_tracker():
     high_conf_df['outcome_description'] = np.where(high_conf_df['simulated_outcome'], 'WIN', 'LOSS')
     
     # Save high confidence tracker
-    output_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/high_confidence_tracker.csv"
+    output_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/high_confidence_tracker.csv"
     high_conf_df.to_csv(output_file, index=False)
     
     # Generate summary
@@ -85,7 +85,7 @@ def create_top8_daily_tracker():
     print("\\n🏆 Creating Top 8 Daily Bets Tracker...")
     
     # Load the comprehensive picks
-    all_picks_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/all_time_picks_history_fixed.csv"
+    all_picks_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/all_time_picks_history_fixed.csv"
     df = pd.read_csv(all_picks_file)
     
     # Get top 8 picks per day based on quality_score or edge_percent
@@ -136,7 +136,7 @@ def create_top8_daily_tracker():
     top8_df['outcome_description'] = np.where(top8_df['simulated_outcome'], 'WIN', 'LOSS')
     
     # Save top 8 tracker
-    output_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/top8_daily_tracker.csv"
+    output_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/top8_daily_tracker.csv"
     top8_df.to_csv(output_file, index=False)
     
     # Generate summary
@@ -186,7 +186,7 @@ def create_comparison_report(high_conf_df, top8_df, all_df):
         }
     }
     
-    comparison_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/strategy_comparison.txt"
+    comparison_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/strategy_comparison.txt"
     
     with open(comparison_file, 'w') as f:
         f.write("🎯 BETTING STRATEGY COMPARISON REPORT\\n")
@@ -212,7 +212,7 @@ def main():
     """Main function to create all specialized trackers"""
     
     # Load all picks for comparison
-    all_picks_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/all_time_picks_history_fixed.csv"
+    all_picks_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/all_time_picks_history_fixed.csv"
     all_df = pd.read_csv(all_picks_file)
     
     # Add bet tracking to all picks

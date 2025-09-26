@@ -101,7 +101,7 @@ class DailyBettingReportGenerator:
     def get_followed_leagues(self):
         """Get list of leagues we follow from our database"""
         try:
-            df = pd.read_csv('/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/UPDATED_supported_leagues_database.csv')
+            df = pd.read_csv('/Users/dickgibbons/soccer-betting-python/soccer/output reports/UPDATED_supported_leagues_database.csv')
             return df['league_name'].tolist()
         except Exception as e:
             print(f"⚠️ Could not load leagues database: {e}")
@@ -222,7 +222,7 @@ class DailyBettingReportGenerator:
         
         # Load or train models
         try:
-            model_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/multi_market_models.pkl"
+            model_file = "/Users/dickgibbons/soccer-betting-python/soccer/multi_market_models.pkl"
             self.predictor.market_models = {}  # Reset to force training with new data
         except:
             pass
@@ -383,7 +383,7 @@ class DailyBettingReportGenerator:
         date_str = datetime.now().strftime("%Y%m%d")
         
         # Save detailed CSV
-        csv_filename = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/daily_picks_{date_str}.csv"
+        csv_filename = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/daily_picks_{date_str}.csv"
         
         with open(csv_filename, 'w', newline='') as csvfile:
             fieldnames = [
@@ -431,7 +431,7 @@ class DailyBettingReportGenerator:
     def generate_formatted_report(self, daily_report, date_str):
         """Generate human-readable daily report"""
         
-        report_filename = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/daily_report_{date_str}.txt"
+        report_filename = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/daily_report_{date_str}.txt"
         
         with open(report_filename, 'w') as f:
             f.write("⚽ DAILY SOCCER BETTING REPORT ⚽\n")
@@ -494,7 +494,7 @@ class DailyBettingReportGenerator:
     def generate_formatted_report_csv(self, daily_report, date_str):
         """Generate CSV version of the formatted daily report"""
         
-        csv_report_filename = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/daily_report_{date_str}.csv"
+        csv_report_filename = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/daily_report_{date_str}.csv"
         
         with open(csv_report_filename, 'w', newline='') as f:
             writer = csv.writer(f)

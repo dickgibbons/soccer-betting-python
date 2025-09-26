@@ -51,7 +51,7 @@ def update_all_time_picks():
     """Update the all-time picks history with latest daily picks"""
     print("\n📊 Updating all-time picks history...")
     
-    base_dir = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer"
+    base_dir = "/Users/dickgibbons/soccer-betting-python/soccer"
     all_time_file = f"{base_dir}/output reports/all_time_picks_history_fixed.csv"
     
     # Get today's date
@@ -102,7 +102,7 @@ def main():
     print(f"📅 Date: {datetime.now().strftime('%A, %Y-%m-%d')}")
     print("=" * 70)
     
-    base_dir = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer"
+    base_dir = "/Users/dickgibbons/soccer-betting-python/soccer"
     
     # Track success of each component
     results = {}

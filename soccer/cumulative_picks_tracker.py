@@ -19,7 +19,7 @@ class CumulativePicksTracker:
     
     def __init__(self, api_key: str):
         self.api_key = api_key
-        self.tracker_file = "/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/cumulative_picks_tracker.csv"
+        self.tracker_file = "/Users/dickgibbons/soccer-betting-python/soccer/output reports/cumulative_picks_tracker.csv"
         self.bet_amount = 25.0  # Standard $25 bet
         self.results_fetcher = RealResultsFetcher(api_key)
         
@@ -47,7 +47,7 @@ class CumulativePicksTracker:
     def load_daily_picks(self, date_str: str) -> pd.DataFrame:
         """Load daily picks from the daily picks CSV file"""
         
-        picks_file = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/daily_picks_{date_str}.csv"
+        picks_file = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/daily_picks_{date_str}.csv"
         
         if not os.path.exists(picks_file):
             print(f"⚠️  No picks file found for {date_str}")
@@ -282,7 +282,7 @@ class CumulativePicksTracker:
         
         # Generate report
         report_date = datetime.now().strftime('%Y%m%d')
-        report_file = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/cumulative_betting_report_{report_date}.txt"
+        report_file = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/cumulative_betting_report_{report_date}.txt"
         
         report_content = f"""📈 CUMULATIVE BETTING PERFORMANCE REPORT 📈
 ===============================================
@@ -371,7 +371,7 @@ class CumulativePicksTracker:
         
         date_str = datetime.now().strftime('%Y%m%d')
         report_filename = f"cumulative_betting_report_{date_str}.txt"
-        report_path = f"/Users/richardgibbons/Documents/AI Ideas/soccer betting python/soccer/output reports/{report_filename}"
+        report_path = f"/Users/dickgibbons/soccer-betting-python/soccer/output reports/{report_filename}"
         
         with open(report_path, 'w') as f:
             f.write("📈 CUMULATIVE BETTING PERFORMANCE REPORT 📈\n")
